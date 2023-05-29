@@ -1,4 +1,4 @@
-# **README.md** - **Kiepas_et_al_2023_16S**
+# **README.md** - **Kiepas_et_al_2023_MLST**
 
 This repository contains all supplementary information for analyses reported in Kiepas et al. (2023) descibing inconsistencies between taxonomies inferred using MLST and whole-genome identities in *Streptomyces*.
 
@@ -74,7 +74,9 @@ Please also download the following software, and follow the installation instruc
 ## **Repository Files**
 Here you can find a list of all supplementary files provided in this repository, and current set of subfolders include:
 
+*ADD txt*
+
 
 ## **Reproducing analyses** 
-The second paragraph text
+
 
