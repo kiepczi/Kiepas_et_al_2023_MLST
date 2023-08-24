@@ -10,7 +10,7 @@
 # angelika.kiepas@strath.ac.uk
 #
 # Angelika B. Kiepas
-# Strathclyde Institute of Pharmacy & Biomedical Sciences (SIPBS)
+# Strathclyde Institute of Pharmacy & Biomedical Sciences
 # University of Strathclyde
 # Glasgow
 # G4 0RE
