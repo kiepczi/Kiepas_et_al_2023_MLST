@@ -1,0 +1,2221 @@
+Physical cores: 4
+Logical cores:  8
+Memory:         32GB
+Extensions:     AVX
+
+WARNING: Partition 16S: Sequences GCF_016906245.1 and GCF_000715745.1 are identical
+WARNING: Partition 16S: Sequences GCF_016906245.1 and GCF_016906205.1 are identical
+WARNING: Partition 16S: Sequences GCF_000717645.1 and GCF_000717965.1 are identical
+WARNING: Partition 16S: Sequences GCF_000717645.1 and GCF_000718245.1 are identical
+WARNING: Partition 16S: Sequences GCF_000717645.1 and GCF_000718615.1 are identical
+WARNING: Partition 16S: Sequences GCF_000717645.1 and GCF_016906225.1 are identical
+WARNING: Partition 16S: Sequences GCF_000717645.1 and GCF_016906185.1 are identical
+WARNING: Partition 16S: Sequences GCF_000725545.1 and GCF_000718175.1 are identical
+WARNING: Partition 16S: Sequences GCF_900105705.1 and GCF_000010605.1 are identical
+WARNING: Partition 16S: Sequences GCF_900105705.1 and GCF_900460065.1 are identical
+WARNING: Partition 16S: Sequences GCF_900105705.1 and GCF_009866455.1 are identical
+WARNING: Partition 16S: Sequences GCF_008704495.1 and GCF_001418465.1 are identical
+WARNING: Partition 16S: Sequences GCF_008639165.1 and GCF_001886595.1 are identical
+WARNING: Partition 16S: Sequences GCF_000720235.1 and GCF_000966965.1 are identical
+WARNING: Partition 16S: Sequences GCF_014650935.1 and GCF_008704535.1 are identical
+WARNING: Partition 16S: Sequences GCF_000359525.1 and GCF_013693715.1 are identical
+WARNING: Partition 16S: Sequences GCF_014648615.1 and GCF_016755855.1 are identical
+WARNING: Partition 16S: Sequences GCF_014648615.1 and GCF_017639205.1 are identical
+WARNING: Partition 16S: Sequences GCF_013409565.1 and GCF_013167895.1 are identical
+WARNING: Partition 16S: Sequences GCF_002727115.1 and GCF_002939475.1 are identical
+WARNING: Partition 16S: Sequences GCF_018138715.1 and GCF_018138705.1 are identical
+WARNING: Partition 16S: Sequences GCF_002155885.1 and GCF_017942185.1 are identical
+WARNING: Partition 16S: Sequences GCF_001278075.1 and GCF_014070435.1 are identical
+WARNING: Partition 16S: Sequences GCF_014650375.1 and GCF_008704555.1 are identical
+WARNING: Partition 16S: Sequences GCF_004195935.1 and GCF_004195955.1 are identical
+WARNING: Partition 16S: Sequences GCF_004196145.1 and GCF_004196155.1 are identical
+WARNING: Partition 16S: Sequences GCF_000813365.1 and GCF_001661615.1 are identical
+WARNING: Partition 16S: Sequences GCF_000009765.2 and GCF_000764715.1 are identical
+WARNING: Partition 16S: Sequences GCF_000009765.2 and GCF_001514135.1 are identical
+WARNING: Partition 16S: Sequences GCF_000009765.2 and GCF_002017835.1 are identical
+WARNING: Partition 16S: Sequences GCF_000009765.2 and GCF_009862865.1 are identical
+WARNING: Partition 16S: Sequences GCF_000009765.2 and GCF_005406005.1 are identical
+WARNING: Partition 16S: Sequences GCF_009870085.1 and GCF_000383595.1 are identical
+WARNING: Partition 16S: Sequences GCF_009870085.1 and GCF_000340335.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_015912455.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_001693675.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_015912395.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_015767935.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_015767915.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_015767855.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_015767875.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_015912465.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_015767815.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_015767795.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_015767775.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_015767755.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_015767735.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_015708605.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_005519465.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_003454755.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_015767895.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_015912875.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_000163875.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_015912925.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_015912945.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_015912975.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_015912985.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_015912995.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_000148465.1 are identical
+WARNING: Partition 16S: Sequences GCF_015912435.1 and GCF_015912895.1 are identical
+WARNING: Partition 16S: Sequences GCF_008931305.1 and GCF_009862445.1 are identical
+WARNING: Partition 16S: Sequences GCF_008931305.1 and GCF_013307045.1 are identical
+WARNING: Partition 16S: Sequences GCF_008931305.1 and GCF_013317105.1 are identical
+WARNING: Partition 16S: Sequences GCF_008931305.1 and GCF_008124975.1 are identical
+WARNING: Partition 16S: Sequences GCF_008931305.1 and GCF_008124915.1 are identical
+WARNING: Partition 16S: Sequences GCF_008931305.1 and GCF_008124905.1 are identical
+WARNING: Partition 16S: Sequences GCF_008931305.1 and GCF_008125035.1 are identical
+WARNING: Partition 16S: Sequences GCF_008931305.1 and GCF_008124985.1 are identical
+WARNING: Partition 16S: Sequences GCF_000955965.1 and GCF_000725785.1 are identical
+WARNING: Partition 16S: Sequences GCF_000718625.1 and GCF_011820545.1 are identical
+WARNING: Partition 16S: Sequences GCF_000716875.1 and GCF_000717725.1 are identical
+WARNING: Partition 16S: Sequences GCF_001514265.1 and GCF_001270505.1 are identical
+WARNING: Partition 16S: Sequences GCF_001514265.1 and GCF_000716215.1 are identical
+WARNING: Partition 16S: Sequences GCF_000718095.1 and GCF_003073355.1 are identical
+WARNING: Partition 16S: Sequences GCF_000719255.1 and GCF_000718635.1 are identical
+WARNING: Partition 16S: Sequences GCF_000380165.1 and GCF_001445835.1 are identical
+WARNING: Partition 16S: Sequences GCF_001270515.1 and GCF_000716445.1 are identical
+WARNING: Partition 16S: Sequences GCF_900091715.1 and GCF_900095575.1 are identical
+WARNING: Partition 16S: Sequences GCF_900091715.1 and GCF_009863165.1 are identical
+WARNING: Partition 16S: Sequences GCF_900091715.1 and GCF_009862475.1 are identical
+WARNING: Partition 16S: Sequences GCF_900091715.1 and GCF_009862105.1 are identical
+WARNING: Partition 16S: Sequences GCF_900091715.1 and GCF_000382745.1 are identical
+WARNING: Partition 16S: Sequences GCF_900091715.1 and GCF_000177195.2 are identical
+WARNING: Partition 16S: Sequences GCF_900091715.1 and GCF_009865465.1 are identical
+WARNING: Partition 16S: Sequences GCF_000226455.1 and GCF_009862985.1 are identical
+WARNING: Partition 16S: Sequences GCF_000226455.1 and GCF_900236475.1 are identical
+WARNING: Partition 16S: Sequences GCF_000226455.1 and GCF_900236505.1 are identical
+WARNING: Partition 16S: Sequences GCF_000720605.1 and GCF_008704655.1 are identical
+WARNING: Partition 16S: Sequences GCF_000720605.1 and GCF_006229535.1 are identical
+WARNING: Partition 16S: Sequences GCF_000720605.1 and GCF_001507395.1 are identical
+WARNING: Partition 16S: Sequences GCF_000720605.1 and GCF_001279375.1 are identical
+WARNING: Partition 16S: Sequences GCF_000720605.1 and GCF_001279105.1 are identical
+WARNING: Partition 16S: Sequences GCF_000720605.1 and GCF_001279095.1 are identical
+WARNING: Partition 16S: Sequences GCF_000720605.1 and GCF_001279075.1 are identical
+WARNING: Partition 16S: Sequences GCF_000720605.1 and GCF_001279025.1 are identical
+WARNING: Partition 16S: Sequences GCF_000720605.1 and GCF_000707925.2 are identical
+WARNING: Partition 16S: Sequences GCF_000720605.1 and GCF_000718815.1 are identical
+WARNING: Partition 16S: Sequences GCF_000720605.1 and GCF_001279015.1 are identical
+WARNING: Partition 16S: Sequences GCF_000720605.1 and GCF_000718295.1 are identical
+WARNING: Partition 16S: Sequences GCF_000720605.1 and GCF_000717285.1 are identical
+WARNING: Partition 16S: Sequences GCF_000720605.1 and GCF_000716845.1 are identical
+WARNING: Partition 16S: Sequences GCF_000720605.1 and GCF_000721045.1 are identical
+WARNING: Partition 16S: Sequences GCF_000720605.1 and GCF_000331185.2 are identical
+WARNING: Partition 16S: Sequences GCF_000720605.1 and GCF_000718835.1 are identical
+WARNING: Partition 16S: Sequences GCF_000720605.1 and GCF_000720715.1 are identical
+WARNING: Partition 16S: Sequences GCF_000720605.1 and GCF_000718865.1 are identical
+WARNING: Partition 16S: Sequences GCF_000720605.1 and GCF_000720565.1 are identical
+WARNING: Partition 16S: Sequences GCF_000373405.1 and GCF_009872615.1 are identical
+WARNING: Partition 16S: Sequences GCF_000403765.2 and GCF_003851665.1 are identical
+WARNING: Partition 16S: Sequences GCF_009865365.1 and GCF_900091745.1 are identical
+WARNING: Partition 16S: Sequences GCF_009862115.1 and GCF_000647875.1 are identical
+WARNING: Partition 16S: Sequences GCF_002966105.1 and GCF_000700005.2 are identical
+WARNING: Partition 16S: Sequences GCF_002966105.1 and GCF_001190165.1 are identical
+WARNING: Partition 16S: Sequences GCF_002966105.1 and GCF_003122345.2 are identical
+WARNING: Partition 16S: Sequences GCF_002966105.1 and GCF_001756925.1 are identical
+WARNING: Partition 16S: Sequences GCF_000718205.1 and GCF_001270675.1 are identical
+WARNING: Partition 16S: Sequences GCF_000718205.1 and GCF_000721205.1 are identical
+WARNING: Partition 16S: Sequences GCF_000718205.1 and GCF_000719035.1 are identical
+WARNING: Partition 16S: Sequences GCF_000718205.1 and GCF_000718915.1 are identical
+WARNING: Partition 16S: Sequences GCF_000718375.1 and GCF_001279005.1 are identical
+WARNING: Partition 16S: Sequences GCF_000718525.1 and GCF_000721035.1 are identical
+WARNING: Partition 16S: Sequences GCF_000718705.1 and GCF_000719625.1 are identical
+WARNING: Partition 16S: Sequences GCF_000719185.1 and GCF_000718755.1 are identical
+WARNING: Partition 16S: Sequences GCF_000718955.1 and GCF_000720795.1 are identical
+WARNING: Partition 16S: Sequences GCF_000721945.1 and GCF_001513955.1 are identical
+WARNING: Partition 16S: Sequences GCF_001279065.1 and GCF_000725565.1 are identical
+WARNING: Partition 16S: Sequences GCF_004328625.1 and GCF_000725795.1 are identical
+WARNING: Partition 16S: Sequences GCF_001550245.1 and GCF_001005405.1 are identical
+WARNING: Partition 16S: Sequences GCF_001550245.1 and GCF_000738715.1 are identical
+WARNING: Partition 16S: Sequences GCF_014873495.1 and GCF_001008135.1 are identical
+WARNING: Partition 16S: Sequences GCF_001279445.1 and GCF_001279925.1 are identical
+WARNING: Partition 16S: Sequences GCF_001279815.1 and GCF_001279855.1 are identical
+WARNING: Partition 16S: Sequences GCF_001279815.1 and GCF_001279965.1 are identical
+WARNING: Partition 16S: Sequences GCF_001282115.1 and GCF_002156095.1 are identical
+WARNING: Partition 16S: Sequences GCF_001426325.1 and GCF_001427565.1 are identical
+WARNING: Partition 16S: Sequences GCF_001431765.1 and GCF_009846825.1 are identical
+WARNING: Partition 16S: Sequences GCF_001509795.1 and GCF_001509785.1 are identical
+WARNING: Partition 16S: Sequences GCF_017968935.1 and GCF_017969045.1 are identical
+WARNING: Partition 16S: Sequences GCF_017968935.1 and GCF_017933255.1 are identical
+WARNING: Partition 16S: Sequences GCF_017968935.1 and GCF_017968905.1 are identical
+WARNING: Partition 16S: Sequences GCF_017968935.1 and GCF_017933115.1 are identical
+WARNING: Partition 16S: Sequences GCF_003584815.1 and GCF_001550225.1 are identical
+WARNING: Partition 16S: Sequences GCF_002943895.1 and GCF_001592685.1 are identical
+WARNING: Partition 16S: Sequences GCF_001640565.1 and GCF_001650215.1 are identical
+WARNING: Partition 16S: Sequences GCF_003344445.1 and GCF_001685355.1 are identical
+WARNING: Partition 16S: Sequences GCF_003344445.1 and GCF_014083905.1 are identical
+WARNING: Partition 16S: Sequences GCF_014495705.1 and GCF_001905485.1 are identical
+WARNING: Partition 16S: Sequences GCF_002289335.1 and GCF_002317025.1 are identical
+WARNING: Partition 16S: Sequences GCF_002551015.1 and GCF_002551055.1 are identical
+WARNING: Partition 16S: Sequences GCF_900090065.1 and GCF_009863235.1 are identical
+WARNING: Partition 16S: Sequences GCF_900090065.1 and GCF_002705695.1 are identical
+WARNING: Partition 16S: Sequences GCF_900102245.1 and GCF_900105235.1 are identical
+WARNING: Partition 16S: Sequences GCF_900102245.1 and GCF_900187385.1 are identical
+WARNING: Partition 16S: Sequences GCF_900105245.1 and GCF_002846455.1 are identical
+WARNING: Partition 16S: Sequences GCF_002910795.1 and GCF_002910815.1 are identical
+WARNING: Partition 16S: Sequences GCF_002910985.1 and GCF_002910935.1 are identical
+WARNING: Partition 16S: Sequences GCF_014205315.1 and GCF_003675955.1 are identical
+WARNING: Partition 16S: Sequences GCF_004125275.1 and GCF_003994375.1 are identical
+WARNING: Partition 16S: Sequences GCF_006788935.1 and GCF_014649215.1 are identical
+WARNING: Partition 16S: Sequences GCF_008632535.1 and GCF_014648875.1 are identical
+WARNING: Partition 16S: Sequences GCF_008704715.1 and GCF_014650315.1 are identical
+WARNING: Partition 16S: Sequences GCF_008704995.1 and GCF_014205035.1 are identical
+WARNING: Partition 16S: Sequences GCF_008704995.1 and GCF_017352335.1 are identical
+WARNING: Partition 16S: Sequences GCF_009299385.1 and GCF_011758705.1 are identical
+WARNING: Partition 16S: Sequences GCF_009299385.1 and GCF_014197485.1 are identical
+WARNING: Partition 16S: Sequences GCF_009811575.1 and GCF_014656235.1 are identical
+WARNING: Partition 16S: Sequences GCF_900091985.1 and GCF_009862025.1 are identical
+WARNING: Partition 16S: Sequences GCF_900091765.1 and GCF_009862465.1 are identical
+WARNING: Partition 16S: Sequences GCF_009863125.1 and GCF_900091725.1 are identical
+WARNING: Partition 16S: Sequences GCF_009863145.1 and GCF_900091775.1 are identical
+WARNING: Partition 16S: Sequences GCF_009864905.1 and GCF_900187925.1 are identical
+WARNING: Partition 16S: Sequences GCF_017979945.1 and GCF_010523235.1 are identical
+WARNING: Partition 16S: Sequences GCF_010548705.1 and GCF_010550525.1 are identical
+WARNING: Partition 16S: Sequences GCF_011170125.1 and GCF_014648935.1 are identical
+WARNING: Partition 16S: Sequences GCF_012927245.1 and GCF_012927225.1 are identical
+WARNING: Partition 16S: Sequences GCF_013363665.1 and GCF_013363455.1 are identical
+WARNING: Partition 16S: Sequences GCF_014138735.1 and GCF_014649315.1 are identical
+WARNING: Partition 16S: Sequences GCF_014650615.1 and GCF_014203495.1 are identical
+WARNING: Partition 16S: Sequences GCF_014203535.1 and GCF_014649635.1 are identical
+WARNING: Partition 16S: Sequences GCF_016654065.1 and GCF_016612645.1 are identical
+WARNING: Partition 16S: Sequences GCF_016654065.1 and GCF_016612575.1 are identical
+WARNING: Partition 16S: Sequences GCF_016612775.1 and GCF_016612725.1 are identical
+WARNING: Partition 16S: Sequences GCF_016612775.1 and GCF_016612705.1 are identical
+WARNING: Partition 16S: Sequences GCF_016613335.1 and GCF_016613285.1 are identical
+WARNING: Partition 16S: Sequences GCF_017933235.1 and GCF_017968965.1 are identical
+WARNING: Partition 16S: Sequences GCF_018070175.1 and GCF_018070265.1 are identical
+WARNING: Partition 16S: Sequences GCF_018614185.1 and GCF_018614355.1 are identical
+WARNING: Partition 16S: Sequences GCF_018619195.1 and GCF_018619165.1 are identical
+WARNING: Partition 16S: Sequences GCF_018619195.1 and GCF_018619235.1 are identical
+WARNING: Partition atpD: Sequences GCF_016906245.1 and GCF_000715745.1 are identical
+WARNING: Partition atpD: Sequences GCF_016906245.1 and GCF_016906205.1 are identical
+WARNING: Partition atpD: Sequences GCF_000717645.1 and GCF_000717965.1 are identical
+WARNING: Partition atpD: Sequences GCF_000717645.1 and GCF_000718245.1 are identical
+WARNING: Partition atpD: Sequences GCF_000717645.1 and GCF_000718615.1 are identical
+WARNING: Partition atpD: Sequences GCF_000717645.1 and GCF_016906225.1 are identical
+WARNING: Partition atpD: Sequences GCF_000717645.1 and GCF_016906185.1 are identical
+WARNING: Partition atpD: Sequences GCF_000725545.1 and GCF_000718175.1 are identical
+WARNING: Partition atpD: Sequences GCF_900105705.1 and GCF_000010605.1 are identical
+WARNING: Partition atpD: Sequences GCF_900105705.1 and GCF_900460065.1 are identical
+WARNING: Partition atpD: Sequences GCF_900105705.1 and GCF_009866455.1 are identical
+WARNING: Partition atpD: Sequences GCF_008704495.1 and GCF_001418465.1 are identical
+WARNING: Partition atpD: Sequences GCF_008639165.1 and GCF_001886595.1 are identical
+WARNING: Partition atpD: Sequences GCF_008639165.1 and GCF_000253235.1 are identical
+WARNING: Partition atpD: Sequences GCF_000720235.1 and GCF_000966965.1 are identical
+WARNING: Partition atpD: Sequences GCF_014650935.1 and GCF_008704535.1 are identical
+WARNING: Partition atpD: Sequences GCF_000359525.1 and GCF_013693715.1 are identical
+WARNING: Partition atpD: Sequences GCF_014648615.1 and GCF_016755855.1 are identical
+WARNING: Partition atpD: Sequences GCF_014648615.1 and GCF_017639205.1 are identical
+WARNING: Partition atpD: Sequences GCF_013409565.1 and GCF_013167895.1 are identical
+WARNING: Partition atpD: Sequences GCF_002727115.1 and GCF_002939475.1 are identical
+WARNING: Partition atpD: Sequences GCF_018138715.1 and GCF_018138705.1 are identical
+WARNING: Partition atpD: Sequences GCF_002155885.1 and GCF_017942185.1 are identical
+WARNING: Partition atpD: Sequences GCF_001278075.1 and GCF_014070435.1 are identical
+WARNING: Partition atpD: Sequences GCF_014650375.1 and GCF_008704555.1 are identical
+WARNING: Partition atpD: Sequences GCF_004195935.1 and GCF_004195955.1 are identical
+WARNING: Partition atpD: Sequences GCF_004196145.1 and GCF_004196155.1 are identical
+WARNING: Partition atpD: Sequences GCF_000813365.1 and GCF_001661615.1 are identical
+WARNING: Partition atpD: Sequences GCF_000009765.2 and GCF_000764715.1 are identical
+WARNING: Partition atpD: Sequences GCF_000009765.2 and GCF_001514135.1 are identical
+WARNING: Partition atpD: Sequences GCF_000009765.2 and GCF_002017835.1 are identical
+WARNING: Partition atpD: Sequences GCF_000009765.2 and GCF_009862865.1 are identical
+WARNING: Partition atpD: Sequences GCF_000009765.2 and GCF_005406005.1 are identical
+WARNING: Partition atpD: Sequences GCF_009870085.1 and GCF_000383595.1 are identical
+WARNING: Partition atpD: Sequences GCF_009870085.1 and GCF_000340335.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_015912455.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_001693675.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_015912395.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_015767935.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_015767915.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_015767855.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_015767875.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_015912465.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_015767815.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_015767795.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_015767775.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_015767755.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_015767735.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_015708605.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_005519465.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_003454755.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_015767895.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_015912875.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_000163875.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_015912925.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_015912945.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_015912975.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_015912985.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_015912995.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_000148465.1 are identical
+WARNING: Partition atpD: Sequences GCF_015912435.1 and GCF_015912895.1 are identical
+WARNING: Partition atpD: Sequences GCF_008931305.1 and GCF_009862445.1 are identical
+WARNING: Partition atpD: Sequences GCF_008931305.1 and GCF_013307045.1 are identical
+WARNING: Partition atpD: Sequences GCF_008931305.1 and GCF_013317105.1 are identical
+WARNING: Partition atpD: Sequences GCF_008931305.1 and GCF_008124975.1 are identical
+WARNING: Partition atpD: Sequences GCF_008931305.1 and GCF_008124915.1 are identical
+WARNING: Partition atpD: Sequences GCF_008931305.1 and GCF_008124905.1 are identical
+WARNING: Partition atpD: Sequences GCF_008931305.1 and GCF_008125035.1 are identical
+WARNING: Partition atpD: Sequences GCF_008931305.1 and GCF_008124985.1 are identical
+WARNING: Partition atpD: Sequences GCF_000955965.1 and GCF_000725785.1 are identical
+WARNING: Partition atpD: Sequences GCF_000718625.1 and GCF_011820545.1 are identical
+WARNING: Partition atpD: Sequences GCF_000819545.1 and GCF_008704995.1 are identical
+WARNING: Partition atpD: Sequences GCF_000819545.1 and GCF_014205035.1 are identical
+WARNING: Partition atpD: Sequences GCF_000819545.1 and GCF_017352335.1 are identical
+WARNING: Partition atpD: Sequences GCF_000716875.1 and GCF_000717725.1 are identical
+WARNING: Partition atpD: Sequences GCF_001514265.1 and GCF_001270505.1 are identical
+WARNING: Partition atpD: Sequences GCF_001514265.1 and GCF_000716215.1 are identical
+WARNING: Partition atpD: Sequences GCF_000718095.1 and GCF_003073355.1 are identical
+WARNING: Partition atpD: Sequences GCF_000719255.1 and GCF_000718635.1 are identical
+WARNING: Partition atpD: Sequences GCF_000380165.1 and GCF_001445835.1 are identical
+WARNING: Partition atpD: Sequences GCF_001270515.1 and GCF_000716445.1 are identical
+WARNING: Partition atpD: Sequences GCF_900091715.1 and GCF_900095575.1 are identical
+WARNING: Partition atpD: Sequences GCF_900091715.1 and GCF_009863165.1 are identical
+WARNING: Partition atpD: Sequences GCF_900091715.1 and GCF_009862475.1 are identical
+WARNING: Partition atpD: Sequences GCF_900091715.1 and GCF_009862105.1 are identical
+WARNING: Partition atpD: Sequences GCF_900091715.1 and GCF_000382745.1 are identical
+WARNING: Partition atpD: Sequences GCF_900091715.1 and GCF_000177195.2 are identical
+WARNING: Partition atpD: Sequences GCF_900091715.1 and GCF_009865465.1 are identical
+WARNING: Partition atpD: Sequences GCF_000226455.1 and GCF_009862985.1 are identical
+WARNING: Partition atpD: Sequences GCF_000226455.1 and GCF_900236475.1 are identical
+WARNING: Partition atpD: Sequences GCF_000226455.1 and GCF_900236505.1 are identical
+WARNING: Partition atpD: Sequences GCF_000720605.1 and GCF_008704655.1 are identical
+WARNING: Partition atpD: Sequences GCF_000720605.1 and GCF_006229535.1 are identical
+WARNING: Partition atpD: Sequences GCF_000720605.1 and GCF_001507395.1 are identical
+WARNING: Partition atpD: Sequences GCF_000720605.1 and GCF_001279375.1 are identical
+WARNING: Partition atpD: Sequences GCF_000720605.1 and GCF_001279105.1 are identical
+WARNING: Partition atpD: Sequences GCF_000720605.1 and GCF_001279095.1 are identical
+WARNING: Partition atpD: Sequences GCF_000720605.1 and GCF_001279075.1 are identical
+WARNING: Partition atpD: Sequences GCF_000720605.1 and GCF_001279025.1 are identical
+WARNING: Partition atpD: Sequences GCF_000720605.1 and GCF_000707925.2 are identical
+WARNING: Partition atpD: Sequences GCF_000720605.1 and GCF_000718815.1 are identical
+WARNING: Partition atpD: Sequences GCF_000720605.1 and GCF_001279015.1 are identical
+WARNING: Partition atpD: Sequences GCF_000720605.1 and GCF_000718295.1 are identical
+WARNING: Partition atpD: Sequences GCF_000720605.1 and GCF_000717285.1 are identical
+WARNING: Partition atpD: Sequences GCF_000720605.1 and GCF_000716845.1 are identical
+WARNING: Partition atpD: Sequences GCF_000720605.1 and GCF_000721045.1 are identical
+WARNING: Partition atpD: Sequences GCF_000720605.1 and GCF_000331185.2 are identical
+WARNING: Partition atpD: Sequences GCF_000720605.1 and GCF_000718835.1 are identical
+WARNING: Partition atpD: Sequences GCF_000720605.1 and GCF_000720715.1 are identical
+WARNING: Partition atpD: Sequences GCF_000720605.1 and GCF_000718865.1 are identical
+WARNING: Partition atpD: Sequences GCF_000720605.1 and GCF_000720565.1 are identical
+WARNING: Partition atpD: Sequences GCF_000373405.1 and GCF_009872615.1 are identical
+WARNING: Partition atpD: Sequences GCF_000403765.2 and GCF_003851665.1 are identical
+WARNING: Partition atpD: Sequences GCF_009865365.1 and GCF_900091745.1 are identical
+WARNING: Partition atpD: Sequences GCF_009862115.1 and GCF_000647875.1 are identical
+WARNING: Partition atpD: Sequences GCF_002966105.1 and GCF_000700005.2 are identical
+WARNING: Partition atpD: Sequences GCF_002966105.1 and GCF_001190165.1 are identical
+WARNING: Partition atpD: Sequences GCF_002966105.1 and GCF_003122345.2 are identical
+WARNING: Partition atpD: Sequences GCF_002966105.1 and GCF_001756925.1 are identical
+WARNING: Partition atpD: Sequences GCF_000718205.1 and GCF_001270675.1 are identical
+WARNING: Partition atpD: Sequences GCF_000718205.1 and GCF_000721205.1 are identical
+WARNING: Partition atpD: Sequences GCF_000718205.1 and GCF_000719035.1 are identical
+WARNING: Partition atpD: Sequences GCF_000718205.1 and GCF_000718915.1 are identical
+WARNING: Partition atpD: Sequences GCF_000718375.1 and GCF_001279005.1 are identical
+WARNING: Partition atpD: Sequences GCF_000718525.1 and GCF_000721035.1 are identical
+WARNING: Partition atpD: Sequences GCF_000718705.1 and GCF_000719625.1 are identical
+WARNING: Partition atpD: Sequences GCF_000719185.1 and GCF_000718755.1 are identical
+WARNING: Partition atpD: Sequences GCF_000718955.1 and GCF_000720795.1 are identical
+WARNING: Partition atpD: Sequences GCF_000721945.1 and GCF_001513955.1 are identical
+WARNING: Partition atpD: Sequences GCF_001279065.1 and GCF_000725565.1 are identical
+WARNING: Partition atpD: Sequences GCF_004328625.1 and GCF_000725795.1 are identical
+WARNING: Partition atpD: Sequences GCF_001550245.1 and GCF_001005405.1 are identical
+WARNING: Partition atpD: Sequences GCF_001550245.1 and GCF_000738715.1 are identical
+WARNING: Partition atpD: Sequences GCF_014873495.1 and GCF_001008135.1 are identical
+WARNING: Partition atpD: Sequences GCF_001279445.1 and GCF_001279925.1 are identical
+WARNING: Partition atpD: Sequences GCF_001279815.1 and GCF_001279855.1 are identical
+WARNING: Partition atpD: Sequences GCF_001279815.1 and GCF_001279965.1 are identical
+WARNING: Partition atpD: Sequences GCF_001282115.1 and GCF_002156095.1 are identical
+WARNING: Partition atpD: Sequences GCF_001426325.1 and GCF_001427565.1 are identical
+WARNING: Partition atpD: Sequences GCF_001431765.1 and GCF_009846825.1 are identical
+WARNING: Partition atpD: Sequences GCF_001509795.1 and GCF_001509785.1 are identical
+WARNING: Partition atpD: Sequences GCF_017968935.1 and GCF_017969045.1 are identical
+WARNING: Partition atpD: Sequences GCF_017968935.1 and GCF_017933255.1 are identical
+WARNING: Partition atpD: Sequences GCF_017968935.1 and GCF_017968905.1 are identical
+WARNING: Partition atpD: Sequences GCF_017968935.1 and GCF_017933115.1 are identical
+WARNING: Partition atpD: Sequences GCF_003584815.1 and GCF_001550225.1 are identical
+WARNING: Partition atpD: Sequences GCF_002943895.1 and GCF_001592685.1 are identical
+WARNING: Partition atpD: Sequences GCF_001640565.1 and GCF_001650215.1 are identical
+WARNING: Partition atpD: Sequences GCF_003344445.1 and GCF_001685355.1 are identical
+WARNING: Partition atpD: Sequences GCF_003344445.1 and GCF_014083905.1 are identical
+WARNING: Partition atpD: Sequences GCF_014495705.1 and GCF_001905485.1 are identical
+WARNING: Partition atpD: Sequences GCF_002289335.1 and GCF_002317025.1 are identical
+WARNING: Partition atpD: Sequences GCF_002551015.1 and GCF_002551055.1 are identical
+WARNING: Partition atpD: Sequences GCF_900090065.1 and GCF_009863235.1 are identical
+WARNING: Partition atpD: Sequences GCF_900090065.1 and GCF_002705695.1 are identical
+WARNING: Partition atpD: Sequences GCF_900102245.1 and GCF_900105235.1 are identical
+WARNING: Partition atpD: Sequences GCF_900102245.1 and GCF_900187385.1 are identical
+WARNING: Partition atpD: Sequences GCF_900105245.1 and GCF_002846455.1 are identical
+WARNING: Partition atpD: Sequences GCF_002910795.1 and GCF_002910815.1 are identical
+WARNING: Partition atpD: Sequences GCF_002910985.1 and GCF_002910935.1 are identical
+WARNING: Partition atpD: Sequences GCF_014205315.1 and GCF_003675955.1 are identical
+WARNING: Partition atpD: Sequences GCF_004125275.1 and GCF_003994375.1 are identical
+WARNING: Partition atpD: Sequences GCF_006788935.1 and GCF_014649215.1 are identical
+WARNING: Partition atpD: Sequences GCF_008632535.1 and GCF_014648875.1 are identical
+WARNING: Partition atpD: Sequences GCF_008704715.1 and GCF_014650315.1 are identical
+WARNING: Partition atpD: Sequences GCF_009299385.1 and GCF_011758705.1 are identical
+WARNING: Partition atpD: Sequences GCF_009299385.1 and GCF_014197485.1 are identical
+WARNING: Partition atpD: Sequences GCF_009811575.1 and GCF_014656235.1 are identical
+WARNING: Partition atpD: Sequences GCF_900091985.1 and GCF_009862025.1 are identical
+WARNING: Partition atpD: Sequences GCF_900091765.1 and GCF_009862465.1 are identical
+WARNING: Partition atpD: Sequences GCF_009863125.1 and GCF_900091725.1 are identical
+WARNING: Partition atpD: Sequences GCF_009863145.1 and GCF_900091775.1 are identical
+WARNING: Partition atpD: Sequences GCF_009864905.1 and GCF_900187925.1 are identical
+WARNING: Partition atpD: Sequences GCF_017979945.1 and GCF_010523235.1 are identical
+WARNING: Partition atpD: Sequences GCF_010548465.1 and GCF_010550365.1 are identical
+WARNING: Partition atpD: Sequences GCF_010548705.1 and GCF_010550525.1 are identical
+WARNING: Partition atpD: Sequences GCF_011170125.1 and GCF_014648935.1 are identical
+WARNING: Partition atpD: Sequences GCF_012927245.1 and GCF_012927225.1 are identical
+WARNING: Partition atpD: Sequences GCF_013363665.1 and GCF_013363455.1 are identical
+WARNING: Partition atpD: Sequences GCF_014138735.1 and GCF_014649315.1 are identical
+WARNING: Partition atpD: Sequences GCF_014650615.1 and GCF_014203495.1 are identical
+WARNING: Partition atpD: Sequences GCF_014203535.1 and GCF_014649635.1 are identical
+WARNING: Partition atpD: Sequences GCF_016654065.1 and GCF_016612645.1 are identical
+WARNING: Partition atpD: Sequences GCF_016654065.1 and GCF_016612575.1 are identical
+WARNING: Partition atpD: Sequences GCF_016612775.1 and GCF_016612725.1 are identical
+WARNING: Partition atpD: Sequences GCF_016612775.1 and GCF_016612705.1 are identical
+WARNING: Partition atpD: Sequences GCF_016613335.1 and GCF_016613285.1 are identical
+WARNING: Partition atpD: Sequences GCF_017933235.1 and GCF_017968965.1 are identical
+WARNING: Partition atpD: Sequences GCF_018070175.1 and GCF_018070265.1 are identical
+WARNING: Partition atpD: Sequences GCF_018614185.1 and GCF_018614355.1 are identical
+WARNING: Partition atpD: Sequences GCF_018619195.1 and GCF_018619165.1 are identical
+WARNING: Partition atpD: Sequences GCF_018619195.1 and GCF_018619235.1 are identical
+WARNING: Partition gyrB: Sequences GCF_016906245.1 and GCF_000715745.1 are identical
+WARNING: Partition gyrB: Sequences GCF_016906245.1 and GCF_016906205.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000717645.1 and GCF_000717965.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000717645.1 and GCF_000718245.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000717645.1 and GCF_000718615.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000717645.1 and GCF_016906225.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000717645.1 and GCF_016906185.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000725545.1 and GCF_000718175.1 are identical
+WARNING: Partition gyrB: Sequences GCF_900105705.1 and GCF_000010605.1 are identical
+WARNING: Partition gyrB: Sequences GCF_900105705.1 and GCF_900460065.1 are identical
+WARNING: Partition gyrB: Sequences GCF_900105705.1 and GCF_009866455.1 are identical
+WARNING: Partition gyrB: Sequences GCF_008704495.1 and GCF_001418465.1 are identical
+WARNING: Partition gyrB: Sequences GCF_008639165.1 and GCF_001886595.1 are identical
+WARNING: Partition gyrB: Sequences GCF_008639165.1 and GCF_000253235.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000720235.1 and GCF_000966965.1 are identical
+WARNING: Partition gyrB: Sequences GCF_014650935.1 and GCF_008704535.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000359525.1 and GCF_013693715.1 are identical
+WARNING: Partition gyrB: Sequences GCF_014648615.1 and GCF_016755855.1 are identical
+WARNING: Partition gyrB: Sequences GCF_014648615.1 and GCF_017639205.1 are identical
+WARNING: Partition gyrB: Sequences GCF_013409565.1 and GCF_013167895.1 are identical
+WARNING: Partition gyrB: Sequences GCF_002727115.1 and GCF_002939475.1 are identical
+WARNING: Partition gyrB: Sequences GCF_018138715.1 and GCF_018138705.1 are identical
+WARNING: Partition gyrB: Sequences GCF_002155885.1 and GCF_017942185.1 are identical
+WARNING: Partition gyrB: Sequences GCF_001278075.1 and GCF_014070435.1 are identical
+WARNING: Partition gyrB: Sequences GCF_014650375.1 and GCF_008704555.1 are identical
+WARNING: Partition gyrB: Sequences GCF_004195935.1 and GCF_004195955.1 are identical
+WARNING: Partition gyrB: Sequences GCF_004196145.1 and GCF_004196155.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000813365.1 and GCF_001661615.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000009765.2 and GCF_000764715.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000009765.2 and GCF_001514135.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000009765.2 and GCF_002017835.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000009765.2 and GCF_009862865.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000009765.2 and GCF_005406005.1 are identical
+WARNING: Partition gyrB: Sequences GCF_009870085.1 and GCF_000383595.1 are identical
+WARNING: Partition gyrB: Sequences GCF_009870085.1 and GCF_000340335.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_015912455.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_001693675.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_015912395.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_015767935.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_015767915.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_015767855.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_015767875.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_015912465.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_015767815.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_015767795.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_015767775.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_015767755.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_015767735.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_015708605.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_005519465.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_003454755.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_015767895.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_015912875.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_000163875.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_015912925.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_015912945.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_015912975.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_015912985.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_015912995.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_000148465.1 are identical
+WARNING: Partition gyrB: Sequences GCF_015912435.1 and GCF_015912895.1 are identical
+WARNING: Partition gyrB: Sequences GCF_008931305.1 and GCF_009862445.1 are identical
+WARNING: Partition gyrB: Sequences GCF_008931305.1 and GCF_013307045.1 are identical
+WARNING: Partition gyrB: Sequences GCF_008931305.1 and GCF_013317105.1 are identical
+WARNING: Partition gyrB: Sequences GCF_008931305.1 and GCF_008124975.1 are identical
+WARNING: Partition gyrB: Sequences GCF_008931305.1 and GCF_008124915.1 are identical
+WARNING: Partition gyrB: Sequences GCF_008931305.1 and GCF_008124905.1 are identical
+WARNING: Partition gyrB: Sequences GCF_008931305.1 and GCF_008125035.1 are identical
+WARNING: Partition gyrB: Sequences GCF_008931305.1 and GCF_008124985.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000955965.1 and GCF_000725785.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000718625.1 and GCF_011820545.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000819545.1 and GCF_008704995.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000819545.1 and GCF_014205035.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000819545.1 and GCF_017352335.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000716875.1 and GCF_000717725.1 are identical
+WARNING: Partition gyrB: Sequences GCF_001514265.1 and GCF_001270505.1 are identical
+WARNING: Partition gyrB: Sequences GCF_001514265.1 and GCF_000716215.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000718095.1 and GCF_003073355.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000719255.1 and GCF_000718635.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000380165.1 and GCF_001445835.1 are identical
+WARNING: Partition gyrB: Sequences GCF_001270515.1 and GCF_000716445.1 are identical
+WARNING: Partition gyrB: Sequences GCF_900091715.1 and GCF_900095575.1 are identical
+WARNING: Partition gyrB: Sequences GCF_900091715.1 and GCF_009863165.1 are identical
+WARNING: Partition gyrB: Sequences GCF_900091715.1 and GCF_009862475.1 are identical
+WARNING: Partition gyrB: Sequences GCF_900091715.1 and GCF_009862105.1 are identical
+WARNING: Partition gyrB: Sequences GCF_900091715.1 and GCF_000382745.1 are identical
+WARNING: Partition gyrB: Sequences GCF_900091715.1 and GCF_000177195.2 are identical
+WARNING: Partition gyrB: Sequences GCF_900091715.1 and GCF_009865465.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000226455.1 and GCF_009862985.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000226455.1 and GCF_900236475.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000226455.1 and GCF_900236505.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000720605.1 and GCF_008704655.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000720605.1 and GCF_006229535.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000720605.1 and GCF_001507395.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000720605.1 and GCF_001279375.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000720605.1 and GCF_001279105.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000720605.1 and GCF_001279095.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000720605.1 and GCF_001279075.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000720605.1 and GCF_001279025.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000720605.1 and GCF_000707925.2 are identical
+WARNING: Partition gyrB: Sequences GCF_000720605.1 and GCF_000718815.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000720605.1 and GCF_001279015.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000720605.1 and GCF_000718295.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000720605.1 and GCF_000717285.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000720605.1 and GCF_000716845.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000720605.1 and GCF_000721045.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000720605.1 and GCF_000331185.2 are identical
+WARNING: Partition gyrB: Sequences GCF_000720605.1 and GCF_000718835.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000720605.1 and GCF_000720715.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000720605.1 and GCF_000718865.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000720605.1 and GCF_000720565.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000373405.1 and GCF_009872615.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000403765.2 and GCF_003851665.1 are identical
+WARNING: Partition gyrB: Sequences GCF_009865365.1 and GCF_900091745.1 are identical
+WARNING: Partition gyrB: Sequences GCF_009862115.1 and GCF_000647875.1 are identical
+WARNING: Partition gyrB: Sequences GCF_002966105.1 and GCF_000700005.2 are identical
+WARNING: Partition gyrB: Sequences GCF_002966105.1 and GCF_001190165.1 are identical
+WARNING: Partition gyrB: Sequences GCF_002966105.1 and GCF_003122345.2 are identical
+WARNING: Partition gyrB: Sequences GCF_002966105.1 and GCF_001756925.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000718205.1 and GCF_001270675.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000718205.1 and GCF_000721205.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000718205.1 and GCF_000719035.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000718205.1 and GCF_000718915.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000718375.1 and GCF_001279005.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000718525.1 and GCF_000721035.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000718705.1 and GCF_000719625.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000718705.1 and GCF_017876235.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000719185.1 and GCF_000718755.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000718955.1 and GCF_000720795.1 are identical
+WARNING: Partition gyrB: Sequences GCF_000721945.1 and GCF_001513955.1 are identical
+WARNING: Partition gyrB: Sequences GCF_001279065.1 and GCF_000725565.1 are identical
+WARNING: Partition gyrB: Sequences GCF_004328625.1 and GCF_000725795.1 are identical
+WARNING: Partition gyrB: Sequences GCF_001550245.1 and GCF_001005405.1 are identical
+WARNING: Partition gyrB: Sequences GCF_001550245.1 and GCF_000738715.1 are identical
+WARNING: Partition gyrB: Sequences GCF_014873495.1 and GCF_001008135.1 are identical
+WARNING: Partition gyrB: Sequences GCF_001279445.1 and GCF_001279485.1 are identical
+WARNING: Partition gyrB: Sequences GCF_001279445.1 and GCF_001279925.1 are identical
+WARNING: Partition gyrB: Sequences GCF_001279845.1 and GCF_014217585.1 are identical
+WARNING: Partition gyrB: Sequences GCF_001279815.1 and GCF_001279855.1 are identical
+WARNING: Partition gyrB: Sequences GCF_001279815.1 and GCF_001279965.1 are identical
+WARNING: Partition gyrB: Sequences GCF_001282115.1 and GCF_002156095.1 are identical
+WARNING: Partition gyrB: Sequences GCF_001426325.1 and GCF_001427565.1 are identical
+WARNING: Partition gyrB: Sequences GCF_001431765.1 and GCF_009846825.1 are identical
+WARNING: Partition gyrB: Sequences GCF_001509795.1 and GCF_001509785.1 are identical
+WARNING: Partition gyrB: Sequences GCF_017968935.1 and GCF_017969045.1 are identical
+WARNING: Partition gyrB: Sequences GCF_017968935.1 and GCF_017933255.1 are identical
+WARNING: Partition gyrB: Sequences GCF_017968935.1 and GCF_017968905.1 are identical
+WARNING: Partition gyrB: Sequences GCF_017968935.1 and GCF_017933115.1 are identical
+WARNING: Partition gyrB: Sequences GCF_003584815.1 and GCF_001550225.1 are identical
+WARNING: Partition gyrB: Sequences GCF_002943895.1 and GCF_001592685.1 are identical
+WARNING: Partition gyrB: Sequences GCF_001640565.1 and GCF_001650215.1 are identical
+WARNING: Partition gyrB: Sequences GCF_003344445.1 and GCF_001685355.1 are identical
+WARNING: Partition gyrB: Sequences GCF_003344445.1 and GCF_014083905.1 are identical
+WARNING: Partition gyrB: Sequences GCF_014495705.1 and GCF_001905485.1 are identical
+WARNING: Partition gyrB: Sequences GCF_002289335.1 and GCF_002317025.1 are identical
+WARNING: Partition gyrB: Sequences GCF_002551015.1 and GCF_002551055.1 are identical
+WARNING: Partition gyrB: Sequences GCF_900090065.1 and GCF_009863235.1 are identical
+WARNING: Partition gyrB: Sequences GCF_900090065.1 and GCF_002705695.1 are identical
+WARNING: Partition gyrB: Sequences GCF_900102245.1 and GCF_900105235.1 are identical
+WARNING: Partition gyrB: Sequences GCF_900102245.1 and GCF_900187385.1 are identical
+WARNING: Partition gyrB: Sequences GCF_900105245.1 and GCF_002846455.1 are identical
+WARNING: Partition gyrB: Sequences GCF_002910795.1 and GCF_002910815.1 are identical
+WARNING: Partition gyrB: Sequences GCF_002910985.1 and GCF_002910935.1 are identical
+WARNING: Partition gyrB: Sequences GCF_014205315.1 and GCF_003675955.1 are identical
+WARNING: Partition gyrB: Sequences GCF_004125275.1 and GCF_003994375.1 are identical
+WARNING: Partition gyrB: Sequences GCF_006788935.1 and GCF_014649215.1 are identical
+WARNING: Partition gyrB: Sequences GCF_008632535.1 and GCF_014648875.1 are identical
+WARNING: Partition gyrB: Sequences GCF_008704715.1 and GCF_014650315.1 are identical
+WARNING: Partition gyrB: Sequences GCF_009299385.1 and GCF_011758705.1 are identical
+WARNING: Partition gyrB: Sequences GCF_009299385.1 and GCF_014197485.1 are identical
+WARNING: Partition gyrB: Sequences GCF_009811575.1 and GCF_014656235.1 are identical
+WARNING: Partition gyrB: Sequences GCF_900091985.1 and GCF_009862025.1 are identical
+WARNING: Partition gyrB: Sequences GCF_900091765.1 and GCF_009862465.1 are identical
+WARNING: Partition gyrB: Sequences GCF_009863125.1 and GCF_900091725.1 are identical
+WARNING: Partition gyrB: Sequences GCF_009863145.1 and GCF_900091775.1 are identical
+WARNING: Partition gyrB: Sequences GCF_009864905.1 and GCF_900187925.1 are identical
+WARNING: Partition gyrB: Sequences GCF_017979945.1 and GCF_010523235.1 are identical
+WARNING: Partition gyrB: Sequences GCF_010548465.1 and GCF_010550365.1 are identical
+WARNING: Partition gyrB: Sequences GCF_010548705.1 and GCF_010550525.1 are identical
+WARNING: Partition gyrB: Sequences GCF_011170125.1 and GCF_014648935.1 are identical
+WARNING: Partition gyrB: Sequences GCF_012927245.1 and GCF_012927225.1 are identical
+WARNING: Partition gyrB: Sequences GCF_013363665.1 and GCF_013363455.1 are identical
+WARNING: Partition gyrB: Sequences GCF_014138735.1 and GCF_014649315.1 are identical
+WARNING: Partition gyrB: Sequences GCF_014650615.1 and GCF_014203495.1 are identical
+WARNING: Partition gyrB: Sequences GCF_014203535.1 and GCF_014649635.1 are identical
+WARNING: Partition gyrB: Sequences GCF_016654065.1 and GCF_016612645.1 are identical
+WARNING: Partition gyrB: Sequences GCF_016654065.1 and GCF_016612575.1 are identical
+WARNING: Partition gyrB: Sequences GCF_016612775.1 and GCF_016612725.1 are identical
+WARNING: Partition gyrB: Sequences GCF_016612775.1 and GCF_016612705.1 are identical
+WARNING: Partition gyrB: Sequences GCF_016613335.1 and GCF_016613285.1 are identical
+WARNING: Partition gyrB: Sequences GCF_017933235.1 and GCF_017968965.1 are identical
+WARNING: Partition gyrB: Sequences GCF_018070175.1 and GCF_018070265.1 are identical
+WARNING: Partition gyrB: Sequences GCF_018614185.1 and GCF_018614355.1 are identical
+WARNING: Partition gyrB: Sequences GCF_018619195.1 and GCF_018619165.1 are identical
+WARNING: Partition gyrB: Sequences GCF_018619195.1 and GCF_018619235.1 are identical
+WARNING: Partition recA: Sequences GCF_016906245.1 and GCF_000715745.1 are identical
+WARNING: Partition recA: Sequences GCF_016906245.1 and GCF_000717645.1 are identical
+WARNING: Partition recA: Sequences GCF_016906245.1 and GCF_000717965.1 are identical
+WARNING: Partition recA: Sequences GCF_016906245.1 and GCF_000718245.1 are identical
+WARNING: Partition recA: Sequences GCF_016906245.1 and GCF_000718615.1 are identical
+WARNING: Partition recA: Sequences GCF_016906245.1 and GCF_016906225.1 are identical
+WARNING: Partition recA: Sequences GCF_016906245.1 and GCF_016906205.1 are identical
+WARNING: Partition recA: Sequences GCF_016906245.1 and GCF_016906185.1 are identical
+WARNING: Partition recA: Sequences GCF_000725545.1 and GCF_000718175.1 are identical
+WARNING: Partition recA: Sequences GCF_900105705.1 and GCF_001723115.1 are identical
+WARNING: Partition recA: Sequences GCF_900105705.1 and GCF_000010605.1 are identical
+WARNING: Partition recA: Sequences GCF_900105705.1 and GCF_900460065.1 are identical
+WARNING: Partition recA: Sequences GCF_900105705.1 and GCF_009866455.1 are identical
+WARNING: Partition recA: Sequences GCF_008704495.1 and GCF_001418465.1 are identical
+WARNING: Partition recA: Sequences GCF_008639165.1 and GCF_001886595.1 are identical
+WARNING: Partition recA: Sequences GCF_008639165.1 and GCF_000253235.1 are identical
+WARNING: Partition recA: Sequences GCF_000720235.1 and GCF_000966965.1 are identical
+WARNING: Partition recA: Sequences GCF_014650935.1 and GCF_008704535.1 are identical
+WARNING: Partition recA: Sequences GCF_000359525.1 and GCF_013693715.1 are identical
+WARNING: Partition recA: Sequences GCF_014648615.1 and GCF_016755855.1 are identical
+WARNING: Partition recA: Sequences GCF_014648615.1 and GCF_017639205.1 are identical
+WARNING: Partition recA: Sequences GCF_013409565.1 and GCF_013167895.1 are identical
+WARNING: Partition recA: Sequences GCF_002727115.1 and GCF_002939475.1 are identical
+WARNING: Partition recA: Sequences GCF_018138715.1 and GCF_018138705.1 are identical
+WARNING: Partition recA: Sequences GCF_002155885.1 and GCF_017942185.1 are identical
+WARNING: Partition recA: Sequences GCF_001278075.1 and GCF_014070435.1 are identical
+WARNING: Partition recA: Sequences GCF_014650375.1 and GCF_008704555.1 are identical
+WARNING: Partition recA: Sequences GCF_004195935.1 and GCF_004195955.1 are identical
+WARNING: Partition recA: Sequences GCF_004196145.1 and GCF_004196155.1 are identical
+WARNING: Partition recA: Sequences GCF_000813365.1 and GCF_001661615.1 are identical
+WARNING: Partition recA: Sequences GCF_000813365.1 and GCF_001418125.1 are identical
+WARNING: Partition recA: Sequences GCF_000009765.2 and GCF_000764715.1 are identical
+WARNING: Partition recA: Sequences GCF_000009765.2 and GCF_001514135.1 are identical
+WARNING: Partition recA: Sequences GCF_000009765.2 and GCF_002017835.1 are identical
+WARNING: Partition recA: Sequences GCF_000009765.2 and GCF_009862865.1 are identical
+WARNING: Partition recA: Sequences GCF_000009765.2 and GCF_005406005.1 are identical
+WARNING: Partition recA: Sequences GCF_009870085.1 and GCF_000383595.1 are identical
+WARNING: Partition recA: Sequences GCF_009870085.1 and GCF_000340335.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_015912455.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_001693675.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_015912395.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_015767935.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_015767915.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_015767855.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_015767875.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_015912465.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_015767815.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_015767795.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_015767775.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_015767755.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_015767735.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_015708605.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_005519465.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_003454755.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_015767895.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_015912875.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_000163875.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_015912925.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_015912945.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_015912975.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_015912985.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_015912995.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_000148465.1 are identical
+WARNING: Partition recA: Sequences GCF_015912435.1 and GCF_015912895.1 are identical
+WARNING: Partition recA: Sequences GCF_008931305.1 and GCF_009862445.1 are identical
+WARNING: Partition recA: Sequences GCF_008931305.1 and GCF_013307045.1 are identical
+WARNING: Partition recA: Sequences GCF_008931305.1 and GCF_013317105.1 are identical
+WARNING: Partition recA: Sequences GCF_008931305.1 and GCF_008124975.1 are identical
+WARNING: Partition recA: Sequences GCF_008931305.1 and GCF_008124915.1 are identical
+WARNING: Partition recA: Sequences GCF_008931305.1 and GCF_008124905.1 are identical
+WARNING: Partition recA: Sequences GCF_008931305.1 and GCF_008125035.1 are identical
+WARNING: Partition recA: Sequences GCF_008931305.1 and GCF_008124985.1 are identical
+WARNING: Partition recA: Sequences GCF_000955965.1 and GCF_000725785.1 are identical
+WARNING: Partition recA: Sequences GCF_000718625.1 and GCF_011820545.1 are identical
+WARNING: Partition recA: Sequences GCF_000819545.1 and GCF_008704995.1 are identical
+WARNING: Partition recA: Sequences GCF_000819545.1 and GCF_014205035.1 are identical
+WARNING: Partition recA: Sequences GCF_000819545.1 and GCF_017352335.1 are identical
+WARNING: Partition recA: Sequences GCF_000716875.1 and GCF_000717725.1 are identical
+WARNING: Partition recA: Sequences GCF_001514265.1 and GCF_001270505.1 are identical
+WARNING: Partition recA: Sequences GCF_001514265.1 and GCF_000716215.1 are identical
+WARNING: Partition recA: Sequences GCF_000718095.1 and GCF_003073355.1 are identical
+WARNING: Partition recA: Sequences GCF_000719255.1 and GCF_000718635.1 are identical
+WARNING: Partition recA: Sequences GCF_000380165.1 and GCF_001445835.1 are identical
+WARNING: Partition recA: Sequences GCF_001270515.1 and GCF_000716445.1 are identical
+WARNING: Partition recA: Sequences GCF_900091715.1 and GCF_900095575.1 are identical
+WARNING: Partition recA: Sequences GCF_900091715.1 and GCF_009863165.1 are identical
+WARNING: Partition recA: Sequences GCF_900091715.1 and GCF_009862475.1 are identical
+WARNING: Partition recA: Sequences GCF_900091715.1 and GCF_009862105.1 are identical
+WARNING: Partition recA: Sequences GCF_900091715.1 and GCF_000382745.1 are identical
+WARNING: Partition recA: Sequences GCF_900091715.1 and GCF_000177195.2 are identical
+WARNING: Partition recA: Sequences GCF_900091715.1 and GCF_009865465.1 are identical
+WARNING: Partition recA: Sequences GCF_000226455.1 and GCF_009862985.1 are identical
+WARNING: Partition recA: Sequences GCF_000226455.1 and GCF_900236475.1 are identical
+WARNING: Partition recA: Sequences GCF_000226455.1 and GCF_900236505.1 are identical
+WARNING: Partition recA: Sequences GCF_000299175.2 and GCF_001509565.1 are identical
+WARNING: Partition recA: Sequences GCF_000720605.1 and GCF_008704655.1 are identical
+WARNING: Partition recA: Sequences GCF_000720605.1 and GCF_006229535.1 are identical
+WARNING: Partition recA: Sequences GCF_000720605.1 and GCF_001507395.1 are identical
+WARNING: Partition recA: Sequences GCF_000720605.1 and GCF_001279375.1 are identical
+WARNING: Partition recA: Sequences GCF_000720605.1 and GCF_001279105.1 are identical
+WARNING: Partition recA: Sequences GCF_000720605.1 and GCF_001279095.1 are identical
+WARNING: Partition recA: Sequences GCF_000720605.1 and GCF_001279075.1 are identical
+WARNING: Partition recA: Sequences GCF_000720605.1 and GCF_001279025.1 are identical
+WARNING: Partition recA: Sequences GCF_000720605.1 and GCF_000707925.2 are identical
+WARNING: Partition recA: Sequences GCF_000720605.1 and GCF_000718815.1 are identical
+WARNING: Partition recA: Sequences GCF_000720605.1 and GCF_001279015.1 are identical
+WARNING: Partition recA: Sequences GCF_000720605.1 and GCF_000718715.1 are identical
+WARNING: Partition recA: Sequences GCF_000720605.1 and GCF_000718295.1 are identical
+WARNING: Partition recA: Sequences GCF_000720605.1 and GCF_000717285.1 are identical
+WARNING: Partition recA: Sequences GCF_000720605.1 and GCF_000716845.1 are identical
+WARNING: Partition recA: Sequences GCF_000720605.1 and GCF_000721045.1 are identical
+WARNING: Partition recA: Sequences GCF_000720605.1 and GCF_000331185.2 are identical
+WARNING: Partition recA: Sequences GCF_000720605.1 and GCF_000718835.1 are identical
+WARNING: Partition recA: Sequences GCF_000720605.1 and GCF_000720715.1 are identical
+WARNING: Partition recA: Sequences GCF_000720605.1 and GCF_000718865.1 are identical
+WARNING: Partition recA: Sequences GCF_000720605.1 and GCF_000720565.1 are identical
+WARNING: Partition recA: Sequences GCF_000373405.1 and GCF_009872615.1 are identical
+WARNING: Partition recA: Sequences GCF_000403665.1 and GCF_000972395.1 are identical
+WARNING: Partition recA: Sequences GCF_000403765.2 and GCF_003851665.1 are identical
+WARNING: Partition recA: Sequences GCF_009865365.1 and GCF_900091745.1 are identical
+WARNING: Partition recA: Sequences GCF_009862115.1 and GCF_000647875.1 are identical
+WARNING: Partition recA: Sequences GCF_002966105.1 and GCF_000700005.2 are identical
+WARNING: Partition recA: Sequences GCF_002966105.1 and GCF_001190165.1 are identical
+WARNING: Partition recA: Sequences GCF_002966105.1 and GCF_003122345.2 are identical
+WARNING: Partition recA: Sequences GCF_002966105.1 and GCF_001756925.1 are identical
+WARNING: Partition recA: Sequences GCF_000718205.1 and GCF_001270675.1 are identical
+WARNING: Partition recA: Sequences GCF_000718205.1 and GCF_000721205.1 are identical
+WARNING: Partition recA: Sequences GCF_000718205.1 and GCF_000719035.1 are identical
+WARNING: Partition recA: Sequences GCF_000718205.1 and GCF_000718915.1 are identical
+WARNING: Partition recA: Sequences GCF_000718375.1 and GCF_001279005.1 are identical
+WARNING: Partition recA: Sequences GCF_000718525.1 and GCF_000721035.1 are identical
+WARNING: Partition recA: Sequences GCF_000718675.1 and GCF_000721665.1 are identical
+WARNING: Partition recA: Sequences GCF_000718705.1 and GCF_000719625.1 are identical
+WARNING: Partition recA: Sequences GCF_000718705.1 and GCF_017876235.1 are identical
+WARNING: Partition recA: Sequences GCF_000719185.1 and GCF_000718755.1 are identical
+WARNING: Partition recA: Sequences GCF_000718955.1 and GCF_000720795.1 are identical
+WARNING: Partition recA: Sequences GCF_000721945.1 and GCF_001513955.1 are identical
+WARNING: Partition recA: Sequences GCF_001279065.1 and GCF_000725565.1 are identical
+WARNING: Partition recA: Sequences GCF_004328625.1 and GCF_000725795.1 are identical
+WARNING: Partition recA: Sequences GCF_001550245.1 and GCF_001005405.1 are identical
+WARNING: Partition recA: Sequences GCF_001550245.1 and GCF_000738715.1 are identical
+WARNING: Partition recA: Sequences GCF_014873495.1 and GCF_001008135.1 are identical
+WARNING: Partition recA: Sequences GCF_001279445.1 and GCF_001279485.1 are identical
+WARNING: Partition recA: Sequences GCF_001279445.1 and GCF_001279925.1 are identical
+WARNING: Partition recA: Sequences GCF_001279845.1 and GCF_014217585.1 are identical
+WARNING: Partition recA: Sequences GCF_001279815.1 and GCF_001279855.1 are identical
+WARNING: Partition recA: Sequences GCF_001279815.1 and GCF_001279965.1 are identical
+WARNING: Partition recA: Sequences GCF_001282115.1 and GCF_002156095.1 are identical
+WARNING: Partition recA: Sequences GCF_001426325.1 and GCF_001427565.1 are identical
+WARNING: Partition recA: Sequences GCF_001431765.1 and GCF_009846825.1 are identical
+WARNING: Partition recA: Sequences GCF_001509795.1 and GCF_001509785.1 are identical
+WARNING: Partition recA: Sequences GCF_017968935.1 and GCF_017969045.1 are identical
+WARNING: Partition recA: Sequences GCF_017968935.1 and GCF_017933255.1 are identical
+WARNING: Partition recA: Sequences GCF_017968935.1 and GCF_017968905.1 are identical
+WARNING: Partition recA: Sequences GCF_017968935.1 and GCF_017933115.1 are identical
+WARNING: Partition recA: Sequences GCF_003584815.1 and GCF_001550225.1 are identical
+WARNING: Partition recA: Sequences GCF_002943895.1 and GCF_001592685.1 are identical
+WARNING: Partition recA: Sequences GCF_001640565.1 and GCF_001650215.1 are identical
+WARNING: Partition recA: Sequences GCF_003344445.1 and GCF_001685355.1 are identical
+WARNING: Partition recA: Sequences GCF_003344445.1 and GCF_014083905.1 are identical
+WARNING: Partition recA: Sequences GCF_014495705.1 and GCF_001905485.1 are identical
+WARNING: Partition recA: Sequences GCF_002289335.1 and GCF_002317025.1 are identical
+WARNING: Partition recA: Sequences GCF_002551015.1 and GCF_002551055.1 are identical
+WARNING: Partition recA: Sequences GCF_900090065.1 and GCF_009863235.1 are identical
+WARNING: Partition recA: Sequences GCF_900090065.1 and GCF_002705695.1 are identical
+WARNING: Partition recA: Sequences GCF_900102245.1 and GCF_900105235.1 are identical
+WARNING: Partition recA: Sequences GCF_900102245.1 and GCF_900187385.1 are identical
+WARNING: Partition recA: Sequences GCF_900105245.1 and GCF_002846455.1 are identical
+WARNING: Partition recA: Sequences GCF_002910795.1 and GCF_002910815.1 are identical
+WARNING: Partition recA: Sequences GCF_002910985.1 and GCF_002910935.1 are identical
+WARNING: Partition recA: Sequences GCF_014205315.1 and GCF_003675955.1 are identical
+WARNING: Partition recA: Sequences GCF_004125275.1 and GCF_003994375.1 are identical
+WARNING: Partition recA: Sequences GCF_006788935.1 and GCF_014649215.1 are identical
+WARNING: Partition recA: Sequences GCF_008632535.1 and GCF_014648875.1 are identical
+WARNING: Partition recA: Sequences GCF_008704715.1 and GCF_014650315.1 are identical
+WARNING: Partition recA: Sequences GCF_009299385.1 and GCF_011758705.1 are identical
+WARNING: Partition recA: Sequences GCF_009299385.1 and GCF_014197485.1 are identical
+WARNING: Partition recA: Sequences GCF_009811575.1 and GCF_014656235.1 are identical
+WARNING: Partition recA: Sequences GCF_900091985.1 and GCF_009862025.1 are identical
+WARNING: Partition recA: Sequences GCF_900091765.1 and GCF_009862465.1 are identical
+WARNING: Partition recA: Sequences GCF_009863125.1 and GCF_900091725.1 are identical
+WARNING: Partition recA: Sequences GCF_009863145.1 and GCF_900091775.1 are identical
+WARNING: Partition recA: Sequences GCF_009864905.1 and GCF_900187925.1 are identical
+WARNING: Partition recA: Sequences GCF_017979945.1 and GCF_010523235.1 are identical
+WARNING: Partition recA: Sequences GCF_010548465.1 and GCF_010550365.1 are identical
+WARNING: Partition recA: Sequences GCF_010548705.1 and GCF_010550525.1 are identical
+WARNING: Partition recA: Sequences GCF_011170125.1 and GCF_014648935.1 are identical
+WARNING: Partition recA: Sequences GCF_012927245.1 and GCF_012927225.1 are identical
+WARNING: Partition recA: Sequences GCF_013363665.1 and GCF_013363455.1 are identical
+WARNING: Partition recA: Sequences GCF_013363665.1 and GCF_013363655.1 are identical
+WARNING: Partition recA: Sequences GCF_014138735.1 and GCF_014649315.1 are identical
+WARNING: Partition recA: Sequences GCF_014650615.1 and GCF_014203495.1 are identical
+WARNING: Partition recA: Sequences GCF_014203535.1 and GCF_014649635.1 are identical
+WARNING: Partition recA: Sequences GCF_016654065.1 and GCF_016612645.1 are identical
+WARNING: Partition recA: Sequences GCF_016654065.1 and GCF_016612575.1 are identical
+WARNING: Partition recA: Sequences GCF_016612775.1 and GCF_016612725.1 are identical
+WARNING: Partition recA: Sequences GCF_016612775.1 and GCF_016612705.1 are identical
+WARNING: Partition recA: Sequences GCF_016613335.1 and GCF_016613285.1 are identical
+WARNING: Partition recA: Sequences GCF_017933235.1 and GCF_017968965.1 are identical
+WARNING: Partition recA: Sequences GCF_017969005.1 and GCF_017969025.1 are identical
+WARNING: Partition recA: Sequences GCF_018070175.1 and GCF_018070265.1 are identical
+WARNING: Partition recA: Sequences GCF_018614185.1 and GCF_018614355.1 are identical
+WARNING: Partition recA: Sequences GCF_018619195.1 and GCF_018619165.1 are identical
+WARNING: Partition recA: Sequences GCF_018619195.1 and GCF_018619235.1 are identical
+WARNING: Partition rpoB: Sequences GCF_016906245.1 and GCF_000715745.1 are identical
+WARNING: Partition rpoB: Sequences GCF_016906245.1 and GCF_000717645.1 are identical
+WARNING: Partition rpoB: Sequences GCF_016906245.1 and GCF_000717965.1 are identical
+WARNING: Partition rpoB: Sequences GCF_016906245.1 and GCF_000718245.1 are identical
+WARNING: Partition rpoB: Sequences GCF_016906245.1 and GCF_000718615.1 are identical
+WARNING: Partition rpoB: Sequences GCF_016906245.1 and GCF_016906225.1 are identical
+WARNING: Partition rpoB: Sequences GCF_016906245.1 and GCF_016906205.1 are identical
+WARNING: Partition rpoB: Sequences GCF_016906245.1 and GCF_016906185.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000725545.1 and GCF_000718175.1 are identical
+WARNING: Partition rpoB: Sequences GCF_900105705.1 and GCF_001723115.1 are identical
+WARNING: Partition rpoB: Sequences GCF_900105705.1 and GCF_000010605.1 are identical
+WARNING: Partition rpoB: Sequences GCF_900105705.1 and GCF_900460065.1 are identical
+WARNING: Partition rpoB: Sequences GCF_900105705.1 and GCF_009866455.1 are identical
+WARNING: Partition rpoB: Sequences GCF_008704495.1 and GCF_001418465.1 are identical
+WARNING: Partition rpoB: Sequences GCF_008639165.1 and GCF_001886595.1 are identical
+WARNING: Partition rpoB: Sequences GCF_008639165.1 and GCF_000253235.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000720235.1 and GCF_000966965.1 are identical
+WARNING: Partition rpoB: Sequences GCF_014650935.1 and GCF_008704535.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000359525.1 and GCF_013693715.1 are identical
+WARNING: Partition rpoB: Sequences GCF_014648615.1 and GCF_016755855.1 are identical
+WARNING: Partition rpoB: Sequences GCF_014648615.1 and GCF_017639205.1 are identical
+WARNING: Partition rpoB: Sequences GCF_013409565.1 and GCF_013167895.1 are identical
+WARNING: Partition rpoB: Sequences GCF_001570645.1 and GCF_001553435.1 are identical
+WARNING: Partition rpoB: Sequences GCF_002727115.1 and GCF_002939475.1 are identical
+WARNING: Partition rpoB: Sequences GCF_018138715.1 and GCF_018138705.1 are identical
+WARNING: Partition rpoB: Sequences GCF_002155885.1 and GCF_017942185.1 are identical
+WARNING: Partition rpoB: Sequences GCF_001278075.1 and GCF_014070435.1 are identical
+WARNING: Partition rpoB: Sequences GCF_014650375.1 and GCF_008704555.1 are identical
+WARNING: Partition rpoB: Sequences GCF_004195935.1 and GCF_004195955.1 are identical
+WARNING: Partition rpoB: Sequences GCF_004196145.1 and GCF_004196155.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000813365.1 and GCF_001661615.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000813365.1 and GCF_001418125.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000009765.2 and GCF_000764715.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000009765.2 and GCF_001514135.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000009765.2 and GCF_002017835.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000009765.2 and GCF_009862865.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000009765.2 and GCF_005406005.1 are identical
+WARNING: Partition rpoB: Sequences GCF_009870085.1 and GCF_000383595.1 are identical
+WARNING: Partition rpoB: Sequences GCF_009870085.1 and GCF_000340335.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_015912455.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_001693675.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_015912395.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_015767935.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_015767915.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_015767855.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_015767875.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_015912465.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_015767815.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_015767795.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_015767775.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_015767755.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_015767735.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_015708605.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_005519465.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_003454755.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_015767895.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_015912875.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_000163875.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_015912925.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_015912945.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_015912975.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_015912985.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_015912995.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_000148465.1 are identical
+WARNING: Partition rpoB: Sequences GCF_015912435.1 and GCF_015912895.1 are identical
+WARNING: Partition rpoB: Sequences GCF_008931305.1 and GCF_009862445.1 are identical
+WARNING: Partition rpoB: Sequences GCF_008931305.1 and GCF_013307045.1 are identical
+WARNING: Partition rpoB: Sequences GCF_008931305.1 and GCF_013317105.1 are identical
+WARNING: Partition rpoB: Sequences GCF_008931305.1 and GCF_008124975.1 are identical
+WARNING: Partition rpoB: Sequences GCF_008931305.1 and GCF_008124915.1 are identical
+WARNING: Partition rpoB: Sequences GCF_008931305.1 and GCF_008124905.1 are identical
+WARNING: Partition rpoB: Sequences GCF_008931305.1 and GCF_008125035.1 are identical
+WARNING: Partition rpoB: Sequences GCF_008931305.1 and GCF_008124985.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000955965.1 and GCF_000725785.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000718625.1 and GCF_011820545.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000819545.1 and GCF_008704995.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000819545.1 and GCF_014205035.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000819545.1 and GCF_017352335.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000716875.1 and GCF_000717725.1 are identical
+WARNING: Partition rpoB: Sequences GCF_001514265.1 and GCF_001270505.1 are identical
+WARNING: Partition rpoB: Sequences GCF_001514265.1 and GCF_000716215.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000718095.1 and GCF_003073355.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000719255.1 and GCF_000718635.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000380165.1 and GCF_001445835.1 are identical
+WARNING: Partition rpoB: Sequences GCF_001270515.1 and GCF_000716445.1 are identical
+WARNING: Partition rpoB: Sequences GCF_900091715.1 and GCF_900095575.1 are identical
+WARNING: Partition rpoB: Sequences GCF_900091715.1 and GCF_009863165.1 are identical
+WARNING: Partition rpoB: Sequences GCF_900091715.1 and GCF_009862475.1 are identical
+WARNING: Partition rpoB: Sequences GCF_900091715.1 and GCF_009862105.1 are identical
+WARNING: Partition rpoB: Sequences GCF_900091715.1 and GCF_000382745.1 are identical
+WARNING: Partition rpoB: Sequences GCF_900091715.1 and GCF_000177195.2 are identical
+WARNING: Partition rpoB: Sequences GCF_900091715.1 and GCF_009865465.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000226455.1 and GCF_009862985.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000226455.1 and GCF_900236475.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000226455.1 and GCF_900236505.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000299175.2 and GCF_001509565.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000720605.1 and GCF_008704655.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000720605.1 and GCF_006229535.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000720605.1 and GCF_001507395.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000720605.1 and GCF_001279375.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000720605.1 and GCF_001279105.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000720605.1 and GCF_001279095.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000720605.1 and GCF_001279075.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000720605.1 and GCF_001279025.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000720605.1 and GCF_000707925.2 are identical
+WARNING: Partition rpoB: Sequences GCF_000720605.1 and GCF_000718815.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000720605.1 and GCF_001279015.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000720605.1 and GCF_000718715.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000720605.1 and GCF_000718295.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000720605.1 and GCF_000717285.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000720605.1 and GCF_000716845.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000720605.1 and GCF_000721045.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000720605.1 and GCF_000331185.2 are identical
+WARNING: Partition rpoB: Sequences GCF_000720605.1 and GCF_000718835.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000720605.1 and GCF_000720715.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000720605.1 and GCF_000718865.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000720605.1 and GCF_000720565.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000373405.1 and GCF_009872615.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000403665.1 and GCF_000972395.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000403765.2 and GCF_003851665.1 are identical
+WARNING: Partition rpoB: Sequences GCF_009865365.1 and GCF_900091745.1 are identical
+WARNING: Partition rpoB: Sequences GCF_009862115.1 and GCF_000647875.1 are identical
+WARNING: Partition rpoB: Sequences GCF_002966105.1 and GCF_000700005.2 are identical
+WARNING: Partition rpoB: Sequences GCF_002966105.1 and GCF_001190165.1 are identical
+WARNING: Partition rpoB: Sequences GCF_002966105.1 and GCF_003122345.2 are identical
+WARNING: Partition rpoB: Sequences GCF_002966105.1 and GCF_001756925.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000718205.1 and GCF_001270675.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000718205.1 and GCF_000721205.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000718205.1 and GCF_000719035.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000718205.1 and GCF_000718915.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000718375.1 and GCF_001279005.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000718525.1 and GCF_000721035.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000718675.1 and GCF_000721665.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000718705.1 and GCF_000719625.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000718705.1 and GCF_017876235.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000719185.1 and GCF_000718755.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000718955.1 and GCF_000720795.1 are identical
+WARNING: Partition rpoB: Sequences GCF_000721945.1 and GCF_001513955.1 are identical
+WARNING: Partition rpoB: Sequences GCF_001279065.1 and GCF_000725565.1 are identical
+WARNING: Partition rpoB: Sequences GCF_004328625.1 and GCF_000725795.1 are identical
+WARNING: Partition rpoB: Sequences GCF_001550245.1 and GCF_001005405.1 are identical
+WARNING: Partition rpoB: Sequences GCF_001550245.1 and GCF_000738715.1 are identical
+WARNING: Partition rpoB: Sequences GCF_014873495.1 and GCF_001008135.1 are identical
+WARNING: Partition rpoB: Sequences GCF_001279445.1 and GCF_001279485.1 are identical
+WARNING: Partition rpoB: Sequences GCF_001279445.1 and GCF_001279925.1 are identical
+WARNING: Partition rpoB: Sequences GCF_001279845.1 and GCF_014217585.1 are identical
+WARNING: Partition rpoB: Sequences GCF_001279815.1 and GCF_001279855.1 are identical
+WARNING: Partition rpoB: Sequences GCF_001279815.1 and GCF_001279965.1 are identical
+WARNING: Partition rpoB: Sequences GCF_001282115.1 and GCF_002156095.1 are identical
+WARNING: Partition rpoB: Sequences GCF_001426325.1 and GCF_001427565.1 are identical
+WARNING: Partition rpoB: Sequences GCF_001431765.1 and GCF_009846825.1 are identical
+WARNING: Partition rpoB: Sequences GCF_001509795.1 and GCF_001509785.1 are identical
+WARNING: Partition rpoB: Sequences GCF_017968935.1 and GCF_017969045.1 are identical
+WARNING: Partition rpoB: Sequences GCF_017968935.1 and GCF_017933255.1 are identical
+WARNING: Partition rpoB: Sequences GCF_017968935.1 and GCF_017968905.1 are identical
+WARNING: Partition rpoB: Sequences GCF_017968935.1 and GCF_017933115.1 are identical
+WARNING: Partition rpoB: Sequences GCF_003584815.1 and GCF_001550225.1 are identical
+WARNING: Partition rpoB: Sequences GCF_002943895.1 and GCF_001592685.1 are identical
+WARNING: Partition rpoB: Sequences GCF_001640565.1 and GCF_001650215.1 are identical
+WARNING: Partition rpoB: Sequences GCF_003344445.1 and GCF_001685355.1 are identical
+WARNING: Partition rpoB: Sequences GCF_003344445.1 and GCF_014083905.1 are identical
+WARNING: Partition rpoB: Sequences GCF_014495705.1 and GCF_001905485.1 are identical
+WARNING: Partition rpoB: Sequences GCF_002289335.1 and GCF_002317025.1 are identical
+WARNING: Partition rpoB: Sequences GCF_002551015.1 and GCF_002551055.1 are identical
+WARNING: Partition rpoB: Sequences GCF_900090065.1 and GCF_009863235.1 are identical
+WARNING: Partition rpoB: Sequences GCF_900090065.1 and GCF_002705695.1 are identical
+WARNING: Partition rpoB: Sequences GCF_900102245.1 and GCF_900105235.1 are identical
+WARNING: Partition rpoB: Sequences GCF_900102245.1 and GCF_900187385.1 are identical
+WARNING: Partition rpoB: Sequences GCF_900105245.1 and GCF_002846455.1 are identical
+WARNING: Partition rpoB: Sequences GCF_002910795.1 and GCF_002910815.1 are identical
+WARNING: Partition rpoB: Sequences GCF_002910985.1 and GCF_002910935.1 are identical
+WARNING: Partition rpoB: Sequences GCF_014205315.1 and GCF_003675955.1 are identical
+WARNING: Partition rpoB: Sequences GCF_004125275.1 and GCF_003994375.1 are identical
+WARNING: Partition rpoB: Sequences GCF_006788935.1 and GCF_014649215.1 are identical
+WARNING: Partition rpoB: Sequences GCF_008632535.1 and GCF_014648875.1 are identical
+WARNING: Partition rpoB: Sequences GCF_014654895.1 and GCF_008634015.1 are identical
+WARNING: Partition rpoB: Sequences GCF_008704715.1 and GCF_014650315.1 are identical
+WARNING: Partition rpoB: Sequences GCF_009299385.1 and GCF_011758705.1 are identical
+WARNING: Partition rpoB: Sequences GCF_009299385.1 and GCF_014197485.1 are identical
+WARNING: Partition rpoB: Sequences GCF_009811575.1 and GCF_014656235.1 are identical
+WARNING: Partition rpoB: Sequences GCF_900091985.1 and GCF_900091975.1 are identical
+WARNING: Partition rpoB: Sequences GCF_900091985.1 and GCF_009862025.1 are identical
+WARNING: Partition rpoB: Sequences GCF_900091765.1 and GCF_009862465.1 are identical
+WARNING: Partition rpoB: Sequences GCF_009863125.1 and GCF_900091725.1 are identical
+WARNING: Partition rpoB: Sequences GCF_009863145.1 and GCF_900091775.1 are identical
+WARNING: Partition rpoB: Sequences GCF_009864905.1 and GCF_900187925.1 are identical
+WARNING: Partition rpoB: Sequences GCF_017979945.1 and GCF_010523235.1 are identical
+WARNING: Partition rpoB: Sequences GCF_010548465.1 and GCF_010550365.1 are identical
+WARNING: Partition rpoB: Sequences GCF_010548705.1 and GCF_010550525.1 are identical
+WARNING: Partition rpoB: Sequences GCF_011170125.1 and GCF_014648935.1 are identical
+WARNING: Partition rpoB: Sequences GCF_012927245.1 and GCF_012927225.1 are identical
+WARNING: Partition rpoB: Sequences GCF_013363665.1 and GCF_013363455.1 are identical
+WARNING: Partition rpoB: Sequences GCF_013363665.1 and GCF_013363655.1 are identical
+WARNING: Partition rpoB: Sequences GCF_014138735.1 and GCF_014649315.1 are identical
+WARNING: Partition rpoB: Sequences GCF_014650615.1 and GCF_014203495.1 are identical
+WARNING: Partition rpoB: Sequences GCF_014203535.1 and GCF_014649635.1 are identical
+WARNING: Partition rpoB: Sequences GCF_016654065.1 and GCF_016612645.1 are identical
+WARNING: Partition rpoB: Sequences GCF_016654065.1 and GCF_016612575.1 are identical
+WARNING: Partition rpoB: Sequences GCF_016612775.1 and GCF_016612725.1 are identical
+WARNING: Partition rpoB: Sequences GCF_016612775.1 and GCF_016612705.1 are identical
+WARNING: Partition rpoB: Sequences GCF_016613335.1 and GCF_016613285.1 are identical
+WARNING: Partition rpoB: Sequences GCF_017933235.1 and GCF_017968965.1 are identical
+WARNING: Partition rpoB: Sequences GCF_017969005.1 and GCF_017969025.1 are identical
+WARNING: Partition rpoB: Sequences GCF_018070175.1 and GCF_018070265.1 are identical
+WARNING: Partition rpoB: Sequences GCF_018614185.1 and GCF_018614355.1 are identical
+WARNING: Partition rpoB: Sequences GCF_018619195.1 and GCF_018619165.1 are identical
+WARNING: Partition rpoB: Sequences GCF_018619195.1 and GCF_018619235.1 are identical
+WARNING: Partition trpB: Sequences GCF_016906245.1 and GCF_000715745.1 are identical
+WARNING: Partition trpB: Sequences GCF_016906245.1 and GCF_000717645.1 are identical
+WARNING: Partition trpB: Sequences GCF_016906245.1 and GCF_000717965.1 are identical
+WARNING: Partition trpB: Sequences GCF_016906245.1 and GCF_000718245.1 are identical
+WARNING: Partition trpB: Sequences GCF_016906245.1 and GCF_000718615.1 are identical
+WARNING: Partition trpB: Sequences GCF_016906245.1 and GCF_000720065.1 are identical
+WARNING: Partition trpB: Sequences GCF_016906245.1 and GCF_016906225.1 are identical
+WARNING: Partition trpB: Sequences GCF_016906245.1 and GCF_016906205.1 are identical
+WARNING: Partition trpB: Sequences GCF_016906245.1 and GCF_016906185.1 are identical
+WARNING: Partition trpB: Sequences GCF_000725545.1 and GCF_000718175.1 are identical
+WARNING: Partition trpB: Sequences GCF_900105705.1 and GCF_001723115.1 are identical
+WARNING: Partition trpB: Sequences GCF_900105705.1 and GCF_000010605.1 are identical
+WARNING: Partition trpB: Sequences GCF_900105705.1 and GCF_900460065.1 are identical
+WARNING: Partition trpB: Sequences GCF_900105705.1 and GCF_009866455.1 are identical
+WARNING: Partition trpB: Sequences GCF_008704495.1 and GCF_001418465.1 are identical
+WARNING: Partition trpB: Sequences GCF_008639165.1 and GCF_001886595.1 are identical
+WARNING: Partition trpB: Sequences GCF_008639165.1 and GCF_000253235.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720235.1 and GCF_000720455.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720235.1 and GCF_000966965.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720235.1 and GCF_001279685.1 are identical
+WARNING: Partition trpB: Sequences GCF_014650935.1 and GCF_008704535.1 are identical
+WARNING: Partition trpB: Sequences GCF_000359525.1 and GCF_013693715.1 are identical
+WARNING: Partition trpB: Sequences GCF_000359525.1 and GCF_004195855.1 are identical
+WARNING: Partition trpB: Sequences GCF_000359525.1 and GCF_000299175.2 are identical
+WARNING: Partition trpB: Sequences GCF_000359525.1 and GCF_001509565.1 are identical
+WARNING: Partition trpB: Sequences GCF_000359525.1 and GCF_004195745.1 are identical
+WARNING: Partition trpB: Sequences GCF_014648615.1 and GCF_016755855.1 are identical
+WARNING: Partition trpB: Sequences GCF_014648615.1 and GCF_017639205.1 are identical
+WARNING: Partition trpB: Sequences GCF_013409565.1 and GCF_013167895.1 are identical
+WARNING: Partition trpB: Sequences GCF_001723055.1 and GCF_004563805.1 are identical
+WARNING: Partition trpB: Sequences GCF_001570645.1 and GCF_001553435.1 are identical
+WARNING: Partition trpB: Sequences GCF_001570645.1 and GCF_001705785.1 are identical
+WARNING: Partition trpB: Sequences GCF_002727115.1 and GCF_002939475.1 are identical
+WARNING: Partition trpB: Sequences GCF_018138715.1 and GCF_018138705.1 are identical
+WARNING: Partition trpB: Sequences GCF_018138715.1 and GCF_002155885.1 are identical
+WARNING: Partition trpB: Sequences GCF_018138715.1 and GCF_017942185.1 are identical
+WARNING: Partition trpB: Sequences GCF_004195885.1 and GCF_000725635.1 are identical
+WARNING: Partition trpB: Sequences GCF_004195885.1 and GCF_004195735.1 are identical
+WARNING: Partition trpB: Sequences GCF_004195885.1 and GCF_016613335.1 are identical
+WARNING: Partition trpB: Sequences GCF_004195885.1 and GCF_016613285.1 are identical
+WARNING: Partition trpB: Sequences GCF_001278075.1 and GCF_014070435.1 are identical
+WARNING: Partition trpB: Sequences GCF_014650375.1 and GCF_008704555.1 are identical
+WARNING: Partition trpB: Sequences GCF_002155905.1 and GCF_002251155.1 are identical
+WARNING: Partition trpB: Sequences GCF_004195935.1 and GCF_004195955.1 are identical
+WARNING: Partition trpB: Sequences GCF_004196145.1 and GCF_004196155.1 are identical
+WARNING: Partition trpB: Sequences GCF_000813365.1 and GCF_001661615.1 are identical
+WARNING: Partition trpB: Sequences GCF_000813365.1 and GCF_001418545.1 are identical
+WARNING: Partition trpB: Sequences GCF_000813365.1 and GCF_001418125.1 are identical
+WARNING: Partition trpB: Sequences GCF_000813365.1 and GCF_000411495.1 are identical
+WARNING: Partition trpB: Sequences GCF_000813365.1 and GCF_000720885.1 are identical
+WARNING: Partition trpB: Sequences GCF_000813365.1 and GCF_004768505.1 are identical
+WARNING: Partition trpB: Sequences GCF_000813365.1 and GCF_011006355.1 are identical
+WARNING: Partition trpB: Sequences GCF_000813365.1 and GCF_000719425.1 are identical
+WARNING: Partition trpB: Sequences GCF_000813365.1 and GCF_000719735.1 are identical
+WARNING: Partition trpB: Sequences GCF_000009765.2 and GCF_000764715.1 are identical
+WARNING: Partition trpB: Sequences GCF_000009765.2 and GCF_001514135.1 are identical
+WARNING: Partition trpB: Sequences GCF_000009765.2 and GCF_002017835.1 are identical
+WARNING: Partition trpB: Sequences GCF_000009765.2 and GCF_005405965.1 are identical
+WARNING: Partition trpB: Sequences GCF_000009765.2 and GCF_009862865.1 are identical
+WARNING: Partition trpB: Sequences GCF_000009765.2 and GCF_005406005.1 are identical
+WARNING: Partition trpB: Sequences GCF_009870085.1 and GCF_000383595.1 are identical
+WARNING: Partition trpB: Sequences GCF_009870085.1 and GCF_000340335.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_015912455.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_001693675.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_015912395.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_015767935.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_015767915.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_015767855.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_015767875.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_015912465.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_015767815.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_015767795.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_015767775.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_015767755.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_015767735.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_015708605.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_005519465.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_003454755.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_015767895.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_015912875.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_000163875.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_015912925.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_015912945.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_015912975.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_015912985.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_015912995.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_000148465.1 are identical
+WARNING: Partition trpB: Sequences GCF_015912435.1 and GCF_015912895.1 are identical
+WARNING: Partition trpB: Sequences GCF_008931305.1 and GCF_009862445.1 are identical
+WARNING: Partition trpB: Sequences GCF_008931305.1 and GCF_013307045.1 are identical
+WARNING: Partition trpB: Sequences GCF_008931305.1 and GCF_013317105.1 are identical
+WARNING: Partition trpB: Sequences GCF_008931305.1 and GCF_008124975.1 are identical
+WARNING: Partition trpB: Sequences GCF_008931305.1 and GCF_008124915.1 are identical
+WARNING: Partition trpB: Sequences GCF_008931305.1 and GCF_008124905.1 are identical
+WARNING: Partition trpB: Sequences GCF_008931305.1 and GCF_008125035.1 are identical
+WARNING: Partition trpB: Sequences GCF_008931305.1 and GCF_008124985.1 are identical
+WARNING: Partition trpB: Sequences GCF_000955965.1 and GCF_000725785.1 are identical
+WARNING: Partition trpB: Sequences GCF_000718625.1 and GCF_011820545.1 are identical
+WARNING: Partition trpB: Sequences GCF_000696595.1 and GCF_001047315.1 are identical
+WARNING: Partition trpB: Sequences GCF_000819545.1 and GCF_008704995.1 are identical
+WARNING: Partition trpB: Sequences GCF_000819545.1 and GCF_014205035.1 are identical
+WARNING: Partition trpB: Sequences GCF_000819545.1 and GCF_017352335.1 are identical
+WARNING: Partition trpB: Sequences GCF_000716875.1 and GCF_000717725.1 are identical
+WARNING: Partition trpB: Sequences GCF_001514265.1 and GCF_001270505.1 are identical
+WARNING: Partition trpB: Sequences GCF_001514265.1 and GCF_000716215.1 are identical
+WARNING: Partition trpB: Sequences GCF_000718095.1 and GCF_003073355.1 are identical
+WARNING: Partition trpB: Sequences GCF_000719255.1 and GCF_000718635.1 are identical
+WARNING: Partition trpB: Sequences GCF_000380165.1 and GCF_001445835.1 are identical
+WARNING: Partition trpB: Sequences GCF_001270515.1 and GCF_000716445.1 are identical
+WARNING: Partition trpB: Sequences GCF_900091715.1 and GCF_900095575.1 are identical
+WARNING: Partition trpB: Sequences GCF_900091715.1 and GCF_009863165.1 are identical
+WARNING: Partition trpB: Sequences GCF_900091715.1 and GCF_009862475.1 are identical
+WARNING: Partition trpB: Sequences GCF_900091715.1 and GCF_009862105.1 are identical
+WARNING: Partition trpB: Sequences GCF_900091715.1 and GCF_000382745.1 are identical
+WARNING: Partition trpB: Sequences GCF_900091715.1 and GCF_000177195.2 are identical
+WARNING: Partition trpB: Sequences GCF_900091715.1 and GCF_009865465.1 are identical
+WARNING: Partition trpB: Sequences GCF_900091715.1 and GCF_900091875.1 are identical
+WARNING: Partition trpB: Sequences GCF_000226455.1 and GCF_009862985.1 are identical
+WARNING: Partition trpB: Sequences GCF_000226455.1 and GCF_900236475.1 are identical
+WARNING: Partition trpB: Sequences GCF_000226455.1 and GCF_900236505.1 are identical
+WARNING: Partition trpB: Sequences GCF_000317595.1 and GCF_006547185.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720605.1 and GCF_008704655.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720605.1 and GCF_006229535.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720605.1 and GCF_001507395.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720605.1 and GCF_001279375.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720605.1 and GCF_001279105.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720605.1 and GCF_001279095.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720605.1 and GCF_001279075.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720605.1 and GCF_001279025.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720605.1 and GCF_000707925.2 are identical
+WARNING: Partition trpB: Sequences GCF_000720605.1 and GCF_000718815.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720605.1 and GCF_001279015.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720605.1 and GCF_000718715.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720605.1 and GCF_000718295.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720605.1 and GCF_000717285.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720605.1 and GCF_000716845.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720605.1 and GCF_000721045.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720605.1 and GCF_000331185.2 are identical
+WARNING: Partition trpB: Sequences GCF_000720605.1 and GCF_000718835.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720605.1 and GCF_000720715.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720605.1 and GCF_000718865.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720605.1 and GCF_000720565.1 are identical
+WARNING: Partition trpB: Sequences GCF_000373405.1 and GCF_009872615.1 are identical
+WARNING: Partition trpB: Sequences GCF_000403665.1 and GCF_000972395.1 are identical
+WARNING: Partition trpB: Sequences GCF_000403665.1 and GCF_004795155.1 are identical
+WARNING: Partition trpB: Sequences GCF_000403765.2 and GCF_003851665.1 are identical
+WARNING: Partition trpB: Sequences GCF_000495755.1 and GCF_004078575.1 are identical
+WARNING: Partition trpB: Sequences GCF_009865365.1 and GCF_900091745.1 are identical
+WARNING: Partition trpB: Sequences GCF_009862115.1 and GCF_000647875.1 are identical
+WARNING: Partition trpB: Sequences GCF_002966105.1 and GCF_000700005.2 are identical
+WARNING: Partition trpB: Sequences GCF_002966105.1 and GCF_001190165.1 are identical
+WARNING: Partition trpB: Sequences GCF_002966105.1 and GCF_003122345.2 are identical
+WARNING: Partition trpB: Sequences GCF_002966105.1 and GCF_001756925.1 are identical
+WARNING: Partition trpB: Sequences GCF_000718205.1 and GCF_001270675.1 are identical
+WARNING: Partition trpB: Sequences GCF_000718205.1 and GCF_000721205.1 are identical
+WARNING: Partition trpB: Sequences GCF_000718205.1 and GCF_000719035.1 are identical
+WARNING: Partition trpB: Sequences GCF_000718205.1 and GCF_000718915.1 are identical
+WARNING: Partition trpB: Sequences GCF_000718375.1 and GCF_001279005.1 are identical
+WARNING: Partition trpB: Sequences GCF_000718525.1 and GCF_000721035.1 are identical
+WARNING: Partition trpB: Sequences GCF_000718675.1 and GCF_000721665.1 are identical
+WARNING: Partition trpB: Sequences GCF_000718705.1 and GCF_000719625.1 are identical
+WARNING: Partition trpB: Sequences GCF_000718705.1 and GCF_017876235.1 are identical
+WARNING: Partition trpB: Sequences GCF_000718705.1 and GCF_001279445.1 are identical
+WARNING: Partition trpB: Sequences GCF_000718705.1 and GCF_001279485.1 are identical
+WARNING: Partition trpB: Sequences GCF_000718705.1 and GCF_001279845.1 are identical
+WARNING: Partition trpB: Sequences GCF_000718705.1 and GCF_001279885.1 are identical
+WARNING: Partition trpB: Sequences GCF_000718705.1 and GCF_001279925.1 are identical
+WARNING: Partition trpB: Sequences GCF_000718705.1 and GCF_014217585.1 are identical
+WARNING: Partition trpB: Sequences GCF_000719185.1 and GCF_000718755.1 are identical
+WARNING: Partition trpB: Sequences GCF_000718955.1 and GCF_000720795.1 are identical
+WARNING: Partition trpB: Sequences GCF_000719355.1 and GCF_002551475.1 are identical
+WARNING: Partition trpB: Sequences GCF_000720405.1 and GCF_004524875.1 are identical
+WARNING: Partition trpB: Sequences GCF_000721185.1 and GCF_900090065.1 are identical
+WARNING: Partition trpB: Sequences GCF_000721185.1 and GCF_009863235.1 are identical
+WARNING: Partition trpB: Sequences GCF_000721185.1 and GCF_002705695.1 are identical
+WARNING: Partition trpB: Sequences GCF_000721945.1 and GCF_001513955.1 are identical
+WARNING: Partition trpB: Sequences GCF_001279065.1 and GCF_000725565.1 are identical
+WARNING: Partition trpB: Sequences GCF_004328625.1 and GCF_000725795.1 are identical
+WARNING: Partition trpB: Sequences GCF_001550245.1 and GCF_001005405.1 are identical
+WARNING: Partition trpB: Sequences GCF_001550245.1 and GCF_000738715.1 are identical
+WARNING: Partition trpB: Sequences GCF_000797385.1 and GCF_018638335.1 are identical
+WARNING: Partition trpB: Sequences GCF_014873495.1 and GCF_001008135.1 are identical
+WARNING: Partition trpB: Sequences GCF_014873495.1 and GCF_001189035.1 are identical
+WARNING: Partition trpB: Sequences GCF_001279765.1 and GCF_001279905.1 are identical
+WARNING: Partition trpB: Sequences GCF_001279815.1 and GCF_001279855.1 are identical
+WARNING: Partition trpB: Sequences GCF_001279815.1 and GCF_001279965.1 are identical
+WARNING: Partition trpB: Sequences GCF_001279815.1 and GCF_001279935.1 are identical
+WARNING: Partition trpB: Sequences GCF_001282115.1 and GCF_002156095.1 are identical
+WARNING: Partition trpB: Sequences GCF_001426325.1 and GCF_001427565.1 are identical
+WARNING: Partition trpB: Sequences GCF_001426325.1 and GCF_001434355.1 are identical
+WARNING: Partition trpB: Sequences GCF_001431765.1 and GCF_009846825.1 are identical
+WARNING: Partition trpB: Sequences GCF_001509795.1 and GCF_001509785.1 are identical
+WARNING: Partition trpB: Sequences GCF_017968935.1 and GCF_017969045.1 are identical
+WARNING: Partition trpB: Sequences GCF_017968935.1 and GCF_017933255.1 are identical
+WARNING: Partition trpB: Sequences GCF_017968935.1 and GCF_017968905.1 are identical
+WARNING: Partition trpB: Sequences GCF_017968935.1 and GCF_017933115.1 are identical
+WARNING: Partition trpB: Sequences GCF_017968935.1 and GCF_001572115.1 are identical
+WARNING: Partition trpB: Sequences GCF_017968935.1 and GCF_001579685.1 are identical
+WARNING: Partition trpB: Sequences GCF_003584815.1 and GCF_001550225.1 are identical
+WARNING: Partition trpB: Sequences GCF_002943895.1 and GCF_001592685.1 are identical
+WARNING: Partition trpB: Sequences GCF_001640565.1 and GCF_001650215.1 are identical
+WARNING: Partition trpB: Sequences GCF_003344445.1 and GCF_001685355.1 are identical
+WARNING: Partition trpB: Sequences GCF_003344445.1 and GCF_014083905.1 are identical
+WARNING: Partition trpB: Sequences GCF_014495705.1 and GCF_001905485.1 are identical
+WARNING: Partition trpB: Sequences GCF_002028425.1 and GCF_003814735.1 are identical
+WARNING: Partition trpB: Sequences GCF_002217715.1 and GCF_016654065.1 are identical
+WARNING: Partition trpB: Sequences GCF_002217715.1 and GCF_016612645.1 are identical
+WARNING: Partition trpB: Sequences GCF_002217715.1 and GCF_016612575.1 are identical
+WARNING: Partition trpB: Sequences GCF_002289335.1 and GCF_002317005.1 are identical
+WARNING: Partition trpB: Sequences GCF_002289335.1 and GCF_002317025.1 are identical
+WARNING: Partition trpB: Sequences GCF_002289335.1 and GCF_013363555.1 are identical
+WARNING: Partition trpB: Sequences GCF_002551015.1 and GCF_002551055.1 are identical
+WARNING: Partition trpB: Sequences GCF_002551345.1 and GCF_016612665.1 are identical
+WARNING: Partition trpB: Sequences GCF_900102245.1 and GCF_900105235.1 are identical
+WARNING: Partition trpB: Sequences GCF_900102245.1 and GCF_900105775.1 are identical
+WARNING: Partition trpB: Sequences GCF_900102245.1 and GCF_900187385.1 are identical
+WARNING: Partition trpB: Sequences GCF_002802945.1 and GCF_010548725.1 are identical
+WARNING: Partition trpB: Sequences GCF_002802945.1 and GCF_011170105.1 are identical
+WARNING: Partition trpB: Sequences GCF_002802945.1 and GCF_011170125.1 are identical
+WARNING: Partition trpB: Sequences GCF_002802945.1 and GCF_014648935.1 are identical
+WARNING: Partition trpB: Sequences GCF_002802945.1 and GCF_015680775.2 are identical
+WARNING: Partition trpB: Sequences GCF_900105245.1 and GCF_002846455.1 are identical
+WARNING: Partition trpB: Sequences GCF_002910795.1 and GCF_002910815.1 are identical
+WARNING: Partition trpB: Sequences GCF_002910795.1 and GCF_900091785.1 are identical
+WARNING: Partition trpB: Sequences GCF_002910985.1 and GCF_002910935.1 are identical
+WARNING: Partition trpB: Sequences GCF_003352445.1 and GCF_006788935.1 are identical
+WARNING: Partition trpB: Sequences GCF_003352445.1 and GCF_014649215.1 are identical
+WARNING: Partition trpB: Sequences GCF_014205315.1 and GCF_003675955.1 are identical
+WARNING: Partition trpB: Sequences GCF_003984965.1 and GCF_003984975.1 are identical
+WARNING: Partition trpB: Sequences GCF_004125275.1 and GCF_003994375.1 are identical
+WARNING: Partition trpB: Sequences GCF_004000395.1 and GCF_004195895.1 are identical
+WARNING: Partition trpB: Sequences GCF_008632535.1 and GCF_014648875.1 are identical
+WARNING: Partition trpB: Sequences GCF_014654895.1 and GCF_008634015.1 are identical
+WARNING: Partition trpB: Sequences GCF_008704715.1 and GCF_014650315.1 are identical
+WARNING: Partition trpB: Sequences GCF_009299385.1 and GCF_011758705.1 are identical
+WARNING: Partition trpB: Sequences GCF_009299385.1 and GCF_014197485.1 are identical
+WARNING: Partition trpB: Sequences GCF_009811575.1 and GCF_014656235.1 are identical
+WARNING: Partition trpB: Sequences GCF_900091985.1 and GCF_900091975.1 are identical
+WARNING: Partition trpB: Sequences GCF_900091985.1 and GCF_009862025.1 are identical
+WARNING: Partition trpB: Sequences GCF_900091765.1 and GCF_009862465.1 are identical
+WARNING: Partition trpB: Sequences GCF_009863125.1 and GCF_900091725.1 are identical
+WARNING: Partition trpB: Sequences GCF_009863145.1 and GCF_900091775.1 are identical
+WARNING: Partition trpB: Sequences GCF_009864905.1 and GCF_900187925.1 are identical
+WARNING: Partition trpB: Sequences GCF_017979945.1 and GCF_010523235.1 are identical
+WARNING: Partition trpB: Sequences GCF_010548465.1 and GCF_010550365.1 are identical
+WARNING: Partition trpB: Sequences GCF_010548465.1 and GCF_010550645.1 are identical
+WARNING: Partition trpB: Sequences GCF_010548705.1 and GCF_010550525.1 are identical
+WARNING: Partition trpB: Sequences GCF_012927245.1 and GCF_012927225.1 are identical
+WARNING: Partition trpB: Sequences GCF_013363665.1 and GCF_013363455.1 are identical
+WARNING: Partition trpB: Sequences GCF_013363665.1 and GCF_013363655.1 are identical
+WARNING: Partition trpB: Sequences GCF_013363465.1 and GCF_015601545.1 are identical
+WARNING: Partition trpB: Sequences GCF_013364315.1 and GCF_016772455.1 are identical
+WARNING: Partition trpB: Sequences GCF_014138735.1 and GCF_014649315.1 are identical
+WARNING: Partition trpB: Sequences GCF_014650615.1 and GCF_014203495.1 are identical
+WARNING: Partition trpB: Sequences GCF_014203535.1 and GCF_014649635.1 are identical
+WARNING: Partition trpB: Sequences GCF_016612775.1 and GCF_016612725.1 are identical
+WARNING: Partition trpB: Sequences GCF_016612775.1 and GCF_016612705.1 are identical
+WARNING: Partition trpB: Sequences GCF_017933235.1 and GCF_017968965.1 are identical
+WARNING: Partition trpB: Sequences GCF_017969005.1 and GCF_017969025.1 are identical
+WARNING: Partition trpB: Sequences GCF_018070175.1 and GCF_018070265.1 are identical
+WARNING: Partition trpB: Sequences GCF_018070665.1 and GCF_018070745.1 are identical
+WARNING: Partition trpB: Sequences GCF_018614185.1 and GCF_018614355.1 are identical
+WARNING: Partition trpB: Sequences GCF_018619195.1 and GCF_018619165.1 are identical
+WARNING: Partition trpB: Sequences GCF_018619195.1 and GCF_018619235.1 are identical
+WARNING: MSA has not enough sites to infer reliable results
+WARNING: MSA has not enough sites to infer reliable results
+Creating new checkpoint file: ../output/modeltest_ng_output/output.ckp
+--------------------------------------------------------------------------------
+ModelTest-NG v0.1.7
+
+Input data:
+  MSA:        ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta
+  Tree:       Maximum parsimony
+    file:           -
+  #taxa:            873
+  #sites:           10386
+  #patterns (sum):  4276
+  Max. thread mem:  560 MB
+
+Output:
+  Log:           ../output/modeltest_ng_output/output.log
+  Starting tree: ../output/modeltest_ng_output/output.tree
+  Results:       ../output/modeltest_ng_output/output.out
+
+Selection options:
+  # dna schemes:      11
+  # dna models:       88
+  include model parameters:
+    Uniform:         true
+    p-inv (+I):      true
+    gamma (+G):      true
+    both (+I+G):     true
+    free rates (+R): false
+    fixed freqs:     true
+    estimated freqs: true
+    #categories:     4
+  gamma rates mode:   mean
+  asc bias:           none
+  epsilon (opt):      0.01
+  epsilon (par):      0.05
+  keep branches:      false
+
+Additional options:
+  verbosity:        very low
+  threads:          1/4
+  RNG seed:         12345
+  subtree repeats:  enabled
+Partitions:    ../output/alignments/concatenated/partition_file_no_gaps.txt
+               6 partitions
+                  6 DNA partitions
+--------------------------------------------------------------------------------
+modeltest-ng was called as follows: 
+>> modeltest-ng -i ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -q ../output/alignments/concatenated/partition_file_no_gaps.txt -o ../output/modeltest_ng_output/output 
+
+
+modeltest-ng: Warning: You are using one single thread out of 4 physical cores.
+modeltest-ng:          You can set the number of threads with -p argument.
+modeltest-ng: Try 'modeltest-ng --help' or 'modeltest-ng --usage' for more information
+
+Partition 1/6
+
+ ----ID---  ----MODEL---- ---Time--- -Elapsed--- -------LnL------- -Alpha- -P-inv-
+
+Computation of likelihood scores completed. It took 0h:02:11
+
+BIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  TPM1uf+I+G4        7    -13275.9538     42736.2821         0.0000    1.0000
+       2  TPM3uf+I+G4        7    -13288.8268     42762.0282        25.7461    0.0000
+       3  TIM1+I+G4          8    -13291.9638     42777.5504        41.2683    0.0000
+       4  TPM2uf+I+G4        7    -13297.0445     42778.4635        42.1814    0.0000
+       5  HKY+I+G4           6    -13304.9500     42785.0264        48.7442    0.0000
+       6  TrN+I+G4           7    -13309.9279     42804.2303        67.9482    0.0000
+       7  TIM2+I+G4          8    -13306.1436     42805.9100        69.6279    0.0000
+       8  TIM3+I+G4          8    -13308.4316     42810.4860        74.2038    0.0000
+       9  TIM2ef+I+G4        5    -13377.1280     42920.1342       183.8521    0.0000
+      10  TPM2+I+G4          4    -13401.9186     42960.4672       224.1850    0.0000
+--------------------------------------------------------------------------------
+Best model according to BIC
+---------------------------
+Model:              TPM1uf+I+G4
+lnL:                -13275.9538
+Frequencies:        0.1645 0.2888 0.3289 0.2178
+Subst. Rates:       1.0000 2.3729 0.5751 0.5751 2.3729 1.0000 
+Inv. sites prop:    0.8101
+Gamma shape:        0.4683
+Score:              42736.2821
+Weight:             1.0000
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.1438
+Alpha-P.Inv:        0.4683
+P.Inv-Alpha:        0.8101
+Frequencies:        0.1645 0.2888 0.3289 0.2178 
+
+Commands:
+  > phyml  -i ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m 012210 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta --model TPM1uf+I+G4
+  > paup -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta
+  > iqtree -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m TPM1uf+I+G4
+
+AIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  TPM1uf+I+G4        7    -13275.9538     30051.9076         0.0000    1.0000
+       2  TPM3uf+I+G4        7    -13288.8268     30077.6537        25.7461    0.0000
+       3  TIM1+I+G4          8    -13291.9638     30085.9276        34.0200    0.0000
+       4  TPM2uf+I+G4        7    -13297.0445     30094.0890        42.1814    0.0000
+       5  HKY+I+G4           6    -13304.9500     30107.9000        55.9924    0.0000
+       6  TIM2+I+G4          8    -13306.1436     30114.2873        62.3797    0.0000
+       7  TIM3+I+G4          8    -13308.4316     30118.8632        66.9556    0.0000
+       8  TrN+I+G4           7    -13309.9279     30119.8558        67.9482    0.0000
+       9  TIM2ef+I+G4        5    -13377.1280     30250.2561       198.3485    0.0000
+      10  TPM2+I+G4          4    -13401.9186     30297.8373       245.9297    0.0000
+--------------------------------------------------------------------------------
+Best model according to AIC
+---------------------------
+Model:              TPM1uf+I+G4
+lnL:                -13275.9538
+Frequencies:        0.1645 0.2888 0.3289 0.2178
+Subst. Rates:       1.0000 2.3729 0.5751 0.5751 2.3729 1.0000 
+Inv. sites prop:    0.8101
+Gamma shape:        0.4683
+Score:              30051.9076
+Weight:             1.0000
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.1435
+Alpha-P.Inv:        0.4683
+P.Inv-Alpha:        0.8101
+Frequencies:        0.1645 0.2888 0.3289 0.2178 
+
+Commands:
+  > phyml  -i ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m 012210 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta --model TPM1uf+I+G4
+  > paup -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta
+  > iqtree -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m TPM1uf+I+G4
+
+AICc      model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  TPM1uf+I+G4        7    -13275.9538     30760.9076         0.0000    1.0000
+       2  TPM3uf+I+G4        7    -13288.8268     30786.6537        25.7461    0.0000
+       3  TIM1+I+G4          8    -13291.9638     30795.9276        35.0200    0.0000
+       4  TPM2uf+I+G4        7    -13297.0445     30803.0890        42.1814    0.0000
+       5  HKY+I+G4           6    -13304.9500     30815.9000        54.9924    0.0000
+       6  TIM2+I+G4          8    -13306.1436     30824.2873        63.3797    0.0000
+       7  TrN+I+G4           7    -13309.9279     30828.8558        67.9482    0.0000
+       8  TIM3+I+G4          8    -13308.4316     30828.8632        67.9556    0.0000
+       9  TIM2ef+I+G4        5    -13377.1280     30957.2561       196.3485    0.0000
+      10  TPM2+I+G4          4    -13401.9186     31004.8373       243.9297    0.0000
+--------------------------------------------------------------------------------
+Best model according to AICc
+---------------------------
+Model:              TPM1uf+I+G4
+lnL:                -13275.9538
+Frequencies:        0.1645 0.2888 0.3289 0.2178
+Subst. Rates:       1.0000 2.3729 0.5751 0.5751 2.3729 1.0000 
+Inv. sites prop:    0.8101
+Gamma shape:        0.4683
+Score:              30760.9076
+Weight:             1.0000
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.1435
+Alpha-P.Inv:        0.4683
+P.Inv-Alpha:        0.8101
+Frequencies:        0.1645 0.2888 0.3289 0.2178 
+
+Commands:
+  > phyml  -i ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m 012210 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta --model TPM1uf+I+G4
+  > paup -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta
+  > iqtree -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m TPM1uf+I+G4
+
+Partition 2/6
+
+ ----ID---  ----MODEL---- ---Time--- -Elapsed--- -------LnL------- -Alpha- -P-inv-
+
+Computation of likelihood scores completed. It took 0h:07:56
+
+BIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  TIM1+I+G4          8    -44086.1846    104365.9920         0.0000    0.9980
+       2  GTR+I+G4          10    -44083.1561    104378.4314        12.4394    0.0020
+       3  TVM+I+G4           9    -44096.3376    104395.5462        29.5542    0.0000
+       4  TPM1uf+I+G4        7    -44111.3475    104407.0695        41.0774    0.0000
+       5  TIM3+I+G4          8    -44158.8360    104511.2947       145.3027    0.0000
+       6  TPM3uf+I+G4        7    -44167.6089    104519.5923       153.6003    0.0000
+       7  TrN+I+G4           7    -44168.3662    104521.1069       155.1149    0.0000
+       8  TIM2+I+G4          8    -44166.1462    104525.9153       159.9233    0.0000
+       9  HKY+I+G4           6    -44195.8815    104566.8893       200.8973    0.0000
+      10  TPM2uf+I+G4        7    -44193.4793    104571.3331       205.3411    0.0000
+--------------------------------------------------------------------------------
+Best model according to BIC
+---------------------------
+Model:              TIM1+I+G4
+lnL:                -44086.1846
+Frequencies:        0.0951 0.4621 0.3288 0.1140
+Subst. Rates:       1.0000 1.7911 1.7608 1.7608 2.9997 1.0000 
+Inv. sites prop:    0.5606
+Gamma shape:        0.7929
+Score:              104365.9920
+Weight:             0.9980
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.2996
+Alpha-P.Inv:        0.7928
+P.Inv-Alpha:        0.5606
+Frequencies:        0.0951 0.4621 0.3288 0.1139 
+
+Commands:
+  > phyml  -i ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m 012230 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta --model TIM1+I+G4
+  > paup -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta
+  > iqtree -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m TIM1+I+G4
+
+AIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+I+G4          10    -44083.1561     91672.3122         0.0000    0.7366
+       2  TIM1+I+G4          8    -44086.1846     91674.3692         2.0570    0.2634
+       3  TVM+I+G4           9    -44096.3376     91696.6752        24.3630    0.0000
+       4  TPM1uf+I+G4        7    -44111.3475     91722.6949        50.3827    0.0000
+       5  TIM3+I+G4          8    -44158.8360     91819.6719       147.3597    0.0000
+       6  TIM2+I+G4          8    -44166.1462     91834.2925       161.9803    0.0000
+       7  TPM3uf+I+G4        7    -44167.6089     91835.2177       162.9055    0.0000
+       8  TrN+I+G4           7    -44168.3662     91836.7324       164.4201    0.0000
+       9  TPM2uf+I+G4        7    -44193.4793     91886.9585       214.6463    0.0000
+      10  HKY+I+G4           6    -44195.8815     91889.7629       217.4507    0.0000
+--------------------------------------------------------------------------------
+Best model according to AIC
+---------------------------
+Model:              GTR+I+G4
+lnL:                -44083.1561
+Frequencies:        0.0877 0.4647 0.3395 0.1081
+Subst. Rates:       1.1264 1.9160 2.1803 1.7277 3.2443 1.0000 
+Inv. sites prop:    0.5591
+Gamma shape:        0.7615
+Score:              91672.3122
+Weight:             0.7366
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.2980
+Alpha-P.Inv:        0.7698
+P.Inv-Alpha:        0.5595
+Frequencies:        0.0897 0.4640 0.3367 0.1096 
+
+Commands:
+  > phyml  -i ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m 012345 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta --model GTR+I+G4
+  > paup -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta
+  > iqtree -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTR+I+G4
+
+AICc      model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+I+G4          10    -44083.1561     92384.3122         0.0000    0.5071
+       2  TIM1+I+G4          8    -44086.1846     92384.3692         0.0570    0.4929
+       3  TVM+I+G4           9    -44096.3376     92407.6752        23.3630    0.0000
+       4  TPM1uf+I+G4        7    -44111.3475     92431.6949        47.3827    0.0000
+       5  TIM3+I+G4          8    -44158.8360     92529.6719       145.3597    0.0000
+       6  TPM3uf+I+G4        7    -44167.6089     92544.2177       159.9055    0.0000
+       7  TIM2+I+G4          8    -44166.1462     92544.2925       159.9803    0.0000
+       8  TrN+I+G4           7    -44168.3662     92545.7324       161.4201    0.0000
+       9  TPM2uf+I+G4        7    -44193.4793     92595.9585       211.6463    0.0000
+      10  HKY+I+G4           6    -44195.8815     92597.7629       213.4507    0.0000
+--------------------------------------------------------------------------------
+Best model according to AICc
+---------------------------
+Model:              GTR+I+G4
+lnL:                -44083.1561
+Frequencies:        0.0877 0.4647 0.3395 0.1081
+Subst. Rates:       1.1264 1.9160 2.1803 1.7277 3.2443 1.0000 
+Inv. sites prop:    0.5591
+Gamma shape:        0.7615
+Score:              92384.3122
+Weight:             0.5071
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.2988
+Alpha-P.Inv:        0.7770
+P.Inv-Alpha:        0.5598
+Frequencies:        0.0914 0.4634 0.3342 0.1110 
+
+Commands:
+  > phyml  -i ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m 012345 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta --model GTR+I+G4
+  > paup -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta
+  > iqtree -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTR+I+G4
+
+Partition 3/6
+
+ ----ID---  ----MODEL---- ---Time--- -Elapsed--- -------LnL------- -Alpha- -P-inv-
+
+Computation of likelihood scores completed. It took 0h:18:00
+
+BIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+I+G4          10    -94762.5190    205737.1571         0.0000    1.0000
+       2  GTR+G4             9    -94804.1511    205811.1731        74.0160    0.0000
+       3  TIM1+I+G4          8    -94813.6623    205820.9473        83.7903    0.0000
+       4  TVM+I+G4           9    -94828.3064    205859.4839       122.3268    0.0000
+       5  TIM1+G4            7    -94855.0434    205894.4613       157.3042    0.0000
+       6  TVM+G4             8    -94863.5323    205920.6873       183.5302    0.0000
+       7  TrN+I+G4           7    -94979.6592    206143.6929       406.5358    0.0000
+       8  TIM3+I+G4          8    -94976.7554    206147.1335       409.9764    0.0000
+       9  TIM2+I+G4          8    -94981.7139    206157.0506       419.8935    0.0000
+      10  TPM1uf+I+G4        7    -94986.8531    206158.0807       420.9236    0.0000
+--------------------------------------------------------------------------------
+Best model according to BIC
+---------------------------
+Model:              GTR+I+G4
+lnL:                -94762.5190
+Frequencies:        0.0842 0.4910 0.3643 0.0606
+Subst. Rates:       0.9855 1.8837 3.2944 1.2745 4.7903 1.0000 
+Inv. sites prop:    0.1000
+Gamma shape:        0.4910
+Score:              205737.1571
+Weight:             1.0000
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.4834
+Alpha-P.Inv:        0.4910
+P.Inv-Alpha:        0.1000
+Frequencies:        0.0842 0.4910 0.3643 0.0606 
+
+Commands:
+  > phyml  -i ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m 012345 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta --model GTR+I+G4
+  > paup -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta
+  > iqtree -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTR+I+G4
+
+AIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+I+G4          10    -94762.5190    193031.0379         0.0000    1.0000
+       2  GTR+G4             9    -94804.1511    193112.3021        81.2642    0.0000
+       3  TIM1+I+G4          8    -94813.6623    193129.3246        98.2867    0.0000
+       4  TVM+I+G4           9    -94828.3064    193160.6129       129.5750    0.0000
+       5  TIM1+G4            7    -94855.0434    193210.0868       179.0489    0.0000
+       6  TVM+G4             8    -94863.5323    193229.0646       198.0267    0.0000
+       7  TIM3+I+G4          8    -94976.7554    193455.5107       424.4728    0.0000
+       8  TrN+I+G4           7    -94979.6592    193459.3184       428.2805    0.0000
+       9  TIM2+I+G4          8    -94981.7139    193465.4278       434.3899    0.0000
+      10  TPM1uf+I+G4        7    -94986.8531    193473.7061       442.6682    0.0000
+--------------------------------------------------------------------------------
+Best model according to AIC
+---------------------------
+Model:              GTR+I+G4
+lnL:                -94762.5190
+Frequencies:        0.0842 0.4910 0.3643 0.0606
+Subst. Rates:       0.9855 1.8837 3.2944 1.2745 4.7903 1.0000 
+Inv. sites prop:    0.1000
+Gamma shape:        0.4910
+Score:              193031.0379
+Weight:             1.0000
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.4834
+Alpha-P.Inv:        0.4910
+P.Inv-Alpha:        0.1000
+Frequencies:        0.0842 0.4910 0.3643 0.0606 
+
+Commands:
+  > phyml  -i ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m 012345 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta --model GTR+I+G4
+  > paup -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta
+  > iqtree -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTR+I+G4
+
+AICc      model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+I+G4          10    -94762.5190    193743.0379         0.0000    1.0000
+       2  GTR+G4             9    -94804.1511    193823.3021        80.2642    0.0000
+       3  TIM1+I+G4          8    -94813.6623    193839.3246        96.2867    0.0000
+       4  TVM+I+G4           9    -94828.3064    193871.6129       128.5750    0.0000
+       5  TIM1+G4            7    -94855.0434    193919.0868       176.0489    0.0000
+       6  TVM+G4             8    -94863.5323    193939.0646       196.0267    0.0000
+       7  TIM3+I+G4          8    -94976.7554    194165.5107       422.4728    0.0000
+       8  TrN+I+G4           7    -94979.6592    194168.3184       425.2805    0.0000
+       9  TIM2+I+G4          8    -94981.7139    194175.4278       432.3899    0.0000
+      10  TPM1uf+I+G4        7    -94986.8531    194182.7061       439.6682    0.0000
+--------------------------------------------------------------------------------
+Best model according to AICc
+---------------------------
+Model:              GTR+I+G4
+lnL:                -94762.5190
+Frequencies:        0.0842 0.4910 0.3643 0.0606
+Subst. Rates:       0.9855 1.8837 3.2944 1.2745 4.7903 1.0000 
+Inv. sites prop:    0.1000
+Gamma shape:        0.4910
+Score:              193743.0379
+Weight:             1.0000
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.4834
+Alpha-P.Inv:        0.4910
+P.Inv-Alpha:        0.1000
+Frequencies:        0.0842 0.4910 0.3643 0.0606 
+
+Commands:
+  > phyml  -i ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m 012345 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta --model GTR+I+G4
+  > paup -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta
+  > iqtree -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTR+I+G4
+
+Partition 4/6
+
+ ----ID---  ----MODEL---- ---Time--- -Elapsed--- -------LnL------- -Alpha- -P-inv-
+
+Computation of likelihood scores completed. It took 0h:23:10
+
+BIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+G4             9    -40689.8430     97582.5570         0.0000    0.9841
+       2  GTR+I+G4          10    -40689.3457     97590.8106         8.2536    0.0159
+       3  TVM+I+G4           9    -40745.8331     97694.5371       111.9800    0.0000
+       4  TVM+G4             8    -40753.8127     97701.2481       118.6911    0.0000
+       5  TrN+I+G4           7    -40778.2577     97740.8900       158.3329    0.0000
+       6  TIM2+G4            7    -40781.5024     97747.3793       164.8222    0.0000
+       7  TIM3+I+G4          8    -40782.5141     97758.6510       176.0940    0.0000
+       8  TIM3+G4            7    -40789.2120     97762.7986       180.2416    0.0000
+       9  TIM2+I+G4          8    -40787.6024     97768.8275       186.2705    0.0000
+      10  TrN+G4             6    -40800.7168     97776.5599       194.0028    0.0000
+--------------------------------------------------------------------------------
+Best model according to BIC
+---------------------------
+Model:              GTR+G4
+lnL:                -40689.8430
+Frequencies:        0.1481 0.4624 0.3456 0.0439
+Subst. Rates:       0.2651 0.6798 1.2573 0.6105 4.4725 1.0000 
+Inv. sites prop:    -
+Gamma shape:        0.3592
+Score:              97582.5570
+Weight:             0.9841
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.9841
+Gamma-Inv:          0.0159
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.3592
+Alpha-P.Inv:        0.3783
+P.Inv-Alpha:        0.0276
+Frequencies:        0.1481 0.4624 0.3456 0.0439 
+
+Commands:
+  > phyml  -i ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m 012345 -f m -v 0 -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTRGAMMAX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta --model GTR+G4
+  > paup -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta
+  > iqtree -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTR+G4
+
+AIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+G4             9    -40689.8430     84883.6861         0.0000    0.6231
+       2  GTR+I+G4          10    -40689.3457     84884.6915         1.0054    0.3769
+       3  TVM+I+G4           9    -40745.8331     84995.6661       111.9800    0.0000
+       4  TVM+G4             8    -40753.8127     85009.6253       125.9393    0.0000
+       5  TrN+I+G4           7    -40778.2577     85056.5154       172.8294    0.0000
+       6  TIM2+G4            7    -40781.5024     85063.0047       179.3186    0.0000
+       7  TIM3+I+G4          8    -40782.5141     85067.0282       183.3422    0.0000
+       8  TIM2+I+G4          8    -40787.6024     85077.2047       193.5187    0.0000
+       9  TIM3+G4            7    -40789.2120     85078.4241       194.7380    0.0000
+      10  TPM2uf+I+G4        7    -40797.1793     85094.3586       210.6725    0.0000
+--------------------------------------------------------------------------------
+Best model according to AIC
+---------------------------
+Model:              GTR+G4
+lnL:                -40689.8430
+Frequencies:        0.1481 0.4624 0.3456 0.0439
+Subst. Rates:       0.2651 0.6798 1.2573 0.6105 4.4725 1.0000 
+Inv. sites prop:    -
+Gamma shape:        0.3592
+Score:              84883.6861
+Weight:             0.6231
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.6231
+Gamma-Inv:          0.3769
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.3592
+Alpha-P.Inv:        0.3783
+P.Inv-Alpha:        0.0276
+Frequencies:        0.1481 0.4623 0.3453 0.0442 
+
+Commands:
+  > phyml  -i ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m 012345 -f m -v 0 -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTRGAMMAX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta --model GTR+G4
+  > paup -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta
+  > iqtree -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTR+G4
+
+AICc      model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+G4             9    -40689.8430     85594.6861         0.0000    0.7316
+       2  GTR+I+G4          10    -40689.3457     85596.6915         2.0054    0.2684
+       3  TVM+I+G4           9    -40745.8331     85706.6661       111.9800    0.0000
+       4  TVM+G4             8    -40753.8127     85719.6253       124.9393    0.0000
+       5  TrN+I+G4           7    -40778.2577     85765.5154       170.8294    0.0000
+       6  TIM2+G4            7    -40781.5024     85772.0047       177.3186    0.0000
+       7  TIM3+I+G4          8    -40782.5141     85777.0282       182.3422    0.0000
+       8  TIM2+I+G4          8    -40787.6024     85787.2047       192.5187    0.0000
+       9  TIM3+G4            7    -40789.2120     85787.4241       192.7380    0.0000
+      10  TPM2uf+I+G4        7    -40797.1793     85803.3586       208.6725    0.0000
+--------------------------------------------------------------------------------
+Best model according to AICc
+---------------------------
+Model:              GTR+G4
+lnL:                -40689.8430
+Frequencies:        0.1481 0.4624 0.3456 0.0439
+Subst. Rates:       0.2651 0.6798 1.2573 0.6105 4.4725 1.0000 
+Inv. sites prop:    -
+Gamma shape:        0.3592
+Score:              85594.6861
+Weight:             0.7316
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.7316
+Gamma-Inv:          0.2684
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.3592
+Alpha-P.Inv:        0.3783
+P.Inv-Alpha:        0.0276
+Frequencies:        0.1481 0.4624 0.3454 0.0441 
+
+Commands:
+  > phyml  -i ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m 012345 -f m -v 0 -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTRGAMMAX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta --model GTR+G4
+  > paup -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta
+  > iqtree -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTR+G4
+
+Partition 5/6
+
+ ----ID---  ----MODEL---- ---Time--- -Elapsed--- -------LnL------- -Alpha- -P-inv-
+
+Computation of likelihood scores completed. It took 0h:33:56
+
+BIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+I+G4          10   -110168.3255    236548.7701         0.0000    1.0000
+       2  TIM1+I+G4          8   -110230.6865    236654.9957       106.2256    0.0000
+       3  TVM+I+G4           9   -110228.3666    236659.6043       110.8341    0.0000
+       4  TPM1uf+I+G4        7   -110356.5614    236897.4973       348.7272    0.0000
+       5  GTR+G4             9   -110375.1669    236953.2047       404.4346    0.0000
+       6  TIM1+G4            7   -110416.5474    237017.4694       468.6993    0.0000
+       7  TrN+I+G4           7   -110530.2965    237244.9676       696.1975    0.0000
+       8  TIM3+I+G4          8   -110529.2633    237252.1494       703.3793    0.0000
+       9  TIM2+I+G4          8   -110543.6654    237280.9535       732.1833    0.0000
+      10  TPM3uf+I+G4        7   -110551.7682    237287.9110       739.1408    0.0000
+--------------------------------------------------------------------------------
+Best model according to BIC
+---------------------------
+Model:              GTR+I+G4
+lnL:                -110168.3255
+Frequencies:        0.1157 0.4552 0.3409 0.0881
+Subst. Rates:       0.7239 1.6192 2.2216 1.6645 3.9526 1.0000 
+Inv. sites prop:    0.2527
+Gamma shape:        0.5085
+Score:              236548.7701
+Weight:             1.0000
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.2877
+Alpha-P.Inv:        0.5085
+P.Inv-Alpha:        0.2527
+Frequencies:        0.1157 0.4552 0.3409 0.0881 
+
+Commands:
+  > phyml  -i ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m 012345 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta --model GTR+I+G4
+  > paup -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta
+  > iqtree -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTR+I+G4
+
+AIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+I+G4          10   -110168.3255    223842.6510         0.0000    1.0000
+       2  TVM+I+G4           9   -110228.3666    223960.7333       118.0823    0.0000
+       3  TIM1+I+G4          8   -110230.6865    223963.3730       120.7220    0.0000
+       4  TPM1uf+I+G4        7   -110356.5614    224213.1228       370.4718    0.0000
+       5  GTR+G4             9   -110375.1669    224254.3337       411.6828    0.0000
+       6  TIM1+G4            7   -110416.5474    224333.0949       490.4439    0.0000
+       7  TIM3+I+G4          8   -110529.2633    224560.5267       717.8757    0.0000
+       8  TrN+I+G4           7   -110530.2965    224560.5931       717.9421    0.0000
+       9  TIM2+I+G4          8   -110543.6654    224589.3307       746.6798    0.0000
+      10  TPM3uf+I+G4        7   -110551.7682    224603.5364       760.8855    0.0000
+--------------------------------------------------------------------------------
+Best model according to AIC
+---------------------------
+Model:              GTR+I+G4
+lnL:                -110168.3255
+Frequencies:        0.1157 0.4552 0.3409 0.0881
+Subst. Rates:       0.7239 1.6192 2.2216 1.6645 3.9526 1.0000 
+Inv. sites prop:    0.2527
+Gamma shape:        0.5085
+Score:              223842.6510
+Weight:             1.0000
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.2877
+Alpha-P.Inv:        0.5085
+P.Inv-Alpha:        0.2527
+Frequencies:        0.1157 0.4552 0.3409 0.0881 
+
+Commands:
+  > phyml  -i ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m 012345 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta --model GTR+I+G4
+  > paup -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta
+  > iqtree -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTR+I+G4
+
+AICc      model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+I+G4          10   -110168.3255    224554.6510         0.0000    1.0000
+       2  TVM+I+G4           9   -110228.3666    224671.7333       117.0823    0.0000
+       3  TIM1+I+G4          8   -110230.6865    224673.3730       118.7220    0.0000
+       4  TPM1uf+I+G4        7   -110356.5614    224922.1228       367.4718    0.0000
+       5  GTR+G4             9   -110375.1669    224965.3337       410.6828    0.0000
+       6  TIM1+G4            7   -110416.5474    225042.0949       487.4439    0.0000
+       7  TrN+I+G4           7   -110530.2965    225269.5931       714.9421    0.0000
+       8  TIM3+I+G4          8   -110529.2633    225270.5267       715.8757    0.0000
+       9  TIM2+I+G4          8   -110543.6654    225299.3307       744.6798    0.0000
+      10  TPM3uf+I+G4        7   -110551.7682    225312.5364       757.8855    0.0000
+--------------------------------------------------------------------------------
+Best model according to AICc
+---------------------------
+Model:              GTR+I+G4
+lnL:                -110168.3255
+Frequencies:        0.1157 0.4552 0.3409 0.0881
+Subst. Rates:       0.7239 1.6192 2.2216 1.6645 3.9526 1.0000 
+Inv. sites prop:    0.2527
+Gamma shape:        0.5085
+Score:              224554.6510
+Weight:             1.0000
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.2877
+Alpha-P.Inv:        0.5085
+P.Inv-Alpha:        0.2527
+Frequencies:        0.1157 0.4552 0.3409 0.0881 
+
+Commands:
+  > phyml  -i ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m 012345 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta --model GTR+I+G4
+  > paup -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta
+  > iqtree -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTR+I+G4
+
+Partition 6/6
+
+ ----ID---  ----MODEL---- ---Time--- -Elapsed--- -------LnL------- -Alpha- -P-inv-
+
+Computation of likelihood scores completed. It took 0h:42:18
+
+BIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  TIM2+I+G4          8    -68359.8483    152913.3193         0.0000    1.0000
+       2  TPM2uf+I+G4        7    -68396.6659    152977.7063        64.3870    0.0000
+       3  HKY+I+G4           6    -68401.5089    152978.1442        64.8249    0.0000
+       4  GTR+I+G4          10    -68594.0193    153400.1578       486.8385    0.0000
+       5  TIM3+I+G4          8    -68608.8541    153411.3309       498.0116    0.0000
+       6  TVM+I+G4           9    -68609.6348    153422.1406       508.8213    0.0000
+       7  GTR+G4             9    -68692.9346    153588.7401       675.4208    0.0000
+       8  TIM3+G4            7    -68710.2456    153604.8658       691.5466    0.0000
+       9  TrN+I+G4           7    -68712.4626    153609.2997       695.9804    0.0000
+      10  TPM1uf+I+G4        7    -68722.7130    153629.8005       716.4812    0.0000
+--------------------------------------------------------------------------------
+Best model according to BIC
+---------------------------
+Model:              TIM2+I+G4
+lnL:                -68359.8483
+Frequencies:        0.0474 0.5558 0.3535 0.0433
+Subst. Rates:       1.5620 4.2565 1.5620 1.0000 3.7182 1.0000 
+Inv. sites prop:    0.4107
+Gamma shape:        0.6013
+Score:              152913.3193
+Weight:             1.0000
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.3189
+Alpha-P.Inv:        0.6013
+P.Inv-Alpha:        0.4107
+Frequencies:        0.0474 0.5558 0.3535 0.0433 
+
+Commands:
+  > phyml  -i ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m 010232 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta --model TIM2+I+G4
+  > paup -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta
+  > iqtree -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m TIM2+I+G4
+
+AIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  TIM2+I+G4          8    -68359.8483    140221.6965         0.0000    1.0000
+       2  TPM2uf+I+G4        7    -68396.6659    140293.3317        71.6352    0.0000
+       3  HKY+I+G4           6    -68401.5089    140301.0178        79.3213    0.0000
+       4  GTR+I+G4          10    -68594.0193    140694.0386       472.3421    0.0000
+       5  TIM3+I+G4          8    -68608.8541    140719.7081       498.0116    0.0000
+       6  TVM+I+G4           9    -68609.6348    140723.2696       501.5731    0.0000
+       7  GTR+G4             9    -68692.9346    140889.8691       668.1726    0.0000
+       8  TIM3+G4            7    -68710.2456    140920.4913       698.7948    0.0000
+       9  TrN+I+G4           7    -68712.4626    140924.9251       703.2286    0.0000
+      10  TIM1+I+G4          8    -68720.6519    140943.3039       721.6074    0.0000
+--------------------------------------------------------------------------------
+Best model according to AIC
+---------------------------
+Model:              TIM2+I+G4
+lnL:                -68359.8483
+Frequencies:        0.0474 0.5558 0.3535 0.0433
+Subst. Rates:       1.5620 4.2565 1.5620 1.0000 3.7182 1.0000 
+Inv. sites prop:    0.4107
+Gamma shape:        0.6013
+Score:              140221.6965
+Weight:             1.0000
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.3189
+Alpha-P.Inv:        0.6013
+P.Inv-Alpha:        0.4107
+Frequencies:        0.0474 0.5558 0.3535 0.0433 
+
+Commands:
+  > phyml  -i ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m 010232 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta --model TIM2+I+G4
+  > paup -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta
+  > iqtree -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m TIM2+I+G4
+
+AICc      model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  TIM2+I+G4          8    -68359.8483    140931.6965         0.0000    1.0000
+       2  TPM2uf+I+G4        7    -68396.6659    141002.3317        70.6352    0.0000
+       3  HKY+I+G4           6    -68401.5089    141009.0178        77.3213    0.0000
+       4  GTR+I+G4          10    -68594.0193    141406.0386       474.3421    0.0000
+       5  TIM3+I+G4          8    -68608.8541    141429.7081       498.0116    0.0000
+       6  TVM+I+G4           9    -68609.6348    141434.2696       502.5731    0.0000
+       7  GTR+G4             9    -68692.9346    141600.8691       669.1726    0.0000
+       8  TIM3+G4            7    -68710.2456    141629.4913       697.7948    0.0000
+       9  TrN+I+G4           7    -68712.4626    141633.9251       702.2286    0.0000
+      10  TIM1+I+G4          8    -68720.6519    141653.3039       721.6074    0.0000
+--------------------------------------------------------------------------------
+Best model according to AICc
+---------------------------
+Model:              TIM2+I+G4
+lnL:                -68359.8483
+Frequencies:        0.0474 0.5558 0.3535 0.0433
+Subst. Rates:       1.5620 4.2565 1.5620 1.0000 3.7182 1.0000 
+Inv. sites prop:    0.4107
+Gamma shape:        0.6013
+Score:              140931.6965
+Weight:             1.0000
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.3189
+Alpha-P.Inv:        0.6013
+P.Inv-Alpha:        0.4107
+Frequencies:        0.0474 0.5558 0.3535 0.0433 
+
+Commands:
+  > phyml  -i ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m 010232 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta --model TIM2+I+G4
+  > paup -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta
+  > iqtree -s ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta -m TIM2+I+G4
+Summary:
+
+Partition 1/6:
+                         Model         Score        Weight
+----------------------------------------------------------
+       BIC         TPM1uf+I+G4    42736.2821        1.0000
+       AIC         TPM1uf+I+G4    30051.9076        1.0000
+      AICc         TPM1uf+I+G4    30760.9076        1.0000
+
+Partition 2/6:
+                         Model         Score        Weight
+----------------------------------------------------------
+       BIC           TIM1+I+G4   104365.9920        0.9980
+       AIC            GTR+I+G4    91672.3122        0.7366
+      AICc            GTR+I+G4    92384.3122        0.5071
+
+Partition 3/6:
+                         Model         Score        Weight
+----------------------------------------------------------
+       BIC            GTR+I+G4   205737.1571        1.0000
+       AIC            GTR+I+G4   193031.0379        1.0000
+      AICc            GTR+I+G4   193743.0379        1.0000
+
+Partition 4/6:
+                         Model         Score        Weight
+----------------------------------------------------------
+       BIC              GTR+G4    97582.5570        0.9841
+       AIC              GTR+G4    84883.6861        0.6231
+      AICc              GTR+G4    85594.6861        0.7316
+
+Partition 5/6:
+                         Model         Score        Weight
+----------------------------------------------------------
+       BIC            GTR+I+G4   236548.7701        1.0000
+       AIC            GTR+I+G4   223842.6510        1.0000
+      AICc            GTR+I+G4   224554.6510        1.0000
+
+Partition 6/6:
+                         Model         Score        Weight
+----------------------------------------------------------
+       BIC           TIM2+I+G4   152913.3193        1.0000
+       AIC           TIM2+I+G4   140221.6965        1.0000
+      AICc           TIM2+I+G4   140931.6965        1.0000
+
+Result partition files written to ../output/modeltest_ng_output/output.part.*
+Execution results written to ../output/modeltest_ng_output/output.out
+Starting tree written to ../output/modeltest_ng_output/output.tree

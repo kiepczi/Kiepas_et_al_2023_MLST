@@ -1,0 +1,117 @@
+library("ape")
+library(RColorBrewer)
+library(dplyr)
+library('ggplot2')
+library('ggtree')
+library(tidytree)
+library(ggnewscale)
+library("phytools")
+
+gettreedata <- function(tree, meta){
+  #get treedata object
+  d<-meta[row.names(meta) %in% tree$tip.label,]
+  d$label <- row.names(d)
+  y <- full_join(as_tibble(tree), d, by='label')
+  y <- as.treedata(y)
+  return(y)
+}
+
+get_color_mapping <- function(data, col, cmap){
+  labels <- (data[[col]])   
+  names <- levels(as.factor(labels))
+  n <- length(names)
+  if (n<10){      
+    colors <- suppressWarnings(c(brewer.pal(n, cmap)))[1:n]
+  }
+  else {
+    colors <- colorRampPalette(brewer.pal(8, cmap))(n)
+  }
+  names(colors) = names
+  return (colors)
+}
+
+ggplottree <- function(tree, meta, cols=NULL, cmaps=NULL, layout="rectangular",
+                       offset=10, tiplabel=FALSE, tipsize=1) {
+  
+  y <- gettreedata(tree, meta)
+  p <- ggtree(y, layout=layout, ladderize = TRUE, size=0.2) + geom_point2(aes(label=label,  subset = !is.na(as.numeric(label)) & as.numeric(label) < 0.7), colour='#006700', size=3)
+  if (is.null(cols)){
+    return (p)
+  }
+  
+  col <- cols[1]
+  cmap <- cmaps[1]
+  df<-meta[tree$tip.label,][col]
+  colors <- get_color_mapping(df, col, cmap)
+  
+  #tip formatting    
+  p1 <- p + new_scale_fill() +geom_tiplab(size=2, align=TRUE)
+  
+  p2 <- p1
+  if (length(cols)>1){
+    for (i in 2:length(cols)){
+      col <- cols[i]
+      cmap <- cmaps[i]
+      df <- meta[tree$tip.label,][col]
+      type <- class(df[col,])            
+      p2 <- p2 + new_scale_fill()
+      p2 <- gheatmap(p2, df, offset=i*offset, width=.15,
+                     colnames_angle=0, colnames_offset_y = .05)  
+      #deal with continuous values
+      if (type == 'numeric'){               
+        p2 <- p2 + scale_color_brewer(type="div", palette=cmap)
+      }
+      else {
+        colors <- get_color_mapping(df, col, cmap)
+        p2 <- p2 + scale_fill_manual(values=colors, name=col) +theme(legend.position = "none")
+      }          
+    }
+  }
+  
+
+  
+  return(p2)
+}
+
+
+options(repr.plot.width=8, repr.plot.height=6)
+df <- read.csv("../output/congruence/MLSA_tree_annotations.csv", header=TRUE)
+
+pdf(file = "../../supplementary_file_33.pdf",   # The directory you want to save the file in
+    width = 30, # The width of the plot in inches
+    height = 30) # The height of the plot in inches
+
+row.names(df) <- df$Name
+
+p <- ggplottree(tree, df, cols=c('Congruence', 'Congruence'),
+                cmaps=c('Set1', 'Accent'), tipsize=10, offset=.001 ,layout='c')
+
+
+
+plot(p)
+dev.off()
+
+
+
+tree <- ape::read.tree('../output/tree/04_tbe_mlst_trucanated.raxml.support')
+tree <- root(tree, outgroup = "GCF_001418545.1")
+
+options(repr.plot.width=8, repr.plot.height=6)
+df <- read.csv("../output/congruence/MLSA_tree_annotations.csv", header=TRUE)
+
+pdf(file = "../../supplementary_file_20/main_text_figures/phylogeny.pdf",   # The directory you want to save the file in
+    width = 30, # The width of the plot in inches
+    height = 30) # The height of the plot in inches
+
+row.names(df) <- df$Name
+
+p <- ggplottree(tree, df, cols=c('Congruence', 'Congruence'),
+                cmaps=c('Set1', 'Accent'), tipsize=5, offset=0.001 ,layout='c')
+
+
+
+plot(p)
+dev.off()
+
+
+

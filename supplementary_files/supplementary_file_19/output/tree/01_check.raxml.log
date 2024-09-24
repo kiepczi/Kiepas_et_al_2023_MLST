@@ -1,0 +1,268 @@
+
+RAxML-NG v. 1.0.3 released on 21.07.2021 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz, 40 cores, 188 GB RAM
+
+RAxML-NG was called at 15-Sep-2023 14:15:58 as follows:
+
+raxml-ng --check --msa ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta --model ../output/modeltest_ng_output/output.part.bic --prefix ../output/tree/01_check
+
+Analysis options:
+  run mode: Alignment validation
+  start tree(s): 
+  random seed: 1694783758
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (auto)
+
+[00:00:00] Reading alignment from file: ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta
+[00:00:00] Loaded alignment with 873 taxa and 10386 sites
+
+WARNING: Sequences GCF_016906245.1 and GCF_000715745.1 are exactly identical!
+WARNING: Sequences GCF_016906245.1 and GCF_016906205.1 are exactly identical!
+WARNING: Sequences GCF_000717645.1 and GCF_000717965.1 are exactly identical!
+WARNING: Sequences GCF_000717645.1 and GCF_000718245.1 are exactly identical!
+WARNING: Sequences GCF_000717645.1 and GCF_000718615.1 are exactly identical!
+WARNING: Sequences GCF_000717645.1 and GCF_016906225.1 are exactly identical!
+WARNING: Sequences GCF_000717645.1 and GCF_016906185.1 are exactly identical!
+WARNING: Sequences GCF_000725545.1 and GCF_000718175.1 are exactly identical!
+WARNING: Sequences GCF_900105705.1 and GCF_000010605.1 are exactly identical!
+WARNING: Sequences GCF_900105705.1 and GCF_900460065.1 are exactly identical!
+WARNING: Sequences GCF_900105705.1 and GCF_009866455.1 are exactly identical!
+WARNING: Sequences GCF_008704495.1 and GCF_001418465.1 are exactly identical!
+WARNING: Sequences GCF_008639165.1 and GCF_001886595.1 are exactly identical!
+WARNING: Sequences GCF_000720235.1 and GCF_000966965.1 are exactly identical!
+WARNING: Sequences GCF_014650935.1 and GCF_008704535.1 are exactly identical!
+WARNING: Sequences GCF_000359525.1 and GCF_013693715.1 are exactly identical!
+WARNING: Sequences GCF_014648615.1 and GCF_016755855.1 are exactly identical!
+WARNING: Sequences GCF_014648615.1 and GCF_017639205.1 are exactly identical!
+WARNING: Sequences GCF_013409565.1 and GCF_013167895.1 are exactly identical!
+WARNING: Sequences GCF_002727115.1 and GCF_002939475.1 are exactly identical!
+WARNING: Sequences GCF_018138715.1 and GCF_018138705.1 are exactly identical!
+WARNING: Sequences GCF_002155885.1 and GCF_017942185.1 are exactly identical!
+WARNING: Sequences GCF_001278075.1 and GCF_014070435.1 are exactly identical!
+WARNING: Sequences GCF_014650375.1 and GCF_008704555.1 are exactly identical!
+WARNING: Sequences GCF_004195935.1 and GCF_004195955.1 are exactly identical!
+WARNING: Sequences GCF_004196145.1 and GCF_004196155.1 are exactly identical!
+WARNING: Sequences GCF_000813365.1 and GCF_001661615.1 are exactly identical!
+WARNING: Sequences GCF_000009765.2 and GCF_000764715.1 are exactly identical!
+WARNING: Sequences GCF_000009765.2 and GCF_001514135.1 are exactly identical!
+WARNING: Sequences GCF_000009765.2 and GCF_002017835.1 are exactly identical!
+WARNING: Sequences GCF_000009765.2 and GCF_009862865.1 are exactly identical!
+WARNING: Sequences GCF_000009765.2 and GCF_005406005.1 are exactly identical!
+WARNING: Sequences GCF_009870085.1 and GCF_000383595.1 are exactly identical!
+WARNING: Sequences GCF_009870085.1 and GCF_000340335.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015912455.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_001693675.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015912395.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015767935.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015767915.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015767855.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015767875.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015912465.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015767815.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015767795.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015767775.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015767755.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015767735.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015708605.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_005519465.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_003454755.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015767895.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015912875.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_000163875.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015912925.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015912945.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015912975.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015912985.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015912995.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_000148465.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015912895.1 are exactly identical!
+WARNING: Sequences GCF_008931305.1 and GCF_009862445.1 are exactly identical!
+WARNING: Sequences GCF_008931305.1 and GCF_013307045.1 are exactly identical!
+WARNING: Sequences GCF_008931305.1 and GCF_013317105.1 are exactly identical!
+WARNING: Sequences GCF_008931305.1 and GCF_008124975.1 are exactly identical!
+WARNING: Sequences GCF_008931305.1 and GCF_008124915.1 are exactly identical!
+WARNING: Sequences GCF_008931305.1 and GCF_008124905.1 are exactly identical!
+WARNING: Sequences GCF_008931305.1 and GCF_008125035.1 are exactly identical!
+WARNING: Sequences GCF_008931305.1 and GCF_008124985.1 are exactly identical!
+WARNING: Sequences GCF_000955965.1 and GCF_000725785.1 are exactly identical!
+WARNING: Sequences GCF_000718625.1 and GCF_011820545.1 are exactly identical!
+WARNING: Sequences GCF_000716875.1 and GCF_000717725.1 are exactly identical!
+WARNING: Sequences GCF_001514265.1 and GCF_001270505.1 are exactly identical!
+WARNING: Sequences GCF_001514265.1 and GCF_000716215.1 are exactly identical!
+WARNING: Sequences GCF_000718095.1 and GCF_003073355.1 are exactly identical!
+WARNING: Sequences GCF_000719255.1 and GCF_000718635.1 are exactly identical!
+WARNING: Sequences GCF_000380165.1 and GCF_001445835.1 are exactly identical!
+WARNING: Sequences GCF_001270515.1 and GCF_000716445.1 are exactly identical!
+WARNING: Sequences GCF_900091715.1 and GCF_900095575.1 are exactly identical!
+WARNING: Sequences GCF_900091715.1 and GCF_009863165.1 are exactly identical!
+WARNING: Sequences GCF_900091715.1 and GCF_009862475.1 are exactly identical!
+WARNING: Sequences GCF_900091715.1 and GCF_009862105.1 are exactly identical!
+WARNING: Sequences GCF_900091715.1 and GCF_000382745.1 are exactly identical!
+WARNING: Sequences GCF_900091715.1 and GCF_000177195.2 are exactly identical!
+WARNING: Sequences GCF_900091715.1 and GCF_009865465.1 are exactly identical!
+WARNING: Sequences GCF_000226455.1 and GCF_009862985.1 are exactly identical!
+WARNING: Sequences GCF_000226455.1 and GCF_900236475.1 are exactly identical!
+WARNING: Sequences GCF_000226455.1 and GCF_900236505.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_008704655.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_006229535.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_001507395.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_001279375.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_001279105.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_001279095.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_001279075.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_001279025.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_000707925.2 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_000718815.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_001279015.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_000718295.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_000717285.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_000716845.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_000721045.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_000331185.2 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_000718835.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_000720715.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_000718865.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_000720565.1 are exactly identical!
+WARNING: Sequences GCF_000373405.1 and GCF_009872615.1 are exactly identical!
+WARNING: Sequences GCF_000403765.2 and GCF_003851665.1 are exactly identical!
+WARNING: Sequences GCF_009865365.1 and GCF_900091745.1 are exactly identical!
+WARNING: Sequences GCF_009862115.1 and GCF_000647875.1 are exactly identical!
+WARNING: Sequences GCF_002966105.1 and GCF_000700005.2 are exactly identical!
+WARNING: Sequences GCF_002966105.1 and GCF_001190165.1 are exactly identical!
+WARNING: Sequences GCF_002966105.1 and GCF_003122345.2 are exactly identical!
+WARNING: Sequences GCF_002966105.1 and GCF_001756925.1 are exactly identical!
+WARNING: Sequences GCF_000718205.1 and GCF_001270675.1 are exactly identical!
+WARNING: Sequences GCF_000718205.1 and GCF_000721205.1 are exactly identical!
+WARNING: Sequences GCF_000718205.1 and GCF_000719035.1 are exactly identical!
+WARNING: Sequences GCF_000718205.1 and GCF_000718915.1 are exactly identical!
+WARNING: Sequences GCF_000718375.1 and GCF_001279005.1 are exactly identical!
+WARNING: Sequences GCF_000718525.1 and GCF_000721035.1 are exactly identical!
+WARNING: Sequences GCF_000718705.1 and GCF_000719625.1 are exactly identical!
+WARNING: Sequences GCF_000719185.1 and GCF_000718755.1 are exactly identical!
+WARNING: Sequences GCF_000718955.1 and GCF_000720795.1 are exactly identical!
+WARNING: Sequences GCF_000721945.1 and GCF_001513955.1 are exactly identical!
+WARNING: Sequences GCF_001279065.1 and GCF_000725565.1 are exactly identical!
+WARNING: Sequences GCF_004328625.1 and GCF_000725795.1 are exactly identical!
+WARNING: Sequences GCF_001550245.1 and GCF_001005405.1 are exactly identical!
+WARNING: Sequences GCF_001550245.1 and GCF_000738715.1 are exactly identical!
+WARNING: Sequences GCF_014873495.1 and GCF_001008135.1 are exactly identical!
+WARNING: Sequences GCF_001279445.1 and GCF_001279925.1 are exactly identical!
+WARNING: Sequences GCF_001279815.1 and GCF_001279855.1 are exactly identical!
+WARNING: Sequences GCF_001279815.1 and GCF_001279965.1 are exactly identical!
+WARNING: Sequences GCF_001282115.1 and GCF_002156095.1 are exactly identical!
+WARNING: Sequences GCF_001426325.1 and GCF_001427565.1 are exactly identical!
+WARNING: Sequences GCF_001431765.1 and GCF_009846825.1 are exactly identical!
+WARNING: Sequences GCF_001509795.1 and GCF_001509785.1 are exactly identical!
+WARNING: Sequences GCF_017968935.1 and GCF_017969045.1 are exactly identical!
+WARNING: Sequences GCF_017968935.1 and GCF_017933255.1 are exactly identical!
+WARNING: Sequences GCF_017968935.1 and GCF_017968905.1 are exactly identical!
+WARNING: Sequences GCF_017968935.1 and GCF_017933115.1 are exactly identical!
+WARNING: Sequences GCF_003584815.1 and GCF_001550225.1 are exactly identical!
+WARNING: Sequences GCF_002943895.1 and GCF_001592685.1 are exactly identical!
+WARNING: Sequences GCF_001640565.1 and GCF_001650215.1 are exactly identical!
+WARNING: Sequences GCF_003344445.1 and GCF_001685355.1 are exactly identical!
+WARNING: Sequences GCF_003344445.1 and GCF_014083905.1 are exactly identical!
+WARNING: Sequences GCF_014495705.1 and GCF_001905485.1 are exactly identical!
+WARNING: Sequences GCF_002289335.1 and GCF_002317025.1 are exactly identical!
+WARNING: Sequences GCF_002551015.1 and GCF_002551055.1 are exactly identical!
+WARNING: Sequences GCF_900090065.1 and GCF_009863235.1 are exactly identical!
+WARNING: Sequences GCF_900090065.1 and GCF_002705695.1 are exactly identical!
+WARNING: Sequences GCF_900102245.1 and GCF_900105235.1 are exactly identical!
+WARNING: Sequences GCF_900102245.1 and GCF_900187385.1 are exactly identical!
+WARNING: Sequences GCF_900105245.1 and GCF_002846455.1 are exactly identical!
+WARNING: Sequences GCF_002910795.1 and GCF_002910815.1 are exactly identical!
+WARNING: Sequences GCF_002910985.1 and GCF_002910935.1 are exactly identical!
+WARNING: Sequences GCF_014205315.1 and GCF_003675955.1 are exactly identical!
+WARNING: Sequences GCF_004125275.1 and GCF_003994375.1 are exactly identical!
+WARNING: Sequences GCF_006788935.1 and GCF_014649215.1 are exactly identical!
+WARNING: Sequences GCF_008632535.1 and GCF_014648875.1 are exactly identical!
+WARNING: Sequences GCF_008704715.1 and GCF_014650315.1 are exactly identical!
+WARNING: Sequences GCF_008704995.1 and GCF_014205035.1 are exactly identical!
+WARNING: Sequences GCF_008704995.1 and GCF_017352335.1 are exactly identical!
+WARNING: Sequences GCF_009299385.1 and GCF_011758705.1 are exactly identical!
+WARNING: Sequences GCF_009299385.1 and GCF_014197485.1 are exactly identical!
+WARNING: Sequences GCF_009811575.1 and GCF_014656235.1 are exactly identical!
+WARNING: Sequences GCF_900091985.1 and GCF_009862025.1 are exactly identical!
+WARNING: Sequences GCF_900091765.1 and GCF_009862465.1 are exactly identical!
+WARNING: Sequences GCF_009863125.1 and GCF_900091725.1 are exactly identical!
+WARNING: Sequences GCF_009863145.1 and GCF_900091775.1 are exactly identical!
+WARNING: Sequences GCF_009864905.1 and GCF_900187925.1 are exactly identical!
+WARNING: Sequences GCF_017979945.1 and GCF_010523235.1 are exactly identical!
+WARNING: Sequences GCF_010548705.1 and GCF_010550525.1 are exactly identical!
+WARNING: Sequences GCF_011170125.1 and GCF_014648935.1 are exactly identical!
+WARNING: Sequences GCF_012927245.1 and GCF_012927225.1 are exactly identical!
+WARNING: Sequences GCF_013363665.1 and GCF_013363455.1 are exactly identical!
+WARNING: Sequences GCF_014138735.1 and GCF_014649315.1 are exactly identical!
+WARNING: Sequences GCF_014650615.1 and GCF_014203495.1 are exactly identical!
+WARNING: Sequences GCF_014203535.1 and GCF_014649635.1 are exactly identical!
+WARNING: Sequences GCF_016654065.1 and GCF_016612645.1 are exactly identical!
+WARNING: Sequences GCF_016654065.1 and GCF_016612575.1 are exactly identical!
+WARNING: Sequences GCF_016612775.1 and GCF_016612725.1 are exactly identical!
+WARNING: Sequences GCF_016612775.1 and GCF_016612705.1 are exactly identical!
+WARNING: Sequences GCF_016613335.1 and GCF_016613285.1 are exactly identical!
+WARNING: Sequences GCF_017933235.1 and GCF_017968965.1 are exactly identical!
+WARNING: Sequences GCF_018070175.1 and GCF_018070265.1 are exactly identical!
+WARNING: Sequences GCF_018614185.1 and GCF_018614355.1 are exactly identical!
+WARNING: Sequences GCF_018619195.1 and GCF_018619165.1 are exactly identical!
+WARNING: Sequences GCF_018619195.1 and GCF_018619235.1 are exactly identical!
+WARNING: Duplicate sequences found: 189
+
+NOTE: Reduced alignment (with duplicates and gap-only sites/taxa removed) 
+NOTE: was saved to: /users/xmb20196/MLSA_tree/MLSA/output/tree/01_check.raxml.reduced.phy
+
+NOTE: The corresponding reduced partition file was saved to:
+/users/xmb20196/MLSA_tree/MLSA/output/tree/01_check.raxml.reduced.partition
+
+Alignment comprises 6 partitions and 10386 sites
+
+Partition 0: 16S
+Model: K81uf+FO+I+G4m+B
+Alignment sites: 1332
+Gaps: 0.00 %
+Invariant sites: 85.81 %
+
+Partition 1: atpD
+Model: TIM1+I+G4m+B
+Alignment sites: 1434
+Gaps: 0.00 %
+Invariant sites: 58.93 %
+
+Partition 2: gyrB
+Model: GTR+FO+I+G4m+B
+Alignment sites: 1926
+Gaps: 0.18 %
+Invariant sites: 12.72 %
+
+Partition 3: recA
+Model: GTR+FO+G4m+B
+Alignment sites: 999
+Gaps: 0.07 %
+Invariant sites: 14.21 %
+
+Partition 4: rpoB
+Model: GTR+FO+I+G4m+B
+Alignment sites: 3474
+Gaps: 0.08 %
+Invariant sites: 27.61 %
+
+Partition 5: trpB
+Model: TIM2+I+G4m+B
+Alignment sites: 1221
+Gaps: 0.01 %
+Invariant sites: 47.17 %
+
+
+Alignment can be successfully read by RAxML-NG.
+
+
+Execution log saved to: /users/xmb20196/MLSA_tree/MLSA/output/tree/01_check.raxml.log
+
+Analysis started: 15-Sep-2023 14:15:58 / finished: 15-Sep-2023 14:15:58
+
+Elapsed time: 0.800 seconds
+

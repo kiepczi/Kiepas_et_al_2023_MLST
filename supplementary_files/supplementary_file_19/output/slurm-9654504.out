@@ -1,0 +1,639 @@
+logger: /opt/software/anaconda/python-3.8.8/2021.05/lib/libuuid.so.1: no version information available (required by /lib64/libblkid.so.1)
+/usr/bin/ps: /opt/software/anaconda/python-3.8.8/2021.05/lib/libuuid.so.1: no version information available (required by /lib64/libblkid.so.1)
+===================================================================================
+SLURM Job ID:            9654504
+Submit time:             Fri Sep 15 14:15:34 BST 2023 (Unix Epoch time: 1694783734)
+Start time:              Fri Sep 15 14:15:42 BST 2023 (Unix Epoch time: 1694783742)
+No. nodes:               1
+No. tasks:               40
+Job name:                MLSA
+Account:                 pritchard-grxiv
+QoS:                     priority
+Partition (queue):       standard
+Submit directory:        /users/xmb20196/MLSA_tree/MLSA/scripts
+Script name:             /users/xmb20196/MLSA_tree/MLSA/scripts/10_build_tree.sh
+Master node:             node047
+Nodes used:              node047
+Task distribution:       
+===================================================================================
+
+
+RAxML-NG v. 1.0.3 released on 21.07.2021 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz, 40 cores, 188 GB RAM
+
+RAxML-NG was called at 15-Sep-2023 14:15:58 as follows:
+
+raxml-ng --check --msa ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta --model ../output/modeltest_ng_output/output.part.bic --prefix ../output/tree/01_check
+
+Analysis options:
+  run mode: Alignment validation
+  start tree(s): 
+  random seed: 1694783758
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (auto)
+
+[00:00:00] Reading alignment from file: ../output/alignments/concatenated/concatenated_alignment_no_gaps.fasta
+[00:00:00] Loaded alignment with 873 taxa and 10386 sites
+
+WARNING: Sequences GCF_016906245.1 and GCF_000715745.1 are exactly identical!
+WARNING: Sequences GCF_016906245.1 and GCF_016906205.1 are exactly identical!
+WARNING: Sequences GCF_000717645.1 and GCF_000717965.1 are exactly identical!
+WARNING: Sequences GCF_000717645.1 and GCF_000718245.1 are exactly identical!
+WARNING: Sequences GCF_000717645.1 and GCF_000718615.1 are exactly identical!
+WARNING: Sequences GCF_000717645.1 and GCF_016906225.1 are exactly identical!
+WARNING: Sequences GCF_000717645.1 and GCF_016906185.1 are exactly identical!
+WARNING: Sequences GCF_000725545.1 and GCF_000718175.1 are exactly identical!
+WARNING: Sequences GCF_900105705.1 and GCF_000010605.1 are exactly identical!
+WARNING: Sequences GCF_900105705.1 and GCF_900460065.1 are exactly identical!
+WARNING: Sequences GCF_900105705.1 and GCF_009866455.1 are exactly identical!
+WARNING: Sequences GCF_008704495.1 and GCF_001418465.1 are exactly identical!
+WARNING: Sequences GCF_008639165.1 and GCF_001886595.1 are exactly identical!
+WARNING: Sequences GCF_000720235.1 and GCF_000966965.1 are exactly identical!
+WARNING: Sequences GCF_014650935.1 and GCF_008704535.1 are exactly identical!
+WARNING: Sequences GCF_000359525.1 and GCF_013693715.1 are exactly identical!
+WARNING: Sequences GCF_014648615.1 and GCF_016755855.1 are exactly identical!
+WARNING: Sequences GCF_014648615.1 and GCF_017639205.1 are exactly identical!
+WARNING: Sequences GCF_013409565.1 and GCF_013167895.1 are exactly identical!
+WARNING: Sequences GCF_002727115.1 and GCF_002939475.1 are exactly identical!
+WARNING: Sequences GCF_018138715.1 and GCF_018138705.1 are exactly identical!
+WARNING: Sequences GCF_002155885.1 and GCF_017942185.1 are exactly identical!
+WARNING: Sequences GCF_001278075.1 and GCF_014070435.1 are exactly identical!
+WARNING: Sequences GCF_014650375.1 and GCF_008704555.1 are exactly identical!
+WARNING: Sequences GCF_004195935.1 and GCF_004195955.1 are exactly identical!
+WARNING: Sequences GCF_004196145.1 and GCF_004196155.1 are exactly identical!
+WARNING: Sequences GCF_000813365.1 and GCF_001661615.1 are exactly identical!
+WARNING: Sequences GCF_000009765.2 and GCF_000764715.1 are exactly identical!
+WARNING: Sequences GCF_000009765.2 and GCF_001514135.1 are exactly identical!
+WARNING: Sequences GCF_000009765.2 and GCF_002017835.1 are exactly identical!
+WARNING: Sequences GCF_000009765.2 and GCF_009862865.1 are exactly identical!
+WARNING: Sequences GCF_000009765.2 and GCF_005406005.1 are exactly identical!
+WARNING: Sequences GCF_009870085.1 and GCF_000383595.1 are exactly identical!
+WARNING: Sequences GCF_009870085.1 and GCF_000340335.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015912455.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_001693675.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015912395.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015767935.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015767915.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015767855.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015767875.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015912465.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015767815.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015767795.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015767775.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015767755.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015767735.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015708605.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_005519465.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_003454755.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015767895.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015912875.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_000163875.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015912925.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015912945.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015912975.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015912985.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015912995.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_000148465.1 are exactly identical!
+WARNING: Sequences GCF_015912435.1 and GCF_015912895.1 are exactly identical!
+WARNING: Sequences GCF_008931305.1 and GCF_009862445.1 are exactly identical!
+WARNING: Sequences GCF_008931305.1 and GCF_013307045.1 are exactly identical!
+WARNING: Sequences GCF_008931305.1 and GCF_013317105.1 are exactly identical!
+WARNING: Sequences GCF_008931305.1 and GCF_008124975.1 are exactly identical!
+WARNING: Sequences GCF_008931305.1 and GCF_008124915.1 are exactly identical!
+WARNING: Sequences GCF_008931305.1 and GCF_008124905.1 are exactly identical!
+WARNING: Sequences GCF_008931305.1 and GCF_008125035.1 are exactly identical!
+WARNING: Sequences GCF_008931305.1 and GCF_008124985.1 are exactly identical!
+WARNING: Sequences GCF_000955965.1 and GCF_000725785.1 are exactly identical!
+WARNING: Sequences GCF_000718625.1 and GCF_011820545.1 are exactly identical!
+WARNING: Sequences GCF_000716875.1 and GCF_000717725.1 are exactly identical!
+WARNING: Sequences GCF_001514265.1 and GCF_001270505.1 are exactly identical!
+WARNING: Sequences GCF_001514265.1 and GCF_000716215.1 are exactly identical!
+WARNING: Sequences GCF_000718095.1 and GCF_003073355.1 are exactly identical!
+WARNING: Sequences GCF_000719255.1 and GCF_000718635.1 are exactly identical!
+WARNING: Sequences GCF_000380165.1 and GCF_001445835.1 are exactly identical!
+WARNING: Sequences GCF_001270515.1 and GCF_000716445.1 are exactly identical!
+WARNING: Sequences GCF_900091715.1 and GCF_900095575.1 are exactly identical!
+WARNING: Sequences GCF_900091715.1 and GCF_009863165.1 are exactly identical!
+WARNING: Sequences GCF_900091715.1 and GCF_009862475.1 are exactly identical!
+WARNING: Sequences GCF_900091715.1 and GCF_009862105.1 are exactly identical!
+WARNING: Sequences GCF_900091715.1 and GCF_000382745.1 are exactly identical!
+WARNING: Sequences GCF_900091715.1 and GCF_000177195.2 are exactly identical!
+WARNING: Sequences GCF_900091715.1 and GCF_009865465.1 are exactly identical!
+WARNING: Sequences GCF_000226455.1 and GCF_009862985.1 are exactly identical!
+WARNING: Sequences GCF_000226455.1 and GCF_900236475.1 are exactly identical!
+WARNING: Sequences GCF_000226455.1 and GCF_900236505.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_008704655.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_006229535.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_001507395.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_001279375.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_001279105.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_001279095.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_001279075.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_001279025.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_000707925.2 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_000718815.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_001279015.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_000718295.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_000717285.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_000716845.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_000721045.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_000331185.2 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_000718835.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_000720715.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_000718865.1 are exactly identical!
+WARNING: Sequences GCF_000720605.1 and GCF_000720565.1 are exactly identical!
+WARNING: Sequences GCF_000373405.1 and GCF_009872615.1 are exactly identical!
+WARNING: Sequences GCF_000403765.2 and GCF_003851665.1 are exactly identical!
+WARNING: Sequences GCF_009865365.1 and GCF_900091745.1 are exactly identical!
+WARNING: Sequences GCF_009862115.1 and GCF_000647875.1 are exactly identical!
+WARNING: Sequences GCF_002966105.1 and GCF_000700005.2 are exactly identical!
+WARNING: Sequences GCF_002966105.1 and GCF_001190165.1 are exactly identical!
+WARNING: Sequences GCF_002966105.1 and GCF_003122345.2 are exactly identical!
+WARNING: Sequences GCF_002966105.1 and GCF_001756925.1 are exactly identical!
+WARNING: Sequences GCF_000718205.1 and GCF_001270675.1 are exactly identical!
+WARNING: Sequences GCF_000718205.1 and GCF_000721205.1 are exactly identical!
+WARNING: Sequences GCF_000718205.1 and GCF_000719035.1 are exactly identical!
+WARNING: Sequences GCF_000718205.1 and GCF_000718915.1 are exactly identical!
+WARNING: Sequences GCF_000718375.1 and GCF_001279005.1 are exactly identical!
+WARNING: Sequences GCF_000718525.1 and GCF_000721035.1 are exactly identical!
+WARNING: Sequences GCF_000718705.1 and GCF_000719625.1 are exactly identical!
+WARNING: Sequences GCF_000719185.1 and GCF_000718755.1 are exactly identical!
+WARNING: Sequences GCF_000718955.1 and GCF_000720795.1 are exactly identical!
+WARNING: Sequences GCF_000721945.1 and GCF_001513955.1 are exactly identical!
+WARNING: Sequences GCF_001279065.1 and GCF_000725565.1 are exactly identical!
+WARNING: Sequences GCF_004328625.1 and GCF_000725795.1 are exactly identical!
+WARNING: Sequences GCF_001550245.1 and GCF_001005405.1 are exactly identical!
+WARNING: Sequences GCF_001550245.1 and GCF_000738715.1 are exactly identical!
+WARNING: Sequences GCF_014873495.1 and GCF_001008135.1 are exactly identical!
+WARNING: Sequences GCF_001279445.1 and GCF_001279925.1 are exactly identical!
+WARNING: Sequences GCF_001279815.1 and GCF_001279855.1 are exactly identical!
+WARNING: Sequences GCF_001279815.1 and GCF_001279965.1 are exactly identical!
+WARNING: Sequences GCF_001282115.1 and GCF_002156095.1 are exactly identical!
+WARNING: Sequences GCF_001426325.1 and GCF_001427565.1 are exactly identical!
+WARNING: Sequences GCF_001431765.1 and GCF_009846825.1 are exactly identical!
+WARNING: Sequences GCF_001509795.1 and GCF_001509785.1 are exactly identical!
+WARNING: Sequences GCF_017968935.1 and GCF_017969045.1 are exactly identical!
+WARNING: Sequences GCF_017968935.1 and GCF_017933255.1 are exactly identical!
+WARNING: Sequences GCF_017968935.1 and GCF_017968905.1 are exactly identical!
+WARNING: Sequences GCF_017968935.1 and GCF_017933115.1 are exactly identical!
+WARNING: Sequences GCF_003584815.1 and GCF_001550225.1 are exactly identical!
+WARNING: Sequences GCF_002943895.1 and GCF_001592685.1 are exactly identical!
+WARNING: Sequences GCF_001640565.1 and GCF_001650215.1 are exactly identical!
+WARNING: Sequences GCF_003344445.1 and GCF_001685355.1 are exactly identical!
+WARNING: Sequences GCF_003344445.1 and GCF_014083905.1 are exactly identical!
+WARNING: Sequences GCF_014495705.1 and GCF_001905485.1 are exactly identical!
+WARNING: Sequences GCF_002289335.1 and GCF_002317025.1 are exactly identical!
+WARNING: Sequences GCF_002551015.1 and GCF_002551055.1 are exactly identical!
+WARNING: Sequences GCF_900090065.1 and GCF_009863235.1 are exactly identical!
+WARNING: Sequences GCF_900090065.1 and GCF_002705695.1 are exactly identical!
+WARNING: Sequences GCF_900102245.1 and GCF_900105235.1 are exactly identical!
+WARNING: Sequences GCF_900102245.1 and GCF_900187385.1 are exactly identical!
+WARNING: Sequences GCF_900105245.1 and GCF_002846455.1 are exactly identical!
+WARNING: Sequences GCF_002910795.1 and GCF_002910815.1 are exactly identical!
+WARNING: Sequences GCF_002910985.1 and GCF_002910935.1 are exactly identical!
+WARNING: Sequences GCF_014205315.1 and GCF_003675955.1 are exactly identical!
+WARNING: Sequences GCF_004125275.1 and GCF_003994375.1 are exactly identical!
+WARNING: Sequences GCF_006788935.1 and GCF_014649215.1 are exactly identical!
+WARNING: Sequences GCF_008632535.1 and GCF_014648875.1 are exactly identical!
+WARNING: Sequences GCF_008704715.1 and GCF_014650315.1 are exactly identical!
+WARNING: Sequences GCF_008704995.1 and GCF_014205035.1 are exactly identical!
+WARNING: Sequences GCF_008704995.1 and GCF_017352335.1 are exactly identical!
+WARNING: Sequences GCF_009299385.1 and GCF_011758705.1 are exactly identical!
+WARNING: Sequences GCF_009299385.1 and GCF_014197485.1 are exactly identical!
+WARNING: Sequences GCF_009811575.1 and GCF_014656235.1 are exactly identical!
+WARNING: Sequences GCF_900091985.1 and GCF_009862025.1 are exactly identical!
+WARNING: Sequences GCF_900091765.1 and GCF_009862465.1 are exactly identical!
+WARNING: Sequences GCF_009863125.1 and GCF_900091725.1 are exactly identical!
+WARNING: Sequences GCF_009863145.1 and GCF_900091775.1 are exactly identical!
+WARNING: Sequences GCF_009864905.1 and GCF_900187925.1 are exactly identical!
+WARNING: Sequences GCF_017979945.1 and GCF_010523235.1 are exactly identical!
+WARNING: Sequences GCF_010548705.1 and GCF_010550525.1 are exactly identical!
+WARNING: Sequences GCF_011170125.1 and GCF_014648935.1 are exactly identical!
+WARNING: Sequences GCF_012927245.1 and GCF_012927225.1 are exactly identical!
+WARNING: Sequences GCF_013363665.1 and GCF_013363455.1 are exactly identical!
+WARNING: Sequences GCF_014138735.1 and GCF_014649315.1 are exactly identical!
+WARNING: Sequences GCF_014650615.1 and GCF_014203495.1 are exactly identical!
+WARNING: Sequences GCF_014203535.1 and GCF_014649635.1 are exactly identical!
+WARNING: Sequences GCF_016654065.1 and GCF_016612645.1 are exactly identical!
+WARNING: Sequences GCF_016654065.1 and GCF_016612575.1 are exactly identical!
+WARNING: Sequences GCF_016612775.1 and GCF_016612725.1 are exactly identical!
+WARNING: Sequences GCF_016612775.1 and GCF_016612705.1 are exactly identical!
+WARNING: Sequences GCF_016613335.1 and GCF_016613285.1 are exactly identical!
+WARNING: Sequences GCF_017933235.1 and GCF_017968965.1 are exactly identical!
+WARNING: Sequences GCF_018070175.1 and GCF_018070265.1 are exactly identical!
+WARNING: Sequences GCF_018614185.1 and GCF_018614355.1 are exactly identical!
+WARNING: Sequences GCF_018619195.1 and GCF_018619165.1 are exactly identical!
+WARNING: Sequences GCF_018619195.1 and GCF_018619235.1 are exactly identical!
+WARNING: Duplicate sequences found: 189
+
+NOTE: Reduced alignment (with duplicates and gap-only sites/taxa removed) 
+NOTE: was saved to: /users/xmb20196/MLSA_tree/MLSA/output/tree/01_check.raxml.reduced.phy
+
+NOTE: The corresponding reduced partition file was saved to:
+/users/xmb20196/MLSA_tree/MLSA/output/tree/01_check.raxml.reduced.partition
+
+Alignment comprises 6 partitions and 10386 sites
+
+Partition 0: 16S
+Model: K81uf+FO+I+G4m+B
+Alignment sites: 1332
+Gaps: 0.00 %
+Invariant sites: 85.81 %
+
+Partition 1: atpD
+Model: TIM1+I+G4m+B
+Alignment sites: 1434
+Gaps: 0.00 %
+Invariant sites: 58.93 %
+
+Partition 2: gyrB
+Model: GTR+FO+I+G4m+B
+Alignment sites: 1926
+Gaps: 0.18 %
+Invariant sites: 12.72 %
+
+Partition 3: recA
+Model: GTR+FO+G4m+B
+Alignment sites: 999
+Gaps: 0.07 %
+Invariant sites: 14.21 %
+
+Partition 4: rpoB
+Model: GTR+FO+I+G4m+B
+Alignment sites: 3474
+Gaps: 0.08 %
+Invariant sites: 27.61 %
+
+Partition 5: trpB
+Model: TIM2+I+G4m+B
+Alignment sites: 1221
+Gaps: 0.01 %
+Invariant sites: 47.17 %
+
+
+Alignment can be successfully read by RAxML-NG.
+
+
+Execution log saved to: /users/xmb20196/MLSA_tree/MLSA/output/tree/01_check.raxml.log
+
+Analysis started: 15-Sep-2023 14:15:58 / finished: 15-Sep-2023 14:15:58
+
+Elapsed time: 0.800 seconds
+
+
+RAxML-NG v. 1.0.3 released on 21.07.2021 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz, 40 cores, 188 GB RAM
+
+RAxML-NG was called at 15-Sep-2023 14:15:58 as follows:
+
+raxml-ng --parse --msa ../output/tree/01_check.raxml.reduced.phy --model ../output/modeltest_ng_output/output.part.bic --prefix ../output/tree/02_parse
+
+Analysis options:
+  run mode: Alignment parsing and compression
+  start tree(s): 
+  random seed: 1694783758
+  tip-inner: OFF
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: ON
+  branch lengths: proportional (ML estimate, algorithm: NR-FAST)
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (auto)
+
+[00:00:00] Reading alignment from file: ../output/tree/01_check.raxml.reduced.phy
+[00:00:00] Loaded alignment with 684 taxa and 10386 sites
+
+Alignment comprises 6 partitions and 4276 patterns
+
+Partition 0: 16S
+Model: K81uf+FO+I+G4m+B
+Alignment sites / patterns: 1332 / 173
+Gaps: 0.00 %
+Invariant sites: 85.81 %
+
+Partition 1: atpD
+Model: TIM1+I+G4m+B
+Alignment sites / patterns: 1434 / 574
+Gaps: 0.00 %
+Invariant sites: 58.93 %
+
+Partition 2: gyrB
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 1926 / 1116
+Gaps: 0.23 %
+Invariant sites: 12.72 %
+
+Partition 3: recA
+Model: GTR+FO+G4m+B
+Alignment sites / patterns: 999 / 474
+Gaps: 0.09 %
+Invariant sites: 14.21 %
+
+Partition 4: rpoB
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 3474 / 1297
+Gaps: 0.10 %
+Invariant sites: 27.61 %
+
+Partition 5: trpB
+Model: TIM2+I+G4m+B
+Alignment sites / patterns: 1221 / 642
+Gaps: 0.01 %
+Invariant sites: 47.17 %
+
+
+NOTE: Binary MSA file created: ../output/tree/02_parse.raxml.rba
+
+* Estimated memory requirements                : 714 MB
+
+* Recommended number of threads / MPI processes: 9
+
+Please note that numbers given above are rough estimates only. 
+Actual memory consumption and parallel performance on your system may differ!
+
+Alignment can be successfully read by RAxML-NG.
+
+
+Execution log saved to: /users/xmb20196/MLSA_tree/MLSA/output/tree/02_parse.raxml.log
+
+Analysis started: 15-Sep-2023 14:15:58 / finished: 15-Sep-2023 14:15:59
+
+Elapsed time: 0.195 seconds
+
+
+RAxML-NG v. 1.0.3 released on 21.07.2021 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz, 40 cores, 188 GB RAM
+
+RAxML-NG was called at 15-Sep-2023 14:15:59 as follows:
+
+raxml-ng --msa ../output/tree/02_parse.raxml.rba --model ../output/modeltest_ng_output/output.part.bic --all --bs-trees 100 --seed 1655486274 --prefix ../output/tree/03_bootstrap --threads 40
+
+Analysis options:
+  run mode: ML tree search + bootstrapping (Felsenstein Bootstrap)
+  start tree(s): random (10) + parsimony (10)
+  bootstrap replicates: 100
+  random seed: 1655486274
+  tip-inner: OFF
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: ON
+  branch lengths: proportional (ML estimate, algorithm: NR-FAST)
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (40 threads), thread pinning: OFF
+
+WARNING: The model you specified on the command line (../output/modeltest_ng_output/output.part.bic) will be ignored 
+         since the binary MSA file already contains a model definition.
+         If you want to change the model, please re-run RAxML-NG 
+         with the original PHYLIP/FASTA alignment and --redo option.
+
+[00:00:00] Loading binary alignment from file: ../output/tree/02_parse.raxml.rba
+[00:00:00] Alignment comprises 684 taxa, 6 partitions and 4276 patterns
+
+Partition 0: 16S
+Model: K81uf+FO+I+G4m+B
+Alignment sites / patterns: 1332 / 173
+Gaps: 0.00 %
+Invariant sites: 85.81 %
+
+Partition 1: atpD
+Model: TIM1+I+G4m+B
+Alignment sites / patterns: 1434 / 574
+Gaps: 0.00 %
+Invariant sites: 58.93 %
+
+Partition 2: gyrB
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 1926 / 1116
+Gaps: 0.23 %
+Invariant sites: 12.72 %
+
+Partition 3: recA
+Model: GTR+FO+G4m+B
+Alignment sites / patterns: 999 / 474
+Gaps: 0.09 %
+Invariant sites: 14.21 %
+
+Partition 4: rpoB
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 3474 / 1297
+Gaps: 0.10 %
+Invariant sites: 27.61 %
+
+Partition 5: trpB
+Model: TIM2+I+G4m+B
+Alignment sites / patterns: 1221 / 642
+Gaps: 0.01 %
+Invariant sites: 47.17 %
+
+
+Parallelization scheme autoconfig: 10 worker(s) x 4 thread(s)
+
+Parallel reduction/worker buffer size: 3 KB  / 0 KB
+
+[00:00:00] Generating 10 random starting tree(s) with 684 taxa
+[00:00:00] Generating 10 parsimony starting tree(s) with 684 taxa
+[00:00:04] Data distribution: max. partitions/sites/weight per thread: 3 / 1069 / 17104
+[00:00:04] Data distribution: max. searches per worker: 12
+
+Starting ML tree search with 20 distinct starting trees
+
+[00:26:40] [worker #4] ML tree search #5, logLikelihood: -366752.421632
+[00:28:13] [worker #2] ML tree search #3, logLikelihood: -366538.411463
+[00:29:35] [worker #6] ML tree search #7, logLikelihood: -366658.411546
+[00:29:36] [worker #9] ML tree search #10, logLikelihood: -366613.438108
+[00:29:54] [worker #3] ML tree search #4, logLikelihood: -366720.483484
+[00:30:59] [worker #7] ML tree search #8, logLikelihood: -366551.478858
+[00:31:25] [worker #1] ML tree search #2, logLikelihood: -366699.528612
+[00:31:25] [worker #8] ML tree search #9, logLikelihood: -366505.885008
+[00:32:48] [worker #0] ML tree search #1, logLikelihood: -366522.400762
+[00:34:41] [worker #5] ML tree search #6, logLikelihood: -366564.566078
+[00:52:10] [worker #4] ML tree search #15, logLikelihood: -366549.437292
+[00:52:36] [worker #2] ML tree search #13, logLikelihood: -366601.330962
+[00:53:50] [worker #1] ML tree search #12, logLikelihood: -366599.269483
+[00:54:23] [worker #3] ML tree search #14, logLikelihood: -366530.819873
+[00:54:34] [worker #9] ML tree search #20, logLikelihood: -366495.700277
+[00:55:44] [worker #6] ML tree search #17, logLikelihood: -366499.293978
+[00:55:53] [worker #7] ML tree search #18, logLikelihood: -366662.638256
+[00:56:31] [worker #8] ML tree search #19, logLikelihood: -366568.737929
+[01:01:19] [worker #0] ML tree search #11, logLikelihood: -366838.267590
+[01:06:44] [worker #5] ML tree search #16, logLikelihood: -366506.811474
+
+[01:06:44] ML tree search completed, best tree logLH: -366495.700277
+
+[01:06:44] Starting bootstrapping analysis with 100 replicates.
+
+[01:26:43] [worker #5] Bootstrap tree #6, logLikelihood: -358969.370154
+[01:28:14] [worker #7] Bootstrap tree #8, logLikelihood: -369869.142506
+[01:28:14] [worker #2] Bootstrap tree #3, logLikelihood: -374947.039366
+[01:28:24] [worker #8] Bootstrap tree #9, logLikelihood: -357504.017719
+[01:28:58] [worker #1] Bootstrap tree #2, logLikelihood: -368952.933907
+[01:29:15] [worker #9] Bootstrap tree #10, logLikelihood: -364990.606711
+[01:30:31] [worker #6] Bootstrap tree #7, logLikelihood: -371362.533291
+[01:30:37] [worker #0] Bootstrap tree #1, logLikelihood: -362647.104141
+[01:32:13] [worker #3] Bootstrap tree #4, logLikelihood: -363830.935903
+[01:33:36] [worker #4] Bootstrap tree #5, logLikelihood: -365136.108923
+[01:50:09] [worker #9] Bootstrap tree #20, logLikelihood: -359269.560104
+[01:50:29] [worker #5] Bootstrap tree #16, logLikelihood: -366012.816530
+[01:51:42] [worker #1] Bootstrap tree #12, logLikelihood: -372521.254948
+[01:52:47] [worker #8] Bootstrap tree #19, logLikelihood: -355100.904204
+[01:52:56] [worker #4] Bootstrap tree #15, logLikelihood: -365526.225029
+[01:53:16] [worker #0] Bootstrap tree #11, logLikelihood: -357263.737534
+[01:55:39] [worker #2] Bootstrap tree #13, logLikelihood: -366409.676584
+[01:56:28] [worker #3] Bootstrap tree #14, logLikelihood: -371963.894761
+[01:56:30] [worker #7] Bootstrap tree #18, logLikelihood: -362580.964153
+[02:01:41] [worker #6] Bootstrap tree #17, logLikelihood: -369660.153372
+[02:10:29] [worker #5] Bootstrap tree #26, logLikelihood: -356761.623896
+[02:11:04] [worker #9] Bootstrap tree #30, logLikelihood: -371935.348211
+[02:11:32] [worker #1] Bootstrap tree #22, logLikelihood: -367981.875610
+[02:14:06] [worker #4] Bootstrap tree #25, logLikelihood: -373422.546027
+[02:16:04] [worker #0] Bootstrap tree #21, logLikelihood: -361077.087253
+[02:17:10] [worker #3] Bootstrap tree #24, logLikelihood: -364032.697636
+[02:17:57] [worker #8] Bootstrap tree #29, logLikelihood: -359501.699795
+[02:18:29] [worker #2] Bootstrap tree #23, logLikelihood: -357029.284885
+[02:22:39] [worker #7] Bootstrap tree #28, logLikelihood: -366256.100823
+[02:23:08] [worker #6] Bootstrap tree #27, logLikelihood: -353507.971886
+[02:31:26] [worker #9] Bootstrap tree #40, logLikelihood: -365669.252195
+[02:34:30] [worker #5] Bootstrap tree #36, logLikelihood: -365493.195504
+[02:35:04] [worker #1] Bootstrap tree #32, logLikelihood: -367684.271761
+[02:35:15] [worker #4] Bootstrap tree #35, logLikelihood: -372844.900829
+[02:37:21] [worker #3] Bootstrap tree #34, logLikelihood: -370213.845498
+[02:39:08] [worker #0] Bootstrap tree #31, logLikelihood: -368789.381156
+[02:41:57] [worker #2] Bootstrap tree #33, logLikelihood: -367089.677793
+[02:42:03] [worker #6] Bootstrap tree #37, logLikelihood: -366872.908485
+[02:43:10] [worker #7] Bootstrap tree #38, logLikelihood: -364879.357984
+[02:43:32] [worker #8] Bootstrap tree #39, logLikelihood: -364687.250707
+[02:50:44] [worker #9] Bootstrap tree #50, logLikelihood: -369793.050346
+[02:56:17] [worker #4] Bootstrap tree #45, logLikelihood: -366257.585278
+[02:56:43] [worker #5] Bootstrap tree #46, logLikelihood: -360711.209208
+[02:58:06] [worker #3] Bootstrap tree #44, logLikelihood: -367072.793404
+[02:58:20] [worker #1] Bootstrap tree #42, logLikelihood: -368896.690142
+[03:02:04] [worker #0] Bootstrap tree #41, logLikelihood: -360259.469451
+[03:02:08] [worker #6] Bootstrap tree #47, logLikelihood: -359266.137091
+[03:04:08] [worker #7] Bootstrap tree #48, logLikelihood: -362604.245036
+[03:05:56] [worker #8] Bootstrap tree #49, logLikelihood: -368047.233121
+[03:09:02] [worker #2] Bootstrap tree #43, logLikelihood: -382405.850267
+[03:29:33] [worker #7] Bootstrap tree #58, logLikelihood: -370010.792349
+[03:30:05] [worker #9] Bootstrap tree #60, logLikelihood: -349519.614716
+[03:30:12] [worker #2] Bootstrap tree #53, logLikelihood: -366701.814207
+[03:30:34] [worker #1] Bootstrap tree #52, logLikelihood: -359520.831370
+[03:30:55] [worker #4] Bootstrap tree #55, logLikelihood: -363458.814277
+[03:30:58] [worker #8] Bootstrap tree #59, logLikelihood: -361905.894354
+[03:31:06] [worker #0] Bootstrap tree #51, logLikelihood: -361963.217114
+[03:31:44] [worker #3] Bootstrap tree #54, logLikelihood: -370034.435566
+[03:32:11] [worker #6] Bootstrap tree #57, logLikelihood: -372147.295486
+[03:34:40] [worker #5] Bootstrap tree #56, logLikelihood: -370976.856615
+[03:50:56] [worker #9] Bootstrap tree #70, logLikelihood: -362740.441098
+[03:50:57] [worker #2] Bootstrap tree #63, logLikelihood: -376949.136016
+[03:50:57] [worker #4] Bootstrap tree #65, logLikelihood: -368998.644753
+[03:51:28] [worker #7] Bootstrap tree #68, logLikelihood: -372154.134985
+[03:53:06] [worker #1] Bootstrap tree #62, logLikelihood: -360576.272640
+[03:54:33] [worker #3] Bootstrap tree #64, logLikelihood: -370426.248369
+[03:54:49] [worker #8] Bootstrap tree #69, logLikelihood: -363026.090915
+[03:55:33] [worker #6] Bootstrap tree #67, logLikelihood: -375817.768298
+[03:55:33] [worker #5] Bootstrap tree #66, logLikelihood: -352471.950599
+[03:57:19] [worker #0] Bootstrap tree #61, logLikelihood: -369449.707768
+[04:10:43] [worker #4] Bootstrap tree #75, logLikelihood: -376608.352099
+[04:11:04] [worker #2] Bootstrap tree #73, logLikelihood: -366490.716187
+[04:12:50] [worker #1] Bootstrap tree #72, logLikelihood: -355290.050941
+[04:13:14] [worker #9] Bootstrap tree #80, logLikelihood: -357990.178890
+[04:14:06] [worker #7] Bootstrap tree #78, logLikelihood: -365030.752968
+[04:14:44] [worker #5] Bootstrap tree #76, logLikelihood: -381563.288545
+[04:15:29] [worker #3] Bootstrap tree #74, logLikelihood: -369532.229444
+[04:17:12] [worker #6] Bootstrap tree #77, logLikelihood: -370362.212590
+[04:19:15] [worker #8] Bootstrap tree #79, logLikelihood: -365746.665095
+[04:23:42] [worker #0] Bootstrap tree #71, logLikelihood: -373536.785861
+[04:31:39] [worker #2] Bootstrap tree #83, logLikelihood: -365483.689201
+[04:32:29] [worker #4] Bootstrap tree #85, logLikelihood: -365849.330315
+[04:33:02] [worker #1] Bootstrap tree #82, logLikelihood: -362100.773839
+[04:34:17] [worker #7] Bootstrap tree #88, logLikelihood: -374034.493520
+[04:35:25] [worker #5] Bootstrap tree #86, logLikelihood: -369266.382965
+[04:36:22] [worker #3] Bootstrap tree #84, logLikelihood: -356502.752247
+[04:36:38] [worker #9] Bootstrap tree #90, logLikelihood: -363050.933503
+[04:37:15] [worker #6] Bootstrap tree #87, logLikelihood: -356092.304284
+[04:40:42] [worker #8] Bootstrap tree #89, logLikelihood: -362877.769730
+[04:45:09] [worker #0] Bootstrap tree #81, logLikelihood: -366585.624091
+[04:50:23] [worker #2] Bootstrap tree #93, logLikelihood: -361787.694219
+[04:55:05] [worker #4] Bootstrap tree #95, logLikelihood: -357098.771264
+[04:56:49] [worker #9] Bootstrap tree #100, logLikelihood: -367581.255056
+[04:58:33] [worker #3] Bootstrap tree #94, logLikelihood: -367988.457491
+[04:59:07] [worker #5] Bootstrap tree #96, logLikelihood: -366977.040790
+[05:02:33] [worker #1] Bootstrap tree #92, logLikelihood: -368539.831674
+[05:03:02] [worker #8] Bootstrap tree #99, logLikelihood: -367862.680445
+[05:03:43] [worker #7] Bootstrap tree #98, logLikelihood: -361980.064779
+[05:04:54] [worker #6] Bootstrap tree #97, logLikelihood: -357175.213634
+[05:05:44] [worker #0] Bootstrap tree #91, logLikelihood: -362235.432120
+
+
+Final LogLikelihood: -366495.700277
+
+AIC score: 735823.400553 / AICc score: 736270.824346 / BIC score: 746086.871612
+Free parameters (model + branch lengths): 1416
+
+Best ML tree saved to: /users/xmb20196/MLSA_tree/MLSA/output/tree/03_bootstrap.raxml.bestTree
+All ML trees saved to: /users/xmb20196/MLSA_tree/MLSA/output/tree/03_bootstrap.raxml.mlTrees
+Best ML tree with Felsenstein bootstrap (FBP) support values saved to: /users/xmb20196/MLSA_tree/MLSA/output/tree/03_bootstrap.raxml.support
+Optimized model saved to: /users/xmb20196/MLSA_tree/MLSA/output/tree/03_bootstrap.raxml.bestModel
+Bootstrap trees saved to: /users/xmb20196/MLSA_tree/MLSA/output/tree/03_bootstrap.raxml.bootstraps
+
+Execution log saved to: /users/xmb20196/MLSA_tree/MLSA/output/tree/03_bootstrap.raxml.log
+
+Analysis started: 15-Sep-2023 14:15:59 / finished: 15-Sep-2023 19:21:44
+
+Elapsed time: 18345.416 seconds
+
+Consumed energy: 1388.904 Wh (= 7 km in an electric car, or 35 km with an e-scooter!)
+
+
+RAxML-NG v. 1.0.3 released on 21.07.2021 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz, 40 cores, 188 GB RAM
+
+RAxML-NG was called at 15-Sep-2023 19:21:44 as follows:
+
+raxml-ng --support --tree ../output/tree/03_bootstrap.raxml.bestTree --bs-trees ../output/tree/03_bootstrap.raxml.bootstraps --prefix ../output/tree/04_tbe_mlst --bs-metric tbe
+
+Analysis options:
+  run mode: Compute bipartition support (Transfer Bootstrap)
+  start tree(s): user
+  random seed: 1694802104
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (auto)
+
+Reading reference tree from file: ../output/tree/03_bootstrap.raxml.bestTree
+Reference tree size: 684
+
+Reading bootstrap trees from file: ../output/tree/03_bootstrap.raxml.bootstraps
+Loaded 100 trees with 684 taxa.
+
+Best ML tree with Transfer bootstrap (TBE) support values saved to: /users/xmb20196/MLSA_tree/MLSA/output/tree/04_tbe_mlst.raxml.support
+
+Execution log saved to: /users/xmb20196/MLSA_tree/MLSA/output/tree/04_tbe_mlst.raxml.log
+
+Analysis started: 15-Sep-2023 19:21:44 / finished: 15-Sep-2023 19:21:44
+
+Elapsed time: 0.151 seconds
+
+===================================================================================
+SLURM job 9654504 ended:     Fri Sep 15 19:21:45 BST 2023 (Unix Epoch time: 1694802105)
+This is an estimated end time using the 'date' command from node node047.hpc.strath.ac.uk
+For accurate timings, use 'sacct -j 9654504 -X --format=Submit,Start,End,Elapsed'
+======================================================================================

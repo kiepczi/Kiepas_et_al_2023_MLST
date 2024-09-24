@@ -1,0 +1,85 @@
+
+RAxML-NG v. 1.0.3 released on 21.07.2021 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz, 40 cores, 188 GB RAM
+
+RAxML-NG was called at 15-Sep-2023 14:15:58 as follows:
+
+raxml-ng --parse --msa ../output/tree/01_check.raxml.reduced.phy --model ../output/modeltest_ng_output/output.part.bic --prefix ../output/tree/02_parse
+
+Analysis options:
+  run mode: Alignment parsing and compression
+  start tree(s): 
+  random seed: 1694783758
+  tip-inner: OFF
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: ON
+  branch lengths: proportional (ML estimate, algorithm: NR-FAST)
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (auto)
+
+[00:00:00] Reading alignment from file: ../output/tree/01_check.raxml.reduced.phy
+[00:00:00] Loaded alignment with 684 taxa and 10386 sites
+
+Alignment comprises 6 partitions and 4276 patterns
+
+Partition 0: 16S
+Model: K81uf+FO+I+G4m+B
+Alignment sites / patterns: 1332 / 173
+Gaps: 0.00 %
+Invariant sites: 85.81 %
+
+Partition 1: atpD
+Model: TIM1+I+G4m+B
+Alignment sites / patterns: 1434 / 574
+Gaps: 0.00 %
+Invariant sites: 58.93 %
+
+Partition 2: gyrB
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 1926 / 1116
+Gaps: 0.23 %
+Invariant sites: 12.72 %
+
+Partition 3: recA
+Model: GTR+FO+G4m+B
+Alignment sites / patterns: 999 / 474
+Gaps: 0.09 %
+Invariant sites: 14.21 %
+
+Partition 4: rpoB
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 3474 / 1297
+Gaps: 0.10 %
+Invariant sites: 27.61 %
+
+Partition 5: trpB
+Model: TIM2+I+G4m+B
+Alignment sites / patterns: 1221 / 642
+Gaps: 0.01 %
+Invariant sites: 47.17 %
+
+
+NOTE: Binary MSA file created: ../output/tree/02_parse.raxml.rba
+
+* Estimated memory requirements                : 714 MB
+
+* Recommended number of threads / MPI processes: 9
+
+Please note that numbers given above are rough estimates only. 
+Actual memory consumption and parallel performance on your system may differ!
+
+Alignment can be successfully read by RAxML-NG.
+
+
+Execution log saved to: /users/xmb20196/MLSA_tree/MLSA/output/tree/02_parse.raxml.log
+
+Analysis started: 15-Sep-2023 14:15:58 / finished: 15-Sep-2023 14:15:59
+
+Elapsed time: 0.195 seconds
+
