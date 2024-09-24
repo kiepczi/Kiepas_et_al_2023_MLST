@@ -1,0 +1,14 @@
+2a56698e025cce13bd79148d2d0857ee	GCF_000590515.1_Streptomyces_sp._PRh5_version1.0_genomic	Streptomyces sp. PRh5 contig001, whole genome shotgun sequence
+6365757091bc7124703aa7ec36746224	GCF_001509775.1_ASM150977v1_genomic	Streptomyces violaceusniger strain NRRL F-8817 P361contig1.1, whole genome shotgun sequence
+f7e4c10bef0b04b4b019f819f4d78706	GCF_001598115.1_ASM159811v2_genomic	Streptomyces sp. AgN23 chromosome, complete genome
+37fcc27bb256a255aeaed9fd0a51bd4a	GCF_002154275.1_ASM215427v1_genomic	Streptomyces antimycoticus strain NRRL B-24289 NRRL_B_24289_contig_1, whole genome shotgun sequence
+77da3c91582a4ba1f308d4894087bf19	GCF_002155885.1_ASM215588v1_genomic	Streptomyces rhizosphaericus strain NRRL B-24304 NRRL_B-24304_contig_1, whole genome shotgun sequence
+d0f2c8454fd8107fd29f70e30305708f	GCF_003949695.1_ASM394969v1_genomic	Streptomyces sp. WAC05858 AA000102-100_WAC05858, whole genome shotgun sequence
+6b77b1db84668c2586bca835b23d6e9f	GCF_005405925.1_ASM540592v1_genomic	Streptomyces antimycoticus strain NBRC 12839 contig1, whole genome shotgun sequence
+fe34b33553f28cc6779a820ddb147dd0	GCF_005938145.1_ASM593814v1_genomic	Streptomyces sp. DASNCL29 1, whole genome shotgun sequence
+d4d86ab5d2792c167c5ba6d1c7caa6f4	GCF_009936315.1_ASM993631v1_genomic	Streptomyces antimycoticus strain NBRC 100767 chromosome
+34317a36ed666b9c5efbd3d1efaf3ec2	GCF_010892295.1_ASM1089229v1_genomic	Streptomyces rhizosphaericus strain 0250 scaffold1, whole genome shotgun sequence
+8600c8a188ba4594e657e47c7a88e48f	GCF_014076605.1_ASM1407660v1_genomic	Streptomyces sp. GMR22 contig00101, whole genome shotgun sequence
+a87f7128f435492761dff4e5f0093dca	GCF_017942185.1_ASM1794218v1_genomic	Streptomyces rhizosphaericus strain DSM 41760 DSM41760-2_1_1, whole genome shotgun sequence
+954e30637ede9092aac022a045b24348	GCF_018138705.1_ASM1813870v1_genomic	Streptomyces indonesiensis strain DSM 41759 DSM41759-1_1_1, whole genome shotgun sequence
+235b29d75d477d905f65066d68d41595	GCF_018138715.1_ASM1813871v1_genomic	Streptomyces asiaticus strain DSM 41761 DSM_41761_DNA2_1_1, whole genome shotgun sequence

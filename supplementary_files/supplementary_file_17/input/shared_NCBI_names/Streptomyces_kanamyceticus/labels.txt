@@ -1,0 +1,2 @@
+bee9bd324276ab63af2668e6cdee55d0	GCF_001418465.1_ASM141846v1_genomic	Streptomyces kanamyceticus strain NRRL B-2535 B-2535_contig_1, whole genome shotgun sequence
+5893f051345f9ce7133542d431b9cf36	GCF_008704495.1_ASM870449v1_genomic	Streptomyces kanamyceticus strain ATCC 12853 chromosome, complete genome

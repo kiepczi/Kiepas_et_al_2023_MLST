@@ -1,0 +1,5 @@
+	GCF_000718095.1 | Streptomyces scopuliridis NRRL B-24574 - ST 220:546	GCF_000725795.1 | Streptomyces seoulensis NRRL B-24310 - ST 326:547	GCF_003073355.1 | Streptomyces scopuliridis RB72 - ST 220:548	GCF_004328625.1 | Streptomyces seoulensis KCTC 9819 - ST 326:549
+GCF_000718095.1 | Streptomyces scopuliridis NRRL B-24574 - ST 220:546	1	229937	1328	230163
+GCF_000725795.1 | Streptomyces seoulensis NRRL B-24310 - ST 326:547	229937	1	228128	338
+GCF_003073355.1 | Streptomyces scopuliridis RB72 - ST 220:548	1328	228128	1	229209
+GCF_004328625.1 | Streptomyces seoulensis KCTC 9819 - ST 326:549	230163	338	229209	1

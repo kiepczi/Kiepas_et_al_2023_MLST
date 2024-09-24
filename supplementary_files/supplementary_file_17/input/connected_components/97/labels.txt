@@ -1,0 +1,2 @@
+6b60c3a596ad8e6ddc3ca817f68ba2de	GCF_014649135.1_ASM1464913v1_genomic	Streptomyces niveoruber strain JCM 4234 sequence01, whole genome shotgun sequence
+a4574399d70b0298bd3bdaa8ef95618c	GCF_014649475.1_ASM1464947v1_genomic	Streptomyces daghestanicus strain JCM 4365 sequence001, whole genome shotgun sequence

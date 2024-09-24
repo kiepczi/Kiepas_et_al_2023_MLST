@@ -1,0 +1,2 @@
+aad10b45b657bb7efa7e4ac87a5db920	GCF_001418395.1_ASM141839v1_genomic	GCF_001418395.1 | Streptomyces prasinopilosus NRRL B-24621 - ST 370
+302bb7228cdfb7a6ff027192ec1a578e	GCF_001419695.1_ASM141969v1_genomic	GCF_001419695.1 | Streptomyces prasinopilosus NRRL B-2711 - ST 373

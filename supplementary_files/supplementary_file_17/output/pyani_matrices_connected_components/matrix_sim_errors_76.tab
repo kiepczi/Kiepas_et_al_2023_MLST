@@ -1,0 +1,4 @@
+	GCF_002021875.1 | Streptomyces hygroscopicus XM201 - ST 430:566	GCF_003595545.1 | Streptomyces sp. 11-1-2 - ST 508:567	GCF_017592595.1 | Streptomyces sp. NEAU-YJ-81 - ST 754:568
+GCF_002021875.1 | Streptomyces hygroscopicus XM201 - ST 430:566	1	135023	249552
+GCF_003595545.1 | Streptomyces sp. 11-1-2 - ST 508:567	135023	1	246449
+GCF_017592595.1 | Streptomyces sp. NEAU-YJ-81 - ST 754:568	249552	246449	1

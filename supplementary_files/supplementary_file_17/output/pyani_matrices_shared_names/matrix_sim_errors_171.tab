@@ -1,0 +1,4 @@
+	GCF_015244315.1 | Streptomyces olivaceus SCSIO T05 - ST 725:750	GCF_015645455.1 | Streptomyces olivaceus NRRL B-3009 - ST 727:751	GCF_000721235.1 | Streptomyces olivaceus NRRL B-3009 - ST 195:761
+GCF_015244315.1 | Streptomyces olivaceus SCSIO T05 - ST 725:750	1	72720	161385
+GCF_015645455.1 | Streptomyces olivaceus NRRL B-3009 - ST 727:751	72720	1	158558
+GCF_000721235.1 | Streptomyces olivaceus NRRL B-3009 - ST 195:761	161385	158558	1

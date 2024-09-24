@@ -1,0 +1,5 @@
+	GCF_002804165.1 | Streptomyces cavourensis 1AS2a - ST 470:268	GCF_003352445.1 | Streptomyces cavourensis TJ430 - ST 500:276	GCF_006788935.1 | Streptomyces cavourensis DSM 41795 - ST 583:281	GCF_014649215.1 | Streptomyces cavourensis JCM 4298 - ST 583:301
+GCF_002804165.1 | Streptomyces cavourensis 1AS2a - ST 470:268	1	47355	47906	47598
+GCF_003352445.1 | Streptomyces cavourensis TJ430 - ST 500:276	47355	1	38856	38629
+GCF_006788935.1 | Streptomyces cavourensis DSM 41795 - ST 583:281	47906	38856	1	587
+GCF_014649215.1 | Streptomyces cavourensis JCM 4298 - ST 583:301	47598	38629	587	1

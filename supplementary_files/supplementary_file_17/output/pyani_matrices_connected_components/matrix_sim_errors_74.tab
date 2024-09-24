@@ -1,0 +1,4 @@
+	GCF_000725555.1 | Streptomyces erythrochromogenes NRRL B-2112 - ST 322:557	GCF_001531145.1 | Streptomyces sp. IMTB 1903 - ST 391:558	GCF_001953875.1 | Streptomyces amritsarensis MTCC 11845 - ST 427:559
+GCF_000725555.1 | Streptomyces erythrochromogenes NRRL B-2112 - ST 322:557	1	325447	329589
+GCF_001531145.1 | Streptomyces sp. IMTB 1903 - ST 391:558	325447	1	55937
+GCF_001953875.1 | Streptomyces amritsarensis MTCC 11845 - ST 427:559	329589	55937	1

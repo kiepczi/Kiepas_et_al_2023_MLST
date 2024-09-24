@@ -1,0 +1,2 @@
+700b58aea7e2ea00ca2fb3f4913122f9	GCF_000718525.1_ASM71852v1_genomic	Streptomyces griseus subsp. griseus strain NRRL B-2621 contig1.1, whole genome shotgun sequence
+918aef9b18a02c32f2b9a8be5df28b0c	GCF_000721035.1_ASM72103v1_genomic	Streptomyces griseus subsp. griseus strain NRRL B-2621 contig1.1, whole genome shotgun sequence

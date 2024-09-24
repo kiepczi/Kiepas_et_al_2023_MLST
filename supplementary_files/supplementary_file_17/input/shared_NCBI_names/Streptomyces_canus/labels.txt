@@ -1,0 +1,2 @@
+33d5a4e9ee1842cdd69b220856879c6e	GCF_001514045.1_ASM151404v1_genomic	Streptomyces canus strain DSM 40275 PRJNA299222_s001, whole genome shotgun sequence
+6204daa235f5426da7735ec4d59d953d	GCF_001514145.1_ASM151414v1_genomic	Streptomyces canus strain DSM 40017 PRJNA299229_s001, whole genome shotgun sequence

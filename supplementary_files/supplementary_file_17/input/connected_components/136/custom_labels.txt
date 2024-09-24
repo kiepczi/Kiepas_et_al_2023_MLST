@@ -1,0 +1,2 @@
+3620fd8bac99219af84f09c316e84392	GCF_000725785.1_Doro.v1.0_genomic	GCF_000725785.1 | Streptomyces flavovariabilis NRRL B-16367 - ST 173
+ee2bdce449a2a09d5daedde7d0e19320	GCF_000955965.1_ASM95596v1_genomic	GCF_000955965.1 | Streptomyces variegatus NRRL B-16380 - ST 173

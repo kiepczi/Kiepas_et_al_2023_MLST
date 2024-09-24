@@ -1,0 +1,4 @@
+	GCF_000718015.1 | Streptomyces catenulae NRRL B-2342 - ST 278:214	GCF_003865135.1 | Streptomyces chrestomyceticus NBRC 13444 - ST 519:215	GCF_003865155.1 | Streptomyces rimosus NBRC 15454 - ST 520:216
+GCF_000718015.1 | Streptomyces catenulae NRRL B-2342 - ST 278:214	1	332874	330612
+GCF_003865135.1 | Streptomyces chrestomyceticus NBRC 13444 - ST 519:215	332874	1	388425
+GCF_003865155.1 | Streptomyces rimosus NBRC 15454 - ST 520:216	330612	388425	1

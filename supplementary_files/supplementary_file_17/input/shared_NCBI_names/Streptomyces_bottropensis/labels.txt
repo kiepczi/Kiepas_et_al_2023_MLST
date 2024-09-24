@@ -1,0 +1,2 @@
+eafb0af086c76ac14495abf3095e2845	GCF_000340335.1_ASM34033v2_genomic	Streptomyces bottropensis ATCC 25435 Scaffold9, whole genome shotgun sequence
+403bd83b651f0b9c904766b29d9a6908	GCF_000383595.1_ASM38359v1_genomic	Streptomyces bottropensis ATCC 25435 StrboDRAFT_scaffold1.1, whole genome shotgun sequence

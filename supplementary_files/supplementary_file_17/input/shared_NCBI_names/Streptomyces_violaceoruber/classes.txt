@@ -1,0 +1,2 @@
+3152e7e5e3e9ec806e849e2c71f98716	GCF_000717845.1_ASM71784v1_genomic	Streptomyces violaceoruber strain NRRL S-12 contig1.1, whole genome shotgun sequence
+2843a0cd263d23a0146d424701fad5fc	GCF_002082175.1_ASM208217v1_genomic	Streptomyces violaceoruber strain S21 chromosome, complete genome

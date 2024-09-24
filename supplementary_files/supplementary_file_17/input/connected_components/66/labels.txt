@@ -1,0 +1,2 @@
+0ee2c4ec3820a438c15267d6004271ab	GCF_000716675.1_ASM71667v1_genomic	Streptomyces alboflavus strain NRRL B-2373 contig1.1, whole genome shotgun sequence
+3d02b6e70542670b3653f2d69e36a1a7	GCF_003935055.1_ASM393505v1_genomic	Streptomyces alboflavus strain 313 contig001, whole genome shotgun sequence

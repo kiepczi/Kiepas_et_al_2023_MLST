@@ -1,0 +1,2 @@
+6b60c3a596ad8e6ddc3ca817f68ba2de	GCF_014649135.1_ASM1464913v1_genomic	GCF_014649135.1 | Streptomyces niveoruber JCM 4234 - ST 703
+a4574399d70b0298bd3bdaa8ef95618c	GCF_014649475.1_ASM1464947v1_genomic	GCF_014649475.1 | Streptomyces daghestanicus JCM 4365 - ST 704

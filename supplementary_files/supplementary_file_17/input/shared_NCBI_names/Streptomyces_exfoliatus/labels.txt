@@ -1,0 +1,2 @@
+30591242b3290eb89c60df635012be2d	GCF_000718175.1_ASM71817v1_genomic	Streptomyces exfoliatus strain NRRL B-2924 contig1.1, whole genome shotgun sequence
+27f98243130229d821d9bbb102495e4e	GCF_000725545.1_Doro.v1.0_genomic	Streptomyces exfoliatus strain NRRL B-2924 contig1.1, whole genome shotgun sequence

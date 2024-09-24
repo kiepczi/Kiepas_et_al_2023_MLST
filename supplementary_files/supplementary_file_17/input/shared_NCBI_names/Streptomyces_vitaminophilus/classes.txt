@@ -1,0 +1,2 @@
+abcd60b0265625ca8c699dc1bd1a344b	GCF_000380165.1_ASM38016v1_genomic	Streptomyces vitaminophilus DSM 41686 A3IGDRAFT_scaffold_0.1, whole genome shotgun sequence
+1e48f51f0918f85678b2affd738be53c	GCF_001445835.1_ASM144583v1_genomic	Streptomyces vitaminophilus strain ATCC 31673 Contig0, whole genome shotgun sequence

@@ -1,0 +1,2 @@
+d89e0b89e998f6f77b9ef1d8a2fbb766	GCF_009829585.1_ASM982958v1_genomic	Streptomyces tendae strain UTMC 3329 Scaffold1, whole genome shotgun sequence
+0142540f5d7ad0fed6798f475a5c9dc4	GCF_014650435.1_ASM1465043v1_genomic	Streptomyces tendae strain JCM 4610 sequence001, whole genome shotgun sequence

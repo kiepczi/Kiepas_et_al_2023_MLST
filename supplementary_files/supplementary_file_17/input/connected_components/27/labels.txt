@@ -1,0 +1,2 @@
+57a96df066e8bb3d1b30821a723a7fe9	GCF_001445655.1_ASM144565v1_genomic	Streptomyces roseifaciens strain MBT76 scaffold_1, whole genome shotgun sequence
+b330f902ece9b81009a8f6e4e7613539	GCF_013394065.1_ASM1339406v1_genomic	Streptomyces rectiverticillatus strain B15-08 chromosome, complete genome

@@ -1,0 +1,3 @@
+24adc9268eb6a7d50434900c4de8f88d	GCF_000332625.1_STVIR_1.0_genomic	GCF_000332625.1 | Streptomyces viridochromogenes Tue57 - ST 250
+f35be2c8caf03505ab3f772ce46c4596	GCF_001270515.1_P002IDBA1_genomic	GCF_001270515.1 | Streptomyces viridochromogenes NRRL 3427 - ST 231
+c05b5160816cd25850294517ea37e685	GCF_002156055.1_ASM215605v1_genomic	GCF_002156055.1 | Streptomyces viridochromogenes NRRL B-24167 - ST 439

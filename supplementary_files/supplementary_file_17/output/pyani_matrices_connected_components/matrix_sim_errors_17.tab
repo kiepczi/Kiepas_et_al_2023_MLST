@@ -1,0 +1,4 @@
+	GCF_000716215.1 | Streptomyces resistomycificus NRRL ISP-5133 - ST 206:187	GCF_001270505.1 | Streptomyces resistomycificus NRRL 2290 - ST 206:188	GCF_001514265.1 | Streptomyces resistomycificus DSM 40133 - ST 206:189
+GCF_000716215.1 | Streptomyces resistomycificus NRRL ISP-5133 - ST 206:187	1	27707	26819
+GCF_001270505.1 | Streptomyces resistomycificus NRRL 2290 - ST 206:188	27707	1	1646
+GCF_001514265.1 | Streptomyces resistomycificus DSM 40133 - ST 206:189	26819	1646	1

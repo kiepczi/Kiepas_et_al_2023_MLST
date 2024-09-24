@@ -1,0 +1,4 @@
+	GCF_000696595.1 | Streptomyces leeuwenhoekii C34 - ST 186:524	GCF_001047315.1 | Streptomyces leeuwenhoekii C58 - ST 347:525	GCF_011008945.1 | Streptomyces sp. PRKS01-65 - ST 664:526
+GCF_000696595.1 | Streptomyces leeuwenhoekii C34 - ST 186:524	1	28320	316546
+GCF_001047315.1 | Streptomyces leeuwenhoekii C58 - ST 347:525	28320	1	282443
+GCF_011008945.1 | Streptomyces sp. PRKS01-65 - ST 664:526	316546	282443	1

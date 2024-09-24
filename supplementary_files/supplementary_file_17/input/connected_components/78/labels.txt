@@ -1,0 +1,2 @@
+a82d441c445eedfe7b0122355402cd6f	GCF_000719365.1_ASM71936v1_genomic	Streptomyces sp. NRRL S-1448 contig1.1, whole genome shotgun sequence
+a3bca331214807d447c958acaf1bbe6d	GCF_016741825.1_ASM1674182v1_genomic	Streptomyces sp. 9-7 strain CH9-7 1, whole genome shotgun sequence

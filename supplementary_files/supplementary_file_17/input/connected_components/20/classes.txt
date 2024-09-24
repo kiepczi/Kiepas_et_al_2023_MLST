@@ -1,0 +1,6 @@
+c067e6eb6bf96a17ac3b0e03e55d30b5	GCF_000253235.1_ASM25323v1_genomic	Streptomyces venezuelae ATCC 10712, complete sequence
+f6848ef7b5b08594a1b693b428c3c0aa	GCF_001418135.1_ASM141813v1_genomic	Streptomyces aureus strain NRRL B-2808 contig_1, whole genome shotgun sequence
+7658761d9c00db92b30bcb96c6cc1b07	GCF_001886595.1_ASM188659v1_genomic	Streptomyces venezuelae strain NRRL B-65442 chromosome
+0f022b6c0a979f82ff17c305b665295e	GCF_008639045.1_ASM863904v1_genomic	Streptomyces venezuelae strain ATCC 21113 chromosome, complete genome
+c72ef11d4e5787d57e3dbfdf2d000444	GCF_008639165.1_ASM863916v1_genomic	Streptomyces venezuelae ATCC 10712 chromosome, complete genome
+ff4fbc7c1104188d300e36b185a5c952	GCF_008705255.1_ASM870525v1_genomic	Streptomyces venezuelae strain ATCC 10595 chromosome, complete genome

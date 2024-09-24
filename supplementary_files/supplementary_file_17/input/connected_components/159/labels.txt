@@ -1,0 +1,2 @@
+0fad1c584027402f10e215056dccd0d3	GCF_000716445.1_ASM71644v1_genomic	Streptomyces wedmorensis strain NRRL 3426 contig1.1, whole genome shotgun sequence
+f35be2c8caf03505ab3f772ce46c4596	GCF_001270515.1_P002IDBA1_genomic	Streptomyces viridochromogenes strain NRRL 3427 P002contig1.1, whole genome shotgun sequence

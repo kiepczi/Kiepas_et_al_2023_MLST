@@ -1,0 +1,6 @@
+fb889f0477954cd8156bf17bc6ac9ab8	GCF_002188335.1_ASM218833v1_genomic	Streptomyces sp. CS159 scaffold00001, whole genome shotgun sequence
+79a8868740435d1b09d130cc16250fad	GCF_003112555.1_ASM311255v1_genomic	Streptomyces coelicoflavus strain NBRC 15399, whole genome shotgun sequence
+88addec0729f50385e34375322482ca9	GCF_010548385.1_ASM1054838v1_genomic	Streptomyces coelicoflavus strain SID14163 contig-0, whole genome shotgun sequence
+e323ec2e105ec50d70165bea2bc41596	GCF_010548435.1_ASM1054843v1_genomic	Streptomyces coelicoflavus strain SID14172 contig-0, whole genome shotgun sequence
+e704928d4bed0b2592edcbdc8441c227	GCF_010993835.1_ASM1099383v1_genomic	Streptomyces sp. OM5714 A912_AS4_SC05, whole genome shotgun sequence
+bc377db12e4463ed1116aaeca41ca8d7	GCF_011317205.1_ASM1131720v1_genomic	Streptomyces sp. KO7888 A913_AS4_SC08, whole genome shotgun sequence

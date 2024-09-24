@@ -1,0 +1,2 @@
+867207b3a2ae5abd1d33330f3dedefcc	GCF_000717025.1_ASM71702v1_genomic	Streptomyces atroolivaceus strain NRRL ISP-5137 contig1.1, whole genome shotgun sequence
+e4405ad8f78581026ea6ca94ffff6f66	GCF_016909575.1_ASM1690957v1_genomic	Streptomyces sp. HB132 Ga0467031_01, whole genome shotgun sequence

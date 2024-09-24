@@ -1,0 +1,4 @@
+	GCF_003933295.1 | Streptomyces griseofuscus 64 - ST 521:578	GCF_003933485.1 | Streptomyces griseofuscus 199 - ST 522:579	GCF_014673495.1 | Streptomyces griseofuscus DSM 40191 - ST 721:588
+GCF_003933295.1 | Streptomyces griseofuscus 64 - ST 521:578	1	31041	110454
+GCF_003933485.1 | Streptomyces griseofuscus 199 - ST 522:579	31041	1	109337
+GCF_014673495.1 | Streptomyces griseofuscus DSM 40191 - ST 721:588	110454	109337	1

@@ -1,0 +1,5 @@
+	GCF_000317595.1 | Streptomyces ipomoeae 91-03 - ST 248:446	GCF_006547165.1 | Streptomyces ipomoeae B12321 - ST 182:447	GCF_006547175.1 | Streptomyces ipomoeae 78-51 - ST 579:448	GCF_006547185.1 | Streptomyces ipomoeae 88-35 - ST 580:449
+GCF_000317595.1 | Streptomyces ipomoeae 91-03 - ST 248:446	1	97544	32901	41360
+GCF_006547165.1 | Streptomyces ipomoeae B12321 - ST 182:447	97544	1	103278	102901
+GCF_006547175.1 | Streptomyces ipomoeae 78-51 - ST 579:448	32901	103278	1	32040
+GCF_006547185.1 | Streptomyces ipomoeae 88-35 - ST 580:449	41360	102901	32040	1

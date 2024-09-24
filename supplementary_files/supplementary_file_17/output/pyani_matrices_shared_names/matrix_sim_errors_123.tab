@@ -1,0 +1,4 @@
+	GCF_002154275.1 | Streptomyces antimycoticus NRRL B-24289 - ST 94:535	GCF_005405925.1 | Streptomyces antimycoticus NBRC 12839 - ST 67:538	GCF_009936315.1 | Streptomyces antimycoticus NBRC 100767 - ST 95:540
+GCF_002154275.1 | Streptomyces antimycoticus NRRL B-24289 - ST 94:535	1	214367	210420
+GCF_005405925.1 | Streptomyces antimycoticus NBRC 12839 - ST 67:538	214367	1	123116
+GCF_009936315.1 | Streptomyces antimycoticus NBRC 100767 - ST 95:540	210420	123116	1

@@ -1,0 +1,4 @@
+	GCF_002261115.1 | Streptomyces kasugaensis BCRC 12349 - ST 446:443	GCF_004320085.1 | Streptomyces kasugaensis AM-2504 - ST 562:444	GCF_009862505.1 | Streptomyces sp. SID7805 - ST 625:445
+GCF_002261115.1 | Streptomyces kasugaensis BCRC 12349 - ST 446:443	1	111189	83643
+GCF_004320085.1 | Streptomyces kasugaensis AM-2504 - ST 562:444	111189	1	107040
+GCF_009862505.1 | Streptomyces sp. SID7805 - ST 625:445	83643	107040	1

@@ -1,0 +1,8 @@
+8c9c07f5512f06886bef728c34ded63b	GCF_000720215.1_ASM72021v1_genomic	Streptomyces sp. NRRL S-475 contig1.1, whole genome shotgun sequence
+755987e0267c160f2f0ef39904ecd5c3	GCF_000720505.1_ASM72050v1_genomic	Streptomyces sp. NRRL S-146 contig1.1, whole genome shotgun sequence
+ff6a7451d037307a2f68320212916c11	GCF_004803895.1_ASM480389v1_genomic	Streptomyces hawaiiensis strain ATCC 12236 chromosome, complete genome
+cc24408d441314f2a08d5cfb953e6e3d	GCF_009872555.1_ASM987255v1_genomic	Streptomyces sp. SID5643 SID5643.c1, whole genome shotgun sequence
+738df41ffe5f0c2fdf82237a51a5fd9c	GCF_014202475.1_ASM1420247v1_genomic	Streptomyces paradoxus strain DSM 43350 Ga0415310_01, whole genome shotgun sequence
+ee9fc8f51343ab33294997d68f416c93	GCF_014205055.1_ASM1420505v1_genomic	Streptomyces luteogriseus strain DSM 40483 Ga0104618_01, whole genome shotgun sequence
+6c0007f812b6cb4c3477b0f278a80521	GCF_014701095.1_ASM1470109v1_genomic	Streptomyces tuirus strain JCM 4255 chromosome
+6f1ac1246a594ce45563dbaa131a91cf	GCF_900215615.1_IMG-taxon_2738541359_annotated_assembly_genomic	Streptomyces sp. Ag82_G6-1, whole genome shotgun sequence

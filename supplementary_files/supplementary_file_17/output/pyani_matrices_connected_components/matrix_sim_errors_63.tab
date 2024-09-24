@@ -1,0 +1,4 @@
+	GCF_000722185.1 | Streptomyces sp. NRRL S-15 - ST 321:512	GCF_001294345.1 | Streptomyces sp. NRRL S-4 - ST 366:513	GCF_001700505.1 | Streptomyces mutomycini NRRL B-65393 - ST 29:514
+GCF_000722185.1 | Streptomyces sp. NRRL S-15 - ST 321:512	1	33504	47671
+GCF_001294345.1 | Streptomyces sp. NRRL S-4 - ST 366:513	33504	1	32960
+GCF_001700505.1 | Streptomyces mutomycini NRRL B-65393 - ST 29:514	47671	32960	1

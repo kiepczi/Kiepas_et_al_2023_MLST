@@ -1,0 +1,6 @@
+	GCF_001513985.1 | Streptomyces griseorubiginosus DSM 40125 - ST 386:372	GCF_001514195.1 | Streptomyces griseorubiginosus DSM 40469 - ST 123:373	GCF_003595235.1 | Streptomyces griseorubiginosus 3E-1 - ST 507:374	GCF_006516935.1 | Streptomyces griseorubiginosus BTU6 - ST 577:756	GCF_017614965.1 | Streptomyces griseorubiginosus MPMI3 - ST 755:757
+GCF_001513985.1 | Streptomyces griseorubiginosus DSM 40125 - ST 386:372	1	134297	123674	332833	625003
+GCF_001514195.1 | Streptomyces griseorubiginosus DSM 40469 - ST 123:373	134297	1	133482	333076	634964
+GCF_003595235.1 | Streptomyces griseorubiginosus 3E-1 - ST 507:374	123674	133482	1	328630	628249
+GCF_006516935.1 | Streptomyces griseorubiginosus BTU6 - ST 577:756	332833	333076	328630	1	620269
+GCF_017614965.1 | Streptomyces griseorubiginosus MPMI3 - ST 755:757	625003	634964	628249	620269	1

@@ -1,0 +1,2 @@
+3620fd8bac99219af84f09c316e84392	GCF_000725785.1_Doro.v1.0_genomic	Streptomyces flavovariabilis strain NRRL B-16367 contig1.1, whole genome shotgun sequence
+ee2bdce449a2a09d5daedde7d0e19320	GCF_000955965.1_ASM95596v1_genomic	Streptomyces variegatus strain NRRL B-16380 contig-0, whole genome shotgun sequence

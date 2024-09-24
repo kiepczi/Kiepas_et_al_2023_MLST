@@ -1,0 +1,3 @@
+165c28c781367055917868f21dd49d33	GCF_000716215.1_ASM71621v1_genomic	Streptomyces resistomycificus strain NRRL ISP-5133 P189_Doro1_scaffold1, whole genome shotgun sequence
+cce246a5c1b6b0d5d9f7426d93be0f63	GCF_001270505.1_ASM127050v1_genomic	Streptomyces resistomycificus strain NRRL 2290 P025contig1.1, whole genome shotgun sequence
+a031f1b2d7a22d57536cc020d568d247	GCF_001514265.1_ASM151426v1_genomic	Streptomyces resistomycificus strain DSM 40133 PRJNA299235_s001, whole genome shotgun sequence

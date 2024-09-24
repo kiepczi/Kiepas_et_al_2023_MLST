@@ -1,0 +1,2 @@
+aad10b45b657bb7efa7e4ac87a5db920	GCF_001418395.1_ASM141839v1_genomic	Streptomyces prasinopilosus strain NRRL B-24621 B24621_contig_1, whole genome shotgun sequence
+302bb7228cdfb7a6ff027192ec1a578e	GCF_001419695.1_ASM141969v1_genomic	Streptomyces prasinopilosus strain NRRL B-2711 B2711_contig_1, whole genome shotgun sequence

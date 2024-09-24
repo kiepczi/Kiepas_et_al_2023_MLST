@@ -1,0 +1,2 @@
+49114f88f931c3b2e15bbe7581b73206	GCF_000716685.1_ASM71668v1_genomic	Streptomyces virginiae strain NRRL B-8091 contig1.1, whole genome shotgun sequence
+055d713b988d71f25aaeacb86b40be8b	GCF_009865565.1_ASM986556v1_genomic	Streptomyces sp. SID1046 SID1046.c1, whole genome shotgun sequence

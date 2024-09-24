@@ -1,0 +1,2 @@
+379a7f8e3e0b27252fd3ef4c06d640b1	GCF_000725725.1_Doro.v1.0_genomic	Streptomyces xanthophaeus strain NRRL B-3004 contig1.1, whole genome shotgun sequence
+71bf7646551b7bcc1487c034906ac0c4	GCF_000725805.1_Doro.v1.0_genomic	Streptomyces xanthophaeus strain NRRL B-5414 Doro1_scaffold1, whole genome shotgun sequence

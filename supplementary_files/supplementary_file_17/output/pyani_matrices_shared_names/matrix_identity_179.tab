@@ -1,0 +1,4 @@
+	GCF_002155885.1 | Streptomyces rhizosphaericus NRRL B-24304 - ST 99:536	GCF_010892295.1 | Streptomyces rhizosphaericus 0250 - ST 662:541	GCF_017942185.1 | Streptomyces rhizosphaericus DSM 41760 - ST 99:543
+GCF_002155885.1 | Streptomyces rhizosphaericus NRRL B-24304 - ST 99:536	1.0	0.9696096272	0.9993282913
+GCF_010892295.1 | Streptomyces rhizosphaericus 0250 - ST 662:541	0.9696096272	1.0	0.9689216894
+GCF_017942185.1 | Streptomyces rhizosphaericus DSM 41760 - ST 99:543	0.9993282913	0.9689216894	1.0

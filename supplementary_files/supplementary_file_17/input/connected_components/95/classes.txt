@@ -1,0 +1,2 @@
+ec6dc67e47644a88331abc4556562f98	GCF_008016805.1_ASM801680v1_genomic	Streptomyces lavendulae strain YAKB-15 scaffold0.1, whole genome shotgun sequence
+de39eb0a870ca3d0a64b6e0eaae672a5	GCF_009862625.1_ASM986262v1_genomic	Streptomyces sp. SID69 SID69.c1, whole genome shotgun sequence

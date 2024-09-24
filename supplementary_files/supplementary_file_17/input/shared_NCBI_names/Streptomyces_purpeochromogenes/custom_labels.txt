@@ -1,0 +1,2 @@
+638d30391b58b84f62d1fb692ccc9591	GCF_000717965.1_ASM71796v1_genomic	GCF_000717965.1 | Streptomyces purpeochromogenes NRRL B-3012 - ST 2
+bfec44fcd74e1d9026edd34732f508ce	GCF_000718615.1_ASM71861v1_genomic	GCF_000718615.1 | Streptomyces purpeochromogenes NRRL ISP-5373 - ST 2

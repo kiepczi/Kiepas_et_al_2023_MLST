@@ -1,0 +1,4 @@
+	GCF_000385945.1 | Streptomyces fulvissimus DSM 40593 - ST 174:6	GCF_013364315.1 | Streptomyces fulvissimus NA06532 - ST 681:51	GCF_016772455.1 | Streptomyces fulvissimus DF - ST 745:56
+GCF_000385945.1 | Streptomyces fulvissimus DSM 40593 - ST 174:6	1.0	0.9742506247	0.9738815111
+GCF_013364315.1 | Streptomyces fulvissimus NA06532 - ST 681:51	0.9742506247	1.0	0.9934523074
+GCF_016772455.1 | Streptomyces fulvissimus DF - ST 745:56	0.9738815111	0.9934523074	1.0

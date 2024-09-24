@@ -1,0 +1,8 @@
+4f610b52d9d14da06fc742b87db77261	GCF_008124905.1_ASM812490v1_genomic	Streptomyces coelicolor strain A3(2) R4-mCherry-14 Ga0316150_101, whole genome shotgun sequence
+94d7e87af65c28ced78d04aee8089004	GCF_008124915.1_ASM812491v1_genomic	Streptomyces coelicolor A3(2) strain ICSSB 1010 Ga0316158_101, whole genome shotgun sequence
+b131b906ce40f41461bec8d155a55117	GCF_008124975.1_ASM812497v1_genomic	Streptomyces coelicolor strain A3(2) R4-mCherry-17 Ga0316153_101, whole genome shotgun sequence
+70e7042796eacf97db8f10d96a56a12d	GCF_008124985.1_ASM812498v1_genomic	Streptomyces coelicolor strain A3(2) R4-mCherry-15 Ga0316151_101, whole genome shotgun sequence
+0fdba036f58f6ed09b70b27195b38d96	GCF_008125035.1_ASM812503v1_genomic	Streptomyces coelicolor strain A3(2) R4-mCherry-18 Ga0316154_101, whole genome shotgun sequence
+56fe28b6253454150881979b640c0986	GCF_008931305.1_ASM893130v1_genomic	Streptomyces coelicolor A3(2) strain CFB_NBC_0001 chromosome, complete genome
+c797dc646ee4c3e0c6070978a70214f6	GCF_013307045.1_ASM1330704v1_genomic	Streptomyces coelicolor strain M1154/pAMX4 AA000553-10_Strain369, whole genome shotgun sequence
+6c9267a3cdecdf6bec9c61c97d12f24c	GCF_013317105.1_ASM1331710v1_genomic	Streptomyces coelicolor strain M1154/pAMX4/pGP1416 chromosome, complete genome

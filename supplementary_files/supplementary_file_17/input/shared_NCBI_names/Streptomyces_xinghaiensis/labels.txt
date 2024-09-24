@@ -1,0 +1,4 @@
+918ad5ed5f5a38c924d27f22d5382caf	GCF_000220705.2_ASM22070v2_genomic	Streptomyces xinghaiensis S187 chromosome, complete genome
+6a948f38c2ae056d593d632e4b2504b5	GCF_000700005.2_ASM70000v2_genomic	Streptomyces xinghaiensis strain ATCC 19609 contig1, whole genome shotgun sequence
+c9a4d87c2a2c595f489595dd3353daf4	GCF_002966105.1_ASM296610v1_genomic	Streptomyces xinghaiensis strain OlgR2-7A contig00001, whole genome shotgun sequence
+de7203d80322732102040ece6e6142e1	GCF_003122345.2_ASM312234v2_genomic	Streptomyces xinghaiensis strain OlgR contig1, whole genome shotgun sequence

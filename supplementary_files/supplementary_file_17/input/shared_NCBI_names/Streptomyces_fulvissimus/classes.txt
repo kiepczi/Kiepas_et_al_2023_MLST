@@ -1,0 +1,3 @@
+31145d3ebad6ca61417e258f1381c5dd	GCF_000385945.1_ASM38594v1_genomic	Streptomyces fulvissimus DSM 40593, complete sequence
+9bf5d6c9f3d3eafc5f1707b34da7fd53	GCF_013364315.1_ASM1336431v1_genomic	Streptomyces fulvissimus strain NA06532 chromosome, complete genome
+743c80d7d96abb549389413e3aed4e7e	GCF_016772455.1_ASM1677245v1_genomic	Streptomyces fulvissimus strain DF chromosome

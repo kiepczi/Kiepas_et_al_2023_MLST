@@ -1,0 +1,9 @@
+	GCF_008124905.1 | Streptomyces coelicolor A3(2) R4-mCherry-14 - ST 168:132	GCF_008124915.1 | Streptomyces coelicolor ICSSB 1010 - ST 168:133	GCF_008124975.1 | Streptomyces coelicolor A3(2) R4-mCherry-17 - ST 168:134	GCF_008124985.1 | Streptomyces coelicolor A3(2) R4-mCherry-15 - ST 168:135	GCF_008125035.1 | Streptomyces coelicolor A3(2) R4-mCherry-18 - ST 168:136	GCF_008931305.1 | Streptomyces coelicolor CFB_NBC_0001 - ST 168:137	GCF_013307045.1 | Streptomyces coelicolor M1154/pAMX4 - ST 168:140	GCF_013317105.1 | Streptomyces coelicolor M1154/pAMX4/pGP1416 - ST 168:141
+GCF_008124905.1 | Streptomyces coelicolor A3(2) R4-mCherry-14 - ST 168:132	1	204	138	79	201	381	481	316
+GCF_008124915.1 | Streptomyces coelicolor ICSSB 1010 - ST 168:133	204	1	222	225	285	315	436	253
+GCF_008124975.1 | Streptomyces coelicolor A3(2) R4-mCherry-17 - ST 168:134	138	222	1	30	163	289	410	223
+GCF_008124985.1 | Streptomyces coelicolor A3(2) R4-mCherry-15 - ST 168:135	79	225	30	1	177	291	412	227
+GCF_008125035.1 | Streptomyces coelicolor A3(2) R4-mCherry-18 - ST 168:136	201	285	163	177	1	376	498	310
+GCF_008931305.1 | Streptomyces coelicolor CFB_NBC_0001 - ST 168:137	381	315	289	291	376	1	433	360
+GCF_013307045.1 | Streptomyces coelicolor M1154/pAMX4 - ST 168:140	481	436	410	412	498	433	1	291
+GCF_013317105.1 | Streptomyces coelicolor M1154/pAMX4/pGP1416 - ST 168:141	316	253	223	227	310	360	291	1

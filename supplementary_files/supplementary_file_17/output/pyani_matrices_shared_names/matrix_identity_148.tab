@@ -1,0 +1,4 @@
+	GCF_000261345.2 | Streptomyces globisporus C-1027 - ST 245:245	GCF_003147545.1 | Streptomyces globisporus TFH56 - ST 338:274	GCF_000718455.1 | Streptomyces globisporus NRRL B-2709 - ST 283:755
+GCF_000261345.2 | Streptomyces globisporus C-1027 - ST 245:245	1.0	0.9613262533	0.9460771273
+GCF_003147545.1 | Streptomyces globisporus TFH56 - ST 338:274	0.9613262533	1.0	0.9463912352
+GCF_000718455.1 | Streptomyces globisporus NRRL B-2709 - ST 283:755	0.9460771273	0.9463912352	1.0

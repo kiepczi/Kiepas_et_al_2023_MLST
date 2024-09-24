@@ -1,0 +1,2 @@
+4c54d408c32debe6ee0cf7bac3b73a7f	GCF_002727115.1_ASM272711v1_genomic	Streptomyces cinnamoneus strain ATCC 21532 contig001, whole genome shotgun sequence
+8644a4b49c398ab712c4f4bd6598b69d	GCF_002939475.1_ASM293947v1_genomic	Streptomyces cinnamoneus strain DSM 41675 NODE_1_length_6463510_cov_311.439, whole genome shotgun sequence

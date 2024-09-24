@@ -1,0 +1,2 @@
+6b5ecb24fc32174c638219d31b82d311	GCF_002242805.1_ASM224280v1_genomic	GCF_002242805.1 | Streptomyces diastatochromogenes DSM 40608 - ST 444
+57a04c8c1d99ab34c31f940214f6e93b	GCF_900215565.1_IMG-taxon_2728369739_annotated_assembly_genomic	GCF_900215565.1 | Streptomyces sp. Ag109_G2-15 - ST 473

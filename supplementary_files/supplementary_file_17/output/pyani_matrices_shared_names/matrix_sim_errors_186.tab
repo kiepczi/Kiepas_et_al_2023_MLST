@@ -1,0 +1,4 @@
+	GCF_008704535.1 | Streptomyces subrutilus ATCC 27467 - ST 32:95	GCF_014650935.1 | Streptomyces subrutilus JCM 4834 - ST 32:96	GCF_001746425.1 | Streptomyces subrutilus 10-1-1 - ST 409:721
+GCF_008704535.1 | Streptomyces subrutilus ATCC 27467 - ST 32:95	1	608	477547
+GCF_014650935.1 | Streptomyces subrutilus JCM 4834 - ST 32:96	608	1	478029
+GCF_001746425.1 | Streptomyces subrutilus 10-1-1 - ST 409:721	477547	478029	1

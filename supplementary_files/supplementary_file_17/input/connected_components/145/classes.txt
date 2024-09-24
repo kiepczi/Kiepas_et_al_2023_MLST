@@ -1,0 +1,2 @@
+145a2f7b7ad4ca6f1650cdcc8baca31c	GCF_000716875.1_ASM71687v1_genomic	Streptomyces novaecaesareae strain NRRL B-1267 contig1.1, whole genome shotgun sequence
+4006881bfe68cbc4292aaf46ecd8552d	GCF_000717725.1_ASM71772v1_genomic	Streptomyces pyridomyceticus strain NRRL ISP-5024 contig1.1, whole genome shotgun sequence

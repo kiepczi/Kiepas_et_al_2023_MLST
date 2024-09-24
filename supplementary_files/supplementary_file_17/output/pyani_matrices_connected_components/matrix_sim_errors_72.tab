@@ -1,0 +1,5 @@
+	GCF_000332625.1 | Streptomyces viridochromogenes Tue57 - ST 250:550	GCF_001513975.1 | Streptomyces curacoi DSM 40107 - ST 385:551	GCF_018614185.1 | Streptomyces sp. ISL-24 - ST 773:552	GCF_018614355.1 | Streptomyces sp. ISL-22 - ST 773:553
+GCF_000332625.1 | Streptomyces viridochromogenes Tue57 - ST 250:550	1	196603	209874	209988
+GCF_001513975.1 | Streptomyces curacoi DSM 40107 - ST 385:551	196603	1	86532	86964
+GCF_018614185.1 | Streptomyces sp. ISL-24 - ST 773:552	209874	86532	1	1238
+GCF_018614355.1 | Streptomyces sp. ISL-22 - ST 773:553	209988	86964	1238	1

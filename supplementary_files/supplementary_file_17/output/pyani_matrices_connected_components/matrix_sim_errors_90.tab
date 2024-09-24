@@ -1,0 +1,7 @@
+	GCF_000220705.2 | Streptomyces xinghaiensis S187 - ST 233:637	GCF_000700005.2 | Streptomyces xinghaiensis ATCC 19609 - ST 266:638	GCF_001190165.1 | Streptomyces fradiae olg1-1 - ST 266:639	GCF_001756925.1 | Streptomyces fradiae Olg4R - ST 266:640	GCF_002966105.1 | Streptomyces xinghaiensis OlgR2-7A - ST 266:641	GCF_003122345.2 | Streptomyces xinghaiensis OlgR - ST 266:642
+GCF_000220705.2 | Streptomyces xinghaiensis S187 - ST 233:637	1	236828	234014	231119	236638	237005
+GCF_000700005.2 | Streptomyces xinghaiensis ATCC 19609 - ST 266:638	236828	1	563	882	301	225
+GCF_001190165.1 | Streptomyces fradiae olg1-1 - ST 266:639	234014	563	1	940	562	495
+GCF_001756925.1 | Streptomyces fradiae Olg4R - ST 266:640	231119	882	940	1	1060	970
+GCF_002966105.1 | Streptomyces xinghaiensis OlgR2-7A - ST 266:641	236638	301	562	1060	1	380
+GCF_003122345.2 | Streptomyces xinghaiensis OlgR - ST 266:642	237005	225	495	970	380	1

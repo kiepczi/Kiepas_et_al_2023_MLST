@@ -1,0 +1,7 @@
+63e0d232d4d116ddb9fe9172bddb7c03	GCF_000717745.1_ASM71774v1_genomic	GCF_000717745.1 | Streptomyces violens NRRL ISP-5597 - ST 274
+5babe34956ee26036dd2611d7335df70	GCF_002154415.1_ASM215441v1_genomic	GCF_002154415.1 | Streptomyces angustmyceticus NRRL B-2347 - ST 157
+3c6866c6d0c2cdb3156e1fbbfb7d8771	GCF_900102245.1_IMG-taxon_2671180083_annotated_assembly_genomic	GCF_900102245.1 | Streptomyces sp. KS_16 - ST 466
+5f40fa0e810e58c348b35e935720907d	GCF_900105235.1_IMG-taxon_2687453697_annotated_assembly_genomic	GCF_900105235.1 | Streptomyces sp. 2133.1 - ST 466
+236063f6f5e8ab134a35d25836a101b0	GCF_900105775.1_IMG-taxon_2684623030_annotated_assembly_genomic	GCF_900105775.1 | Streptomyces sp. 2112.3 - ST 466
+4db5c49f18e645bc1d435664f7a7f34f	GCF_900105915.1_IMG-taxon_2687453724_annotated_assembly_genomic	GCF_900105915.1 | Streptomyces sp. 2224.1 - ST 800
+02f1b59b5746c9147739d1de9816f938	GCF_900187385.1_IMG-taxon_2731639226_annotated_assembly_genomic	GCF_900187385.1 | Streptomyces sp. 2114.4 - ST 466

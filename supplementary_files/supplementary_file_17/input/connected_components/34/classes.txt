@@ -1,0 +1,4 @@
+e67a0acfbaed488d0712b1bb83f6ac01	GCF_000717595.1_ASM71759v1_genomic	Streptomyces flavochromogenes strain NRRL B-2684 contig1.1, whole genome shotgun sequence
+2509f674b0490d6aefd30495c0a6d27b	GCF_001905825.1_ASM190582v1_genomic	Streptomyces sp. CB02009 scaffold1, whole genome shotgun sequence
+838712c3b5dc3140e2c598bccf6a54d5	GCF_008042145.1_ASM804214v1_genomic	Streptomyces sp. adm13(2018) Scaffold_1, whole genome shotgun sequence
+7eaca0097dbdc06eb14fb45c490f2e14	GCF_017877015.1_ASM1787701v1_genomic	Streptomyces sp. PvR006 Ga0438199_01, whole genome shotgun sequence

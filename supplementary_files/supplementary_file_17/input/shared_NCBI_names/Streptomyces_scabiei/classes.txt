@@ -1,0 +1,10 @@
+0ed688e75383b21f900420ef60d4994a	GCF_000738715.1_ASM73871v1_genomic	Streptomyces scabiei strain NCPPB 4066 scf_64917_1.1, whole genome shotgun sequence
+9987d803716bd9883bd182537835d808	GCF_001005405.1_ASM100540v1_genomic	Streptomyces scabiei strain NRRL B-16523 B16523_contig_1, whole genome shotgun sequence
+4df3632c08059242051fbab9eac7fc7b	GCF_001485125.1_ASM148512v1_genomic	Streptomyces scabiei strain S58, whole genome shotgun sequence
+b75d946ff8f1e58649091357259e4d50	GCF_001550215.1_ASM155021v1_genomic	Streptomyces scabiei strain 85-08 8508_1.1, whole genome shotgun sequence
+f29029e265c09090e0c6af34790000c3	GCF_001550225.1_ASM155022v1_genomic	Streptomyces scabiei strain 95-18 9518_1.1, whole genome shotgun sequence
+4fdb15301b2ba6bf13202cc0fb81ba9d	GCF_001550245.1_ASM155024v1_genomic	Streptomyces scabiei strain 84-34 8434_1.1, whole genome shotgun sequence
+6d247f2cf8f64acd76d3b42371752e1f	GCF_001550295.1_ASM155029v1_genomic	Streptomyces scabiei strain 96-15 9615_1.1, whole genome shotgun sequence
+87e65411a6ac4a653a0cfef4ff96e1c6	GCF_001572115.1_ASM157211v1_genomic	Streptomyces scabiei strain 84-232 NODE_1070, whole genome shotgun sequence
+ce23eab0d08f513389b604b4dffe630d	GCF_001579685.1_ASM157968v1_genomic	Streptomyces scabiei strain 96-06 9606_1001.1.1, whole genome shotgun sequence
+06a61670508c9eb2ccf0f3769379596d	GCF_003584815.1_ASM358481v1_genomic	Streptomyces scabiei strain ST129 NODE_1000_length_1814_cov_35.8931_ID_2001, whole genome shotgun sequence

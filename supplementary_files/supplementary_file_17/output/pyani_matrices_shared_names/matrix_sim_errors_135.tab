@@ -1,0 +1,4 @@
+	GCF_009299385.1 | Streptomyces cinereoruber ATCC 19740 - ST 610:563	GCF_011758705.1 | Streptomyces cinereoruber DSM 41512 - ST 610:564	GCF_014197485.1 | Streptomyces cinereoruber NRRL ISP-5012 - ST 610:565
+GCF_009299385.1 | Streptomyces cinereoruber ATCC 19740 - ST 610:563	1	97	145
+GCF_011758705.1 | Streptomyces cinereoruber DSM 41512 - ST 610:564	97	1	112
+GCF_014197485.1 | Streptomyces cinereoruber NRRL ISP-5012 - ST 610:565	145	112	1

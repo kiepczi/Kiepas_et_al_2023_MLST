@@ -1,0 +1,4 @@
+	GCF_000720455.1 | Streptomyces virginiae NRRL ISP-5094 - ST 18:70	GCF_000716685.1 | Streptomyces virginiae NRRL B-8091 - ST 271:643	GCF_001270565.1 | Streptomyces virginiae NRRL B-1447 - ST 351:719
+GCF_000720455.1 | Streptomyces virginiae NRRL ISP-5094 - ST 18:70	1	591156	597953
+GCF_000716685.1 | Streptomyces virginiae NRRL B-8091 - ST 271:643	591156	1	514473
+GCF_001270565.1 | Streptomyces virginiae NRRL B-1447 - ST 351:719	597953	514473	1

@@ -1,0 +1,2 @@
+48767fde0c4e5a13ff59c8e42b4436ff	GCF_000696595.1_StrepLeeu1.0_genomic	Streptomyces leeuwenhoekii strain C34 c34_sequence_0001, whole genome shotgun sequence
+93ed8317aa916684a20b14ee9268496a	GCF_001047315.1_ASM104731v1_genomic	Streptomyces leeuwenhoekii strain C58 contig1, whole genome shotgun sequence

@@ -1,0 +1,4 @@
+	GCF_014203535.1 | Streptomyces griseostramineus CECT 3273 - ST 693:743	GCF_014649595.1 | Streptomyces griseomycini JCM 4382 - ST 707:744	GCF_014649635.1 | Streptomyces griseostramineus JCM 4385 - ST 693:745
+GCF_014203535.1 | Streptomyces griseostramineus CECT 3273 - ST 693:743	1	21228	6867
+GCF_014649595.1 | Streptomyces griseomycini JCM 4382 - ST 707:744	21228	1	26116
+GCF_014649635.1 | Streptomyces griseostramineus JCM 4385 - ST 693:745	6867	26116	1

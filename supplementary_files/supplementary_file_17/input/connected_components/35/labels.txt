@@ -1,0 +1,4 @@
+6aef4e919399ec72da9e7f0185746b5b	GCF_001417695.1_ASM141769v1_genomic	Streptomyces sp. JHA19, whole genome shotgun sequence
+1b4396f3207d946af66372e068528696	GCF_003074055.1_ASM307405v1_genomic	Streptomyces nigra strain 452 chromosome, complete genome
+0ebd0785d16b549fb4b5d2ce956d1819	GCF_003363195.1_ASM336319v1_genomic	Streptomyces sp. M7 Contig_1, whole genome shotgun sequence
+78da387c092614dd65644d4cc1765bb1	GCF_018070255.1_ASM1807025v1_genomic	Streptomyces sp. RK62 RK62_contig_1, whole genome shotgun sequence

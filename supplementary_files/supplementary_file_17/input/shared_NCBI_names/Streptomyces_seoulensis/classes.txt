@@ -1,0 +1,2 @@
+428940506f0548de5ba37cd1fa83a219	GCF_000725795.1_Doro.v1.0_genomic	Streptomyces seoulensis strain NRRL B-24310 contig1.1, whole genome shotgun sequence
+f9913fcc15dbebe73e033e960ce81277	GCF_004328625.1_ASM432862v1_genomic	Streptomyces seoulensis strain KCTC 9819 chromosome, complete genome

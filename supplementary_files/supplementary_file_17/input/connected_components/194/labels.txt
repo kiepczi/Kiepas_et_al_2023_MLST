@@ -1,0 +1,2 @@
+2bab91338ad3072f6b08983641e18d59	GCF_001640565.1_ASM164056v1_genomic	Streptomyces sp. RTd22 LGO_SPS1_AS3_CO001, whole genome shotgun sequence
+08ad7a568e631c9740d2fc4dacfe827b	GCF_001650215.1_ASM165021v1_genomic	Streptomyces sp. RTd22 chromosome, complete genome

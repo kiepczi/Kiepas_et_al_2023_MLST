@@ -1,0 +1,5 @@
+	GCF_001008135.1 | Streptomyces stelliscabiei NRRL B-24447 - ST 344:689	GCF_001189035.1 | Streptomyces stelliscabiei P3825 - ST 344:690	GCF_014873495.1 | Streptomyces stelliscabiei DSM 41803 - ST 344:691	GCF_900215595.1 | Streptomyces sp. 1222.2 - ST 804:692
+GCF_001008135.1 | Streptomyces stelliscabiei NRRL B-24447 - ST 344:689	1	18434	5362	33573
+GCF_001189035.1 | Streptomyces stelliscabiei P3825 - ST 344:690	18434	1	16985	48571
+GCF_014873495.1 | Streptomyces stelliscabiei DSM 41803 - ST 344:691	5362	16985	1	34252
+GCF_900215595.1 | Streptomyces sp. 1222.2 - ST 804:692	33573	48571	34252	1

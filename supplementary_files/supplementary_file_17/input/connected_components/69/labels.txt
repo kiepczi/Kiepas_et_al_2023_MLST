@@ -1,0 +1,2 @@
+010c0ae0eefebb91c0482d3eab4acd79	GCF_000717055.1_ASM71705v1_genomic	Streptomyces iakyrus strain NRRL ISP-5482 contig1.1, whole genome shotgun sequence
+cace045ebec2403bb20673064d0a4b7c	GCF_003041235.1_ASM304123v1_genomic	Streptomyces sp. A244 contig1, whole genome shotgun sequence

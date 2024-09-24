@@ -1,0 +1,2 @@
+52608dcba0307fb58af91a67f2524bdc	GCF_014138735.1_ASM1413873v1_genomic	Streptomyces calvus strain CECT 3271 Ga0436947_01, whole genome shotgun sequence
+d0a6b80e0a61b82b5d89787fc9cb6d59	GCF_014649315.1_ASM1464931v1_genomic	Streptomyces calvus strain JCM 4326 sequence01, whole genome shotgun sequence

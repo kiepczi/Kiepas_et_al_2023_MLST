@@ -1,0 +1,4 @@
+	GCF_001270515.1 | Streptomyces viridochromogenes NRRL 3427 - ST 231:202	GCF_000332625.1 | Streptomyces viridochromogenes Tue57 - ST 250:550	GCF_002156055.1 | Streptomyces viridochromogenes NRRL B-24167 - ST 439:764
+GCF_001270515.1 | Streptomyces viridochromogenes NRRL 3427 - ST 231:202	1.0	0.8543045783000001	0.8551697564
+GCF_000332625.1 | Streptomyces viridochromogenes Tue57 - ST 250:550	0.8543045783000001	1.0	0.8779196111
+GCF_002156055.1 | Streptomyces viridochromogenes NRRL B-24167 - ST 439:764	0.8551697564	0.8779196111	1.0

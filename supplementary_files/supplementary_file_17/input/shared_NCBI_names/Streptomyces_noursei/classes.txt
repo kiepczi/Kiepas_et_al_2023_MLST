@@ -1,0 +1,2 @@
+f6d1a0800de81059d244c9426bef9506	GCF_002891315.1_ASM289131v1_genomic	Streptomyces noursei strain JCM 4701 scaffold1, whole genome shotgun sequence
+5ed0e42d8c4da1ce0ae78cf3023e8f42	GCF_016917755.1_ASM1691775v1_genomic	Streptomyces noursei strain A-2-1 chromosome, complete genome
