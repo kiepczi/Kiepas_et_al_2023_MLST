@@ -133,7 +133,7 @@ Here you can find a list of all supplementary files provided in this repository,
 
 **Supplementary File 30**. ANIm genome identity analysis of genomes found in the same group of connected STs. Genome identity scatter plots for all connected components comprising of at least two sequenced genomes with the numbers at the top of each plots correspond to the number of unique species names found in a connected component. Within genus comparisons (>=50% genome identity) are shown in orange, whereas between genus comparisons (>50% genome identity) are shown in purple. The red horizontal line indicates the whole-genome species threshold (95%). (PDF 1.1MB)
 
-**Supplementary File 31**.  Multiple STs are used to describe single Streptomyces species (>=50% genome coverage; >95% genome identity). (PDF 9KB)
+**Supplementary File 31**.  Multiple STs are used to describe single Streptomyces species (>=50% genome coverage; >=95% genome identity). (PDF 9KB)
 
 **Supplementary File 32**.  Multiple NCBI names are used to describe single Streptomyces species (>=50% genome coverage; >=95% genome identity). (PDF 8KB)
 
