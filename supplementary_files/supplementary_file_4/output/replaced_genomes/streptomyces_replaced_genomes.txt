@@ -1,0 +1,9 @@
+FILE	SCHEME	ST	16S	atpD	gyrB	recA	rpoB	trpB
+supplementary_files/supplementary_file_2/data/streptomyces_replaced_genomes/GCF_000612545.2/GCF_000612545.2_ASM61254v2_genomic.gbff	scheme_round_6	-	603,603,603,603,603,603,603	718	529	771	739	648
+supplementary_files/supplementary_file_2/data/streptomyces_replaced_genomes/GCF_001636945.2/GCF_001636945.2_ASM163694v2_genomic.gbff	scheme_round_6	-	430,430	505	720	538	257?	888
+supplementary_files/supplementary_file_2/data/streptomyces_replaced_genomes/GCF_002224125.2/GCF_002224125.2_ASM222412v2_genomic.gbff	scheme_round_6	456	586	696	509	744	715	627
+supplementary_files/supplementary_file_2/data/streptomyces_replaced_genomes/GCF_002879675.3/GCF_002879675.3_ASM287967v3_genomic.gbff	scheme_round_6	-	194,194,194,194,312	760	300	401	243	977
+supplementary_files/supplementary_file_2/data/streptomyces_replaced_genomes/GCF_003268535.2/GCF_003268535.2_ASM326853v2_genomic.gbff	scheme_round_6	-	614,614,614	730	-	784	826?	-
+supplementary_files/supplementary_file_2/data/streptomyces_replaced_genomes/GCF_003947265.2/GCF_003947265.2_ASM394726v2_genomic.gbff	scheme_round_6	-	293,293,293,293,293	359	288	379	373	338
+supplementary_files/supplementary_file_2/data/streptomyces_replaced_genomes/GCF_012184365.2/GCF_012184365.2_ASM1218436v2_genomic.gbff	scheme_round_6	-	5,5,5,5,5,87	5	5	5	36	601
+supplementary_files/supplementary_file_2/data/streptomyces_replaced_genomes/GCF_014852565.2/GCF_014852565.2_ASM1485256v2_genomic.gbff	scheme_round_6	-	278,278,278,278	342	665	356	355	-
