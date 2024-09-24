@@ -1,0 +1,16 @@
+biopython
+matplotlib
+numpy
+pandas
+ncbi-genome-download
+blast==2.6.0
+mafft
+t-coffee
+trimal
+modeltest-ng
+raxml-ng
+seaborn
+networkx
+plotly
+statsmodels
+kaleido
